@@ -1,46 +1,46 @@
-# name: schedule
+name: schedule
 
-# on:
-#   schedule:
-#     # 每小时整点执行
-#     - cron: "0 * * * *"
+on:
+  schedule:
+    # 每小时整点执行
+    - cron: "0 * * * *"
 
-# jobs:
-#   build:
-#     runs-on: ubuntu-latest
-#     env:
-#       TZ: Asia/Shanghai
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
 
-#     steps:
-#       # 克隆仓库
-#       - name: Clone repo
-#         uses: actions/checkout@v2
+    steps:
+      # 克隆仓库
+      - name: Clone repo
+        uses: actions/checkout@v2
 
-#       # 配置python环境
-#       - name: Set up Python
-#         uses: actions/setup-python@v2
-#         with:
-#           python-version: "3.8"
+      # 配置python环境
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.8"
 
-#       # 安装python依赖
-#       - name: Install dependencies
-#         run: |
-#           python -m pip install --upgrade pip
-#           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-#       # 配置git
-#       - name: Config git
-#         run: |
-#           git config --local user.email "lonnyzhang423@gmail.com"
-#           git config --local user.name "lonnyzhang423"
-#           git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
-#           git pull --rebase
-#       # 运行
-#       - name: Run python
-#         run: python main.py
+      # 安装python依赖
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      # 配置git
+      - name: Config git
+        run: |
+          git config --local user.email "lonnyzhang423@gmail.com"
+          git config --local user.name "lonnyzhang423"
+          git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
+          git pull --rebase
+      # 运行
+      - name: Run python
+        run: python main.py
 
-#       # 更新仓库
-#       - name: Update repo
-#         run: |
-#           git add .
-#           git commit -m "auto update"
-#           git push -u origin main
+      # 更新仓库
+      - name: Update repo
+        run: |
+          git add .
+          git commit -m "auto update"
+          git push -u origin main
