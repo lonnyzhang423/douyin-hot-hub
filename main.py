@@ -197,7 +197,6 @@ def generate_brand_md(brand_map: map):
     """
     def brand(item):
         name = item['name']
-        logo_url = item['logo_url']['uri']
         key = urllib.parse.quote(name)
         search_url = 'https://www.baidu.com/s?wd={}'.format(key)
         return '1. [{}]({})'.format(name, search_url)
@@ -269,4 +268,7 @@ def run():
 
 
 if __name__ == "__main__":
-    run()
+    try:
+        run()
+    except:
+        logger.exception('run failed')

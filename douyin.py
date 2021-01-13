@@ -666,8 +666,9 @@ if __name__ == "__main__":
     # items, text = dy.get_brand_category()
     # logger.info('len:%s items:%s', len(items), items[-1])
 
-    # items, text = dy.get_hot_brand(category=1)
-    # logger.info('len:%s items:%s', len(items), items[0])
+    items, text = dy.get_hot_brand(category=10)
+    for item in items:
+        logger.info('item:%s', item)
 
     # items, text = dy.get_hot_music()
     # logger.info('len:%s items:%s', len(items), items[0])
