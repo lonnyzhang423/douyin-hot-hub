@@ -1,6 +1,5 @@
 import contextlib
 import json
-import traceback
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -79,7 +78,7 @@ class Douyin:
                 word_list = obj['data']['word_list']
                 items = [item for item in word_list]
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get hot search failed')
         return (items, resp)
 
     def get_hot_star(self):
@@ -133,7 +132,7 @@ class Douyin:
                 user_list = obj['user_list']
                 items = [item for item in user_list]
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get hot star failed')
         return (items, resp)
 
     def get_hot_live(self):
@@ -435,7 +434,7 @@ class Douyin:
                 ranks = obj['data']['ranks']
                 items = [item for item in ranks]
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get hot live failed')
         return (items, resp)
 
     def get_brand_category(self):
@@ -454,7 +453,7 @@ class Douyin:
                 category_list = obj['category_list']
                 items = [item for item in category_list]
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get brand category failed')
         return (items, resp)
 
     def get_hot_brand(self, category: int):
@@ -490,7 +489,7 @@ class Douyin:
                 brand_list = obj['brand_list']
                 items = [item for item in brand_list]
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get hot brand failed')
         return (items, resp)
 
     def get_hot_music(self):
@@ -658,7 +657,7 @@ class Douyin:
                 music_list = obj['music_list']
                 items = [item for item in music_list]
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get hot music failed')
         return (items, resp)
 
 
@@ -671,4 +670,4 @@ if __name__ == "__main__":
     # logger.info('len:%s items:%s', len(items), items[0])
 
     # items, text = dy.get_hot_music()
-    # logger.info('len:%s items:%s', len(items), items[0]) 
+    # logger.info('len:%s items:%s', len(items), items[0])

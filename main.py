@@ -1,7 +1,5 @@
-import json
 import os
 import time
-import traceback
 import urllib
 
 from requests import Response
