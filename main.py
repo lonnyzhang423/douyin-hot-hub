@@ -167,7 +167,7 @@ def save_archive_md(md):
     util.write_text(file, md)
 
 
-def saveRawResponse(resp: Response, filename: str):
+def save_raw_response(resp: Response, filename: str):
     """保存原始响应内容
     """
     if resp:
@@ -179,7 +179,7 @@ def saveRawResponse(resp: Response, filename: str):
         util.write_text(file, content)
 
 
-def saveBrandRawResponse(resp: Response, category: str):
+def save_brand_raw_response(resp: Response, category: str):
     """保存品牌榜响应内容
     """
     if resp:
@@ -242,7 +242,7 @@ def get_all_brands(dy: Douyin):
     """热门品牌
     """
     categories, resp = dy.get_brand_category()
-    saveRawResponse(resp, 'brand-category')
+    save_raw_response(resp, 'brand-category')
     time.sleep(1)
 
     brand_map = {}
@@ -251,7 +251,7 @@ def get_all_brands(dy: Douyin):
         cname = category['name']
         cid = int(category['id'])
         brands, resp = dy.get_hot_brand(cid)
-        saveBrandRawResponse(resp, cname)
+        save_brand_raw_response(resp, cname)
         brand_map[cname] = brands
         time.sleep(1)
 
@@ -263,19 +263,19 @@ def run():
     dy = Douyin()
     # 热搜
     searches, resp = dy.get_hot_search()
-    saveRawResponse(resp, 'hot-search')
+    save_raw_response(resp, 'hot-search')
     time.sleep(1)
     # 明星
     stars, resp = dy.get_hot_star()
-    saveRawResponse(resp, 'hot-star')
+    save_raw_response(resp, 'hot-star')
     time.sleep(1)
     # 直播
     lives, resp = dy.get_hot_live()
-    saveRawResponse(resp, 'hot-live')
+    save_raw_response(resp, 'hot-live')
     time.sleep(1)
     # 音乐
     musics, resp = dy.get_hot_music()
-    saveRawResponse(resp, 'hot-music')
+    save_raw_response(resp, 'hot-music')
     time.sleep(1)
     # 品牌
     brands = get_all_brands(dy)
