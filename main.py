@@ -9,7 +9,7 @@ from douyin import Douyin
 from util import logger
 
 
-def generate_archive_md(searches, stars, lives, musics):
+def generate_archive_md(searches, stars, lives, musics, brands):
     """生成今日readme
     """
     def search(item):
@@ -61,28 +61,28 @@ def generate_archive_md(searches, stars, lives, musics):
     musicMd = '暂无数据'
     if musics:
         musicMd = '\n'.join([music(item) for item in musics])
+
+    brandsMd = '暂无数据'
+    if brands:
+        brandsMd = generate_brand_table_md(brands)
 
     readme = ''
     file = os.path.join('template', 'archive.md')
     with open(file) as f:
         readme = f.read()
 
-    today = util.current_date()
     now = util.current_time()
     readme = readme.replace("{updateTime}", now)
     readme = readme.replace("{searches}", searchMd)
     readme = readme.replace("{stars}", starMd)
     readme = readme.replace("{lives}", liveMd)
     readme = readme.replace("{musics}", musicMd)
-
-    filename = '{}-brand.md'.format(today)
-    brandMd = '[{}]({})'.format(filename, filename)
-    readme = readme.replace("{brands}", brandMd)
+    readme = readme.replace("{brands}", brandsMd)
 
     return readme
 
 
-def generate_readme(searches, stars, lives, musics):
+def generate_readme(searches, stars, lives, musics, brands):
     """生成今日readme
     """
     def search(item):
@@ -135,23 +135,22 @@ def generate_readme(searches, stars, lives, musics):
     if musics:
         musicMd = '\n'.join([music(item) for item in musics])
 
+    brandsMd = '暂无数据'
+    if brands:
+        brandsMd = generate_brand_table_md(brands)
+
     readme = ''
     file = os.path.join('template', 'README.md')
     with open(file) as f:
         readme = f.read()
 
-    today = util.current_date()
     now = util.current_time()
     readme = readme.replace("{updateTime}", now)
     readme = readme.replace("{searches}", searchMd)
     readme = readme.replace("{stars}", starMd)
     readme = readme.replace("{lives}", liveMd)
     readme = readme.replace("{musics}", musicMd)
-
-    filename = '{}-brand.md'.format(today)
-    file = os.path.join('archives', filename)
-    brandMd = '[{}]({})'.format(filename, file)
-    readme = readme.replace("{brands}", brandMd)
+    readme = readme.replace("{brands}", brandsMd)
 
     return readme
 
@@ -192,49 +191,71 @@ def saveBrandRawResponse(resp: Response, category: str):
         util.write_text(file, content)
 
 
-def generate_brand_md(brand_map: map):
+def generate_brand_table_md(brand_map: map):
     """品牌榜md
     """
-    def brand(item):
+    fake_brand = {'name': '-'}
+
+    def column(item):
+        if item is fake_brand:
+            return fake_brand['name']
+
         name = item['name']
         key = urllib.parse.quote(name)
         search_url = 'https://www.baidu.com/s?wd={}'.format(key)
-        return '1. [{}]({})'.format(name, search_url)
+        return '[{}]({})'.format(name, search_url)
 
-    md = '# 品牌榜单\n\n`最后更新时间：{updateTime}`\n\n'
-    md = md.replace("{updateTime}", util.current_time())
+    def ensure_same_len(brand_map: map):
+        max_len = 0
+        for category in brand_map:
+            max_len = max(max_len, len(brand_map[category]))
+        for category in brand_map:
+            brands: list = brand_map[category]
+            if len(brands) < max_len:
+                brands.extend([fake_brand for _ in range(max_len-len(brands))])
+        return max_len
 
+    # 确保品牌列表长度相同
+    max_len = ensure_same_len(brand_map)
+
+    # 表头
+    table_header = '|'
     for category in brand_map:
-        items = brand_map[category]
-        group = '## {category}\n\n{brands}\n\n'
-        brands = '暂无数据'
-        if items:
-            brands = '\n'.join([brand(item) for item in items])
-        group = group.replace('{category}', category)
-        group = group.replace('{brands}', brands)
-        md += group
+        table_header += ' {} |'.format(category)
+    table_header += '\n'
+    table_header += '|'
+    for _ in range(len(brand_map)):
+        table_header += ' --- |'
+    # 表行
+    table_rows = ''
+    for i in range(max_len):
+        row = '|'
+        for category in brand_map:
+            brands: list = brand_map[category]
+            row += ' {} |'.format(column(brands[i]))
+        table_rows += row + '\n'
 
-    return md
+    return table_header + '\n' + table_rows
 
 
-def handle_hot_brands(dy: Douyin):
+def get_all_brands(dy: Douyin):
     """热门品牌
     """
     categories, resp = dy.get_brand_category()
     saveRawResponse(resp, 'brand-category')
     time.sleep(1)
+
     brand_map = {}
     for category in categories:
-        id = category['id']
-        category = category['name']
-        brands, resp = dy.get_hot_brand(int(id))
+        # 分类名称
+        cname = category['name']
+        cid = int(category['id'])
+        brands, resp = dy.get_hot_brand(cid)
+        saveBrandRawResponse(resp, cname)
+        brand_map[cname] = brands
         time.sleep(1)
-        saveBrandRawResponse(resp, category)
-        brand_map[category] = brands
-    md = generate_brand_md(brand_map)
-    filename = '{}-brand.md'.format(util.current_date())
-    file = os.path.join('archives', filename)
-    util.write_text(file, md)
+
+    return brand_map
 
 
 def run():
@@ -256,14 +277,15 @@ def run():
     musics, resp = dy.get_hot_music()
     saveRawResponse(resp, 'hot-music')
     time.sleep(1)
-    # 品牌单独归档
-    handle_hot_brands(dy)
+    # 品牌
+    brands = get_all_brands(dy)
+    time.sleep(1)
 
     # 最新数据
-    todayMd = generate_readme(searches, stars, lives, musics)
+    todayMd = generate_readme(searches, stars, lives, musics, brands)
     save_readme(todayMd)
     # 归档
-    archiveMd = generate_archive_md(searches, stars, lives, musics)
+    archiveMd = generate_archive_md(searches, stars, lives, musics, brands)
     save_archive_md(archiveMd)
 
 
