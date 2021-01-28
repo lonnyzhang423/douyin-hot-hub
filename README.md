@@ -11,61 +11,62 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-01-29 04:17:01 +0800`
+`更新时间：2021-01-29 05:14:09 +0800`
 
 ## 抖音热榜
 
 1. 专题：出行防疫政策查询
-1. 刘德华 你要我怎样
 1. 郎朗吉娜得子
 1. 陈伟霆认错自己
+1. 刘德华 你要我怎样
 1. 娜扎许魏洲新剧开播
-1. 万物皆可刘德华
 1. 美国散户史诗级抱团干翻对冲基金
+1. 开创忍者世界新时代
+1. 贵阳17岁男孩借92万追星
+1. 万物皆可刘德华
+1. 每个人的身上都有毛毛
 1. 北方的烈阳回应与二辰关系
 1. 小霸宠直播手机掉火锅
-1. 每个人的身上都有毛毛
 1. 合肥一女子轻生被闺蜜一把拉回
 1. 毛毛歌是什么
-1. 贵阳17岁男孩借92万追星
-1. 陈冠希首晒父亲
+1. 合成大西瓜
 1. 林周京素颜去学校
 1. 泫雅新歌
-1. 喜羊羊进军篮球界
-1. 合成大西瓜
-1. 姚晨白宇吻戏
-1. 终于等来刘德华
 1. 陈伟霆骑着心爱的小摩托入驻抖音
-1. 陈赫请刘德华点评演技
-1. 刘德华抖音新搭档试镜
+1. 上阳赋章子怡周一围开虐
+1. 喜羊羊进军篮球界
+1. 陈冠希首晒父亲
 1. 天官赐福演员阵容
 1. 赵本山女儿球球自曝家产数不过来
+1. 刘德华抖音新搭档试镜
+1. 姚晨白宇吻戏
+1. 终于等来刘德华
+1. 化妆师爆料毛晓彤陷害陈翔江铠同
 1. 王晨艺穿拖鞋编出来的舞
 1. 孙骁骁回应怀孕
-1. 上阳赋章子怡周一围开虐
-1. 化妆师爆料毛晓彤陷害陈翔江铠同
 1. 乘风破浪姐姐们的老公
+1. 宣璐的干饭vlog
 1. 灵域大结局
-1. 粉底液散粉混合底妆
-1. 陈小纭 带钻妆真挺贵
 1. 足坛帅哥李嗣镕
-1. 穿东北花袄看5000万豪宅
-1. 林俊杰直播唱冰雨
-1. 泫雅 和金晓钟在一起最幸福
-1. 网友爆料又有2000万粉丝爱豆塌房
 1. 麦迪娜演娜扎的妈妈
-1. 专家谈女子买2斤鱿鱼焯水后消失
-1. 央视网络春晚阵容官宣
-1. 王祖蓝模仿华晨宇
+1. 陈小纭 带钻妆真挺贵
 1. 娜扎唐风装好惊艳
+1. 泫雅 和金晓钟在一起最幸福
+1. 粉底液散粉混合底妆
+1. 网友爆料又有2000万粉丝爱豆塌房
+1. 穿东北花袄看5000万豪宅
+1. 王祖蓝模仿华晨宇
+1. 央视网络春晚阵容官宣
+1. 为什么这届家长还怕早恋
+1. 林俊杰直播唱冰雨
+1. 五月天来抖音回应了
+1. 杭州杀妻分尸案件已移送审查起诉
 1. 小霸宠安徽分宠
 1. 21岁女子宿舍生子扔垃圾桶
 1. 张云龙说自己抠
-1. 五月天来抖音回应了
-1. 库里潇洒转身三分
 1. 杨超越唱毛毛歌
-1. 等你归来
-1. 杭州杀妻分尸案件已移送审查起诉
+1. 玲珑定档
+1. 盛淮南洛枳草坪躺好甜
 
 ## 明星榜
 
@@ -90,8 +91,8 @@
 1. [曾志伟](https://www.iesdouyin.com/share/user/3179436483020827?sec_uid=MS4wLjABAAAA4yeyFGOUrAJ88FijqIr4uL61KUD6EpoLWVdVOjgcfPc5ZZMR9hWPfXLlMFm-xXCf)
 1. [张艺兴](https://www.iesdouyin.com/share/user/1024365376319816?sec_uid=MS4wLjABAAAADwiWb6-NJFoPJVWYOV3eBhdznOVN_lwPXitUATHHOWig5WAHfxl7Kg0sYVnplS5N)
 1. [许君聪](https://www.iesdouyin.com/share/user/85950401751?sec_uid=MS4wLjABAAAAH-CyfgIPPCEltiXiCZIPcINN2A1OX78aYDAYNDHkBlE)
-1. [白鹿my](https://www.iesdouyin.com/share/user/67262082771?sec_uid=MS4wLjABAAAAORCDztC7TcHbBDZ4e6JwLx6CfMzl-OIOLx6YKrcIA-U)
 1. [赵文卓](https://www.iesdouyin.com/share/user/100007005019?sec_uid=MS4wLjABAAAA-acTmHu_VrD8D8lazQygepmRJbn9c7n6WvhcEOjdHvI)
+1. [白鹿my](https://www.iesdouyin.com/share/user/67262082771?sec_uid=MS4wLjABAAAAORCDztC7TcHbBDZ4e6JwLx6CfMzl-OIOLx6YKrcIA-U)
 1. [陈小纭](https://www.iesdouyin.com/share/user/58543570570?sec_uid=MS4wLjABAAAABjwdEevAY_uNbPKma24gJUuKVTID5uC75iEOj2zgXLE)
 1. [蔡少芬](https://www.iesdouyin.com/share/user/98616743080?sec_uid=MS4wLjABAAAAxVL94_YiAE4AumZ5K4gDavB-QlyNdzb4yw1jbQ8phmI)
 1. [那英](https://www.iesdouyin.com/share/user/4222539444793543?sec_uid=MS4wLjABAAAAURnrlON4NmwekCVGoTKcCn2__6hso9s2Vk1k_S0-b8KlxGdmUp1gTB85sX0hub7H)
@@ -102,56 +103,56 @@
 
 ## 直播榜
 
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922876721364585224) - [长海（连爆瞬爆）](https://www.iesdouyin.com/share/user/910001268331735?sec_uid=MS4wLjABAAAAS7GgcgHInNmxBADv8f24NaLHa2k5Y9YE1dzgy_po2ho)
-1. [全网最高清哈哈哈哈](https://webcast.amemv.com/webcast/reflow/6922846763523050240) - [是你的格格](https://www.iesdouyin.com/share/user/2365738555289028?sec_uid=MS4wLjABAAAADteTwVPCZ3ccFNmSbvSBdvSHvryU_RM0fNQUskULQM73TNSdEU1hyUTXTvL2P4xC)
+1. [播求这次遇到硬茬子了！对手实在太刚了【合集】](https://webcast.amemv.com/webcast/reflow/6922748865439681294) - [昆仑决](https://www.iesdouyin.com/share/user/94227250179?sec_uid=MS4wLjABAAAAGSIIXlsHWPNI0lagDNwq8bcLm-29A1F-R7gIzGbLsg8)
 1. [耐看型](https://webcast.amemv.com/webcast/reflow/6922818493327624975) - [马儿啊～](https://www.iesdouyin.com/share/user/60150174762?sec_uid=MS4wLjABAAAAJai0-MwgPhV0uS1IkdrvqrlHljNvH08I5hez5AXBwaY)
 1. [起飞，打书炼妖小能手，炼妖小霸王](https://webcast.amemv.com/webcast/reflow/6922819553567214343) - [马头头](https://www.iesdouyin.com/share/user/60638680477?sec_uid=MS4wLjABAAAAwKM146eUYwQNlx0L_EGM-AWCf_GlnNQ6WPIIep_Vvtg)
-1. [夜已深，玩玩游戏。](https://webcast.amemv.com/webcast/reflow/6922812139229039371) - [落寞家家](https://www.iesdouyin.com/share/user/71483012254?sec_uid=MS4wLjABAAAAYD2uKfI0uo-njo_frsblVDudRu5bdfsgxtsq6SaP-es)
-1. [洛凡正在直播](https://webcast.amemv.com/webcast/reflow/6922769507316845327) - [洛凡](https://www.iesdouyin.com/share/user/2985917339938621?sec_uid=MS4wLjABAAAAqQCvEHFjkCdGCxgEPzyMZWFm5RokX7pNfQD1Gak4DICMe6xVeHlCfUnV-If11-iS)
-1. [和田驿站](https://webcast.amemv.com/webcast/reflow/6922870311520062220) - [迎玉珠宝旗舰店](https://www.iesdouyin.com/share/user/2568092823593054?sec_uid=MS4wLjABAAAAuqHyMENvhD93GLm_gWJWMBya7CqbQwYLmWgilx0HlPOz-kaSoh2gkO_LZOe7xRsX)
+1. [财经早班车](https://webcast.amemv.com/webcast/reflow/6922823703458745096) - [刘长江（早9点直播）](https://www.iesdouyin.com/share/user/1415802391378143?sec_uid=MS4wLjABAAAA0DVg3iIFWDGOMd8v3RQgrX_S0JnvFZ0hsPuKWL1qxlUXaY5cJPVGX-_S-9NSAyQL)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922908060419771149) - [姚姚](https://www.iesdouyin.com/share/user/1063955716639108?sec_uid=MS4wLjABAAAAhSQSWWmlZ6fnavYvADvK_80tPQKaNkahl4jUo12Qfoy0HNfLkL2ICjd_h2qCy118)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922836565160971012) - [娟娟创意针线](https://www.iesdouyin.com/share/user/106741095024?sec_uid=MS4wLjABAAAAHz99FFemuQEGcMS0Hbo2UVMafcdqtw9M4wp6ZSwSZTM)
+1. [紫凌小薇微正在直播](https://webcast.amemv.com/webcast/reflow/6922897656469949196) - [紫凌小薇微](https://www.iesdouyin.com/share/user/92800790255?sec_uid=MS4wLjABAAAAFMOb8ywtGcQqFKdLME8l6VOw5nzzKYlkO_Yc5stIWFM)
+1. [新年快乐！感恩相遇❤️](https://webcast.amemv.com/webcast/reflow/6922831080881998607) - [琵琶_舒儿🐑](https://www.iesdouyin.com/share/user/60280144629?sec_uid=MS4wLjABAAAAoEIspXJFAQ8f2KAeIOuMPwy8T2aWfEnN9q4_eA5lfOY)
+1. [CS小孩正在直播](https://webcast.amemv.com/webcast/reflow/6922905775555742477) - [CS小孩](https://www.iesdouyin.com/share/user/94136804786?sec_uid=MS4wLjABAAAAQPEQC6qozS79MuSYWD4Id9TGoj4ixSG6pMz0-9jKJao)
+1. [抖音斗地主正在直播](https://webcast.amemv.com/webcast/reflow/6922808366005406472) - [斗地主🔥火柴的味道🔥](https://www.iesdouyin.com/share/user/95017717865?sec_uid=MS4wLjABAAAAg6WkARYAKgEjwM-aCLiJRHvqr8XknuX-hV6w0PmIUT0)
+1. [红警直播江南](https://webcast.amemv.com/webcast/reflow/6922855773954329351) - [红警直播江南](https://www.iesdouyin.com/share/user/96826010044?sec_uid=MS4wLjABAAAAKl642ZygQRyCUy5orTpiHqmysVckQvY4II_f3Xn61No)
 1. [沐沐云旅行正在直播](https://webcast.amemv.com/webcast/reflow/6922897651009194760) - [沐沐云旅行✨](https://www.iesdouyin.com/share/user/2792384916631324?sec_uid=MS4wLjABAAAAToz7TM_rhnQc0PpM7DwVnh6KUdR6D6Xt-9E2OfMjGj-yOm_Df6-F00Q5JzGgu9Ts)
-1. [最下饭的游戏直播！#俄罗斯钓鱼4#钓鱼#俄钓4](https://webcast.amemv.com/webcast/reflow/6922779649655327495) - [君若](https://www.iesdouyin.com/share/user/99109240884?sec_uid=MS4wLjABAAAAFaD1zF25OfPNjlto2y4dRfBLBOydgU-WS6znbGScy8A)
-1. [开始斗地主了](https://webcast.amemv.com/webcast/reflow/6922811380442876685) - [斗地主文乐](https://www.iesdouyin.com/share/user/1464190341223022?sec_uid=MS4wLjABAAAAYsx9CMvXYr--wbx5XjgeYpmUPrML7NbIDRwXvXCTizMsOeT9LHs6dCAC-Rt4Pt-b)
-1. [够级♣️涛弟正在直播](https://webcast.amemv.com/webcast/reflow/6922896998169709319) - [够级涛弟](https://www.iesdouyin.com/share/user/66427330366?sec_uid=MS4wLjABAAAAj-vics09ljS2xsrEsAz5eVEK9e9F7D_v0vNmJ8rAAwk)
-1. [云姐水果…正在直播](https://webcast.amemv.com/webcast/reflow/6922891010267826948) - [云姐水果店](https://www.iesdouyin.com/share/user/78962417285?sec_uid=MS4wLjABAAAAdZcEa_IKVcPthWRW6nMxHAWiEJDDoIOJx8kyfH_biBA)
-1. [云南香槟妹正在直播](https://webcast.amemv.com/webcast/reflow/6922904569752193799) - [云南香槟妹](https://www.iesdouyin.com/share/user/1143129179694461?sec_uid=MS4wLjABAAAA2On4puGJkLWSbZVK3af1LUb2vze_3dPI1h2g8PzrOiN6sSTtWv0e2KdCphdRHm2V)
-1. [没事早点睡、有空多挣钱](https://webcast.amemv.com/webcast/reflow/6922894217228782348) - [阿强（勤能补拙）请勿连赞（谢谢）](https://www.iesdouyin.com/share/user/97251999658?sec_uid=MS4wLjABAAAA8uF67U9grM5TVux7uHKGLQkhF8sJkR202CrBcQCNsMo)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922903327076256527) - [用户1022432949513](https://www.iesdouyin.com/share/user/1460568259834128?sec_uid=MS4wLjABAAAAwTkWelVsK0eXM8hz_7fCGrq_n8-q3NDtWBG8mujamXP3I1DRaWCVfpFZ8izJfjzg)
-1. [板总📈正在直播](https://webcast.amemv.com/webcast/reflow/6922869377746389767) - [板总📈](https://www.iesdouyin.com/share/user/96166354778?sec_uid=MS4wLjABAAAA_MnXavUXpY8q8iFYZYGVt5zBuLisbaJG8PeHO84A-xQ)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922901524288916238) - [乾之坤生态农业](https://www.iesdouyin.com/share/user/3856729657589148?sec_uid=MS4wLjABAAAAHlDuVA7A7dhaKymKkZgJhEMfdg0RY2jtaefx931x9NsknpwytppWb8l0ghEEkMBo)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922885364344720132) - [꧁瑜伽猫꧂](https://www.iesdouyin.com/share/user/3091428111826788?sec_uid=MS4wLjABAAAAVGAYrMxz4dy-IKzDPnlcG92qYt-3A1Doj1zzV0gX-Xb79rh3s3oRKKX-bmsmvf6O)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922901774726728451) - [王者绝非偶然](https://www.iesdouyin.com/share/user/15108439279?sec_uid=MS4wLjABAAAAHgK_xVoVvNucdp-NRTC-_gDU2jK-fvW5xa2YbqWX-r4)
-1. [🏖大海🏖🏝正在直播](https://webcast.amemv.com/webcast/reflow/6922874556395113231) - [🏖大海🏖🏝](https://www.iesdouyin.com/share/user/98938592916?sec_uid=MS4wLjABAAAAgqqDg1N7AYkqY9XkAazhZrnOBT3nt0X4e9v1qEGuDZY)
+1. [小确幸d...正在直播](https://webcast.amemv.com/webcast/reflow/6922905652423854863) - [小确幸daisy](https://www.iesdouyin.com/share/user/3012281031209227?sec_uid=MS4wLjABAAAAyZaMcnPzgQogCZZ0X4MDS-IwEeLGLSv8x8aT6XYglEzz2sFra4O8xyHjoo9g4OyA)
+1. [长沙解放西偶遇](https://webcast.amemv.com/webcast/reflow/6922859289174412035) - [湖南女孩💕](https://www.iesdouyin.com/share/user/93290164531?sec_uid=MS4wLjABAAAALg4uOXLedZgb2iii3CAMjHZYyytkV-ajDSnmbymkwCM)
+1. [木子豆💃🏻舞蹈正在直播](https://webcast.amemv.com/webcast/reflow/6922834859954014990) - [木子豆💃🏻舞蹈](https://www.iesdouyin.com/share/user/4089804722017182?sec_uid=MS4wLjABAAAA-GXwgGSuAzmPliVWo-I_JpdLtTN6wtaEkPwxc9ZovyjpV3PCxrh-DwXXVdhJLbFD)
+1. [这个江苏的小姐姐也太厉害太能叭叭了](https://webcast.amemv.com/webcast/reflow/6922825945159895815) - [知恩（2月2日满月）](https://www.iesdouyin.com/share/user/1846829547004109?sec_uid=MS4wLjABAAAAlwwl6jZyEWjILKioyJZLWtNnRdvwTct3aLtJAAlY9Gnla9i_LphQXY6aZ-Z2B1Zq)
+1. [王牌路人局](https://webcast.amemv.com/webcast/reflow/6922891451495877383) - [渡人（和平精英）](https://www.iesdouyin.com/share/user/82689954042?sec_uid=MS4wLjABAAAAJ66u22gelPKx1n6qlBZZ7MEQ6nnG0T1tHLhuXYjY97c)
+1. [精灵宝可梦(口袋妖怪）怀旧游戏](https://webcast.amemv.com/webcast/reflow/6922841630328376071) - [口袋进化](https://www.iesdouyin.com/share/user/108207084775?sec_uid=MS4wLjABAAAAQ9esHX39JwRnd2-NO0THD61sQC_B2VKbati695MlxJ4)
+1. [老面包子制作](https://webcast.amemv.com/webcast/reflow/6922904692158696192) - [付伟面食店](https://www.iesdouyin.com/share/user/67327794757?sec_uid=MS4wLjABAAAA-b5BvRkrs10Bcde4XEBG7l4BFFloIY6BJ_oTOIRj75o)
+1. [负债老弟正在直播](https://webcast.amemv.com/webcast/reflow/6922898639597603587) - [水下20米深(ye某)](https://www.iesdouyin.com/share/user/562552360929724?sec_uid=MS4wLjABAAAAsWfJ8v17v1Aroy2sLk6C9yWCnh4_Y5oRLOTo2hDRFYw)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922912561914661644) - [许老三](https://www.iesdouyin.com/share/user/108279461844?sec_uid=MS4wLjABAAAAxABWe9SP-PprDugjj6T9q2F7p1wjBpIhRMIxt71yy7g)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922915811355396868) - [牛无能(远行记)](https://www.iesdouyin.com/share/user/107773824761?sec_uid=MS4wLjABAAAAlQXHzmlu7sm2TPaKn-eSDlLIv9BjpcgVTChCVuNW9Lg)
+1. [美嘉的晚场](https://webcast.amemv.com/webcast/reflow/6922862808799480579) - [美嘉baobao（庄45公主）](https://www.iesdouyin.com/share/user/2726431798594206?sec_uid=MS4wLjABAAAAnErO3OcWAr9kNMhkBG9ymyd431qBOFsAS50t0fTJBzLTHjyq204y4K_b1-qBwh0W)
+1. [正在直播](https://webcast.amemv.com/webcast/reflow/6922918404252896004) - [郭双歌](https://www.iesdouyin.com/share/user/97911720997?sec_uid=MS4wLjABAAAAyjtaSz6DmOE7GP-B4YA3F_-vUgS4PacAUgaiPSJUO1c)
 1. [12点下！！！](https://webcast.amemv.com/webcast/reflow/6922816300868111111) - [泡泡堂秋哥哥](https://www.iesdouyin.com/share/user/69858916128?sec_uid=MS4wLjABAAAAQOndd7gTWr5vBYcPrqJQg-WiQLS92N103hlj5xdwrbQ)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922910286454262528) - [赵老哥](https://www.iesdouyin.com/share/user/75064772096?sec_uid=MS4wLjABAAAA6BjJwPZ8u9bxayibmh2U7ighGnbSXzagyF7ruxUWd54)
 1. [木雕手串9.9元抢](https://webcast.amemv.com/webcast/reflow/6922815514767002379) - [灵月工艺品](https://www.iesdouyin.com/share/user/105385609416?sec_uid=MS4wLjABAAAA7ZalPEzEggk50qtDwItYkVDlLjRj3THn4dwc6X462iI)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922902844836154124) - [睢宁万宏豪汽车销售有限公司](https://www.iesdouyin.com/share/user/4472432141274285?sec_uid=MS4wLjABAAAAZLRErhOg4h-CsH-7b94XyAR7X9D7QIl7FIFu-UlM_eMAGLmKmF10IOdBolcioS4z)
-1. [芳芳姐方法正在直播](https://webcast.amemv.com/webcast/reflow/6922902551222651656) - [芳芳姐方法](https://www.iesdouyin.com/share/user/2744798444523166?sec_uid=MS4wLjABAAAAuTzP7gC9nBot1gmlnE-iPws_N78WXeN-RNJWJg7WZzwuNg_zOZ1pJk1zMi4TJ3XR)
-1. [没人要只能留着过年了](https://webcast.amemv.com/webcast/reflow/6922905344402705159) - [宿迁新客族汽车](https://www.iesdouyin.com/share/user/698911490850029?sec_uid=MS4wLjABAAAAdyOAjCvPFD5TROGz9Y8O2UtrARX8WmD7fwQEZgOs-iE)
-1. [欢迎点歌，我负责唱](https://webcast.amemv.com/webcast/reflow/6922857583258782464) - [小贝🎤](https://www.iesdouyin.com/share/user/1363010599789934?sec_uid=MS4wLjABAAAA40ar_LKYbqsXXb6UXOGh5oOVtEArK2uFB7dhqS_H0cnL5GmHpr6Mt35w6CQJrdPr)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922886653677816590) - [一意孤行](https://www.iesdouyin.com/share/user/61906454415?sec_uid=MS4wLjABAAAAqcdqUHblOOK1UDjByVluuSTO_KkE1ASO07m1ltEBS6A)
-1. [冷冷冷♑️正在直播](https://webcast.amemv.com/webcast/reflow/6922897466744703758) - [冷冷冷♑️](https://www.iesdouyin.com/share/user/108136505531?sec_uid=MS4wLjABAAAALoe0tBZ7iDdm13ZNTBfB4jQk_RT0ppeE6-SAzzP7BjI)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922903344927247111) - [小黑哥！](https://www.iesdouyin.com/share/user/96931052674?sec_uid=MS4wLjABAAAAYUysWEqjEO6iWX4r_t6_dhihvODPHcOVXMepKLvgRN4)
-1. [luck...正在直播](https://webcast.amemv.com/webcast/reflow/6922850740633668355) - [lucky雨曦💖](https://www.iesdouyin.com/share/user/399838863951518?sec_uid=MS4wLjABAAAA8t1nnFBj8HQjyN6mHGVPGULh5j_VIDXyWUauihJAT3U)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922867773223865103) - [可乐千层麻花](https://www.iesdouyin.com/share/user/4503652064515045?sec_uid=MS4wLjABAAAAnvnBYY-kle3KbShU9svHby-qskn4fdw8lOSsJwJHg5lBhHYdHhBsVuHrZZaRWvlG)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922887383511796495) - [允儿😀](https://www.iesdouyin.com/share/user/1503741084972607?sec_uid=MS4wLjABAAAABNYM5bagCG-M7MNrtgpc8R1LNFryKEqm0qfWs7r4MPvG4sa6M50KK5uFsELdW7y-)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922863509546371855) - [玄梦](https://www.iesdouyin.com/share/user/111149406118?sec_uid=MS4wLjABAAAATqQQBR9mPqOPNB7vvm1Bf5Yml3r6J7NPc1l-c-bd0eU)
-1. [街头艺人正在直播](https://webcast.amemv.com/webcast/reflow/6922857499729218319) - [街头艺人](https://www.iesdouyin.com/share/user/80173442618?sec_uid=MS4wLjABAAAAden2IZcmuFTNTd774rg-hBa-dBrZiTqVsLTAkncSNnk)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922888431462894351) - [汪波](https://www.iesdouyin.com/share/user/2946342372773720?sec_uid=MS4wLjABAAAAKe0alKF4k9cj7cs0H_gFRay5dYI907iod98sZPZDPdWyGCsP-VeqkmrVOIUrEKJC)
-1. [南宁吉他弹唱](https://webcast.amemv.com/webcast/reflow/6922852814859995916) - [钟文星（乐队）](https://www.iesdouyin.com/share/user/61534704238?sec_uid=MS4wLjABAAAARUTa2Z1YwWnBMhc8Xufz2zK2afmcIM2RwogPbwulMgk)
-1. [温柔猛男自定义房，带粉上车~@米边边](https://webcast.amemv.com/webcast/reflow/6922849055966087944) - [米边边](https://www.iesdouyin.com/share/user/2985918013381539?sec_uid=MS4wLjABAAAAbdIadJYV1fWZb5kgxMdg8qcpyTd_mzYqqrUI2FUd1yn7Lr2l5geO55C9s2CHM9Ld)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922846423163603719) - [用户2067735687316昌权](https://www.iesdouyin.com/share/user/166719647915191?sec_uid=MS4wLjABAAAAHBj3squXmx9yix2UAwem6QFRHpz3U_Zrf8POm6CJ9Lg)
-1. [合成大西瓜](https://webcast.amemv.com/webcast/reflow/6922852211169020672) - [扶我起来我要上班](https://www.iesdouyin.com/share/user/2229451997059079?sec_uid=MS4wLjABAAAAiGdG3jN4xsFVwCC-t2v1q0X9UmahQ04_rt5VmTwEpYHtfcPhHatFMAC8Pw_Hw8L6)
-1. [可以吗？](https://webcast.amemv.com/webcast/reflow/6922863692262755085) - [初音yo](https://www.iesdouyin.com/share/user/75601049856?sec_uid=MS4wLjABAAAAFlFP6b8obPTZsV1jhUvqsI6yAz-gphiSTZ6VNmLxFGw)
-1. [手哥正在直播](https://webcast.amemv.com/webcast/reflow/6922895708328692480) - [手哥](https://www.iesdouyin.com/share/user/3853106129947903?sec_uid=MS4wLjABAAAAgvoYmmbj4DR12dujFHYzmoCM96_Wm86gLJs_1fAKWEQhovvdOyotU4ltMD8ZiuPv)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922877790203267851) - [重庆洪哥](https://www.iesdouyin.com/share/user/2581278966683672?sec_uid=MS4wLjABAAAAAZ84mhXmwtaWC6f2lsc4yUnmHpcZ-tfXxGVLzC6WUASR5FjZNSpPlViJGg8UpET-)
-1. [花体字签名头像](https://webcast.amemv.com/webcast/reflow/6922849911901932302) - [拖稿弍的花体字](https://www.iesdouyin.com/share/user/60140155379?sec_uid=MS4wLjABAAAAmvqjWOmaAjHIcRTmZHxclOkNDMK4IvNGUY-9adqOwXg)
+1. [黛黛小可爱💫正在直播](https://webcast.amemv.com/webcast/reflow/6922913253714709263) - [黛黛小可爱💫](https://www.iesdouyin.com/share/user/3175867830?sec_uid=MS4wLjABAAAAXFGEXQUbN5-mTwd5AFGKzyH9AZfJZ6_Xzpo365gopzY)
 1. [小陈带你看豪车](https://webcast.amemv.com/webcast/reflow/6922650363036617479) - [天道车业](https://www.iesdouyin.com/share/user/104430245281?sec_uid=MS4wLjABAAAAl4zWUoBWTzGYBVwHgnOqff67IRqu56FWrsYTkolnnro)
-1. [翻唱专场](https://webcast.amemv.com/webcast/reflow/6922841981299346187) - [🐣黄子灏Hulk](https://www.iesdouyin.com/share/user/2845175195114443?sec_uid=MS4wLjABAAAADfJ6HwP4WLJ9kZ99jpXreEq5Aik40DIMBMcRX63cMMRLlyfiW-m5ohHOr-n_T4HP)
-1. [客家古风新主播](https://webcast.amemv.com/webcast/reflow/6922831643766033152) - [穆清儿🦊（打不过蜜儿）](https://www.iesdouyin.com/share/user/1670873303752749?sec_uid=MS4wLjABAAAA01klspaFr9nSpMhVFFHKZWiNtSIjwuxfqQ7Jq0DAxml5OfldB-QLnRUbO9GbrjP6)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922904007476333319) - [安娜](https://www.iesdouyin.com/share/user/4446054257264995?sec_uid=MS4wLjABAAAAStg1OzRxvMtC53ZqT832ixttqv4aB1KAQBwovOKnJH1bMk_xp_WMbD-WjegDUQwK)
-1. [看直播](https://webcast.amemv.com/webcast/reflow/6922877892657646336) - [本辛商贸](https://www.iesdouyin.com/share/user/99481032354?sec_uid=MS4wLjABAAAA6byiTSKHXKgM39lYBk29tPGSPy3pBlOcxWCWEaYGN1w)
+1. [花体字签名头像](https://webcast.amemv.com/webcast/reflow/6922849911901932302) - [拖稿弍的花体字](https://www.iesdouyin.com/share/user/60140155379?sec_uid=MS4wLjABAAAAmvqjWOmaAjHIcRTmZHxclOkNDMK4IvNGUY-9adqOwXg)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922903344927247111) - [小黑哥！](https://www.iesdouyin.com/share/user/96931052674?sec_uid=MS4wLjABAAAAYUysWEqjEO6iWX4r_t6_dhihvODPHcOVXMepKLvgRN4)
+1. [欢迎点歌，我负责唱](https://webcast.amemv.com/webcast/reflow/6922857583258782464) - [小贝🎤](https://www.iesdouyin.com/share/user/1363010599789934?sec_uid=MS4wLjABAAAA40ar_LKYbqsXXb6UXOGh5oOVtEArK2uFB7dhqS_H0cnL5GmHpr6Mt35w6CQJrdPr)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922907019058236172) - [教你科三一把过](https://www.iesdouyin.com/share/user/99099123921?sec_uid=MS4wLjABAAAA_LBNUct7kdwZ2AVh-PISUK-J_I6e3_tiQgBpYEcuyFg)
+1. [找一个可以牵手的人](https://webcast.amemv.com/webcast/reflow/6922906911826332423) - [缘分听歌台](https://www.iesdouyin.com/share/user/3988660030285579?sec_uid=MS4wLjABAAAAzZESBHFKXrKin7ljd0BcN5k8K9aSDQ_I-NGibjt_L3wHV9JEMcDPFp1QJ-Mai7La)
+1. [合成大西瓜](https://webcast.amemv.com/webcast/reflow/6922852211169020672) - [扶我起来我要上班](https://www.iesdouyin.com/share/user/2229451997059079?sec_uid=MS4wLjABAAAAiGdG3jN4xsFVwCC-t2v1q0X9UmahQ04_rt5VmTwEpYHtfcPhHatFMAC8Pw_Hw8L6)
+1. [曼容在直播 求守护！](https://webcast.amemv.com/webcast/reflow/6922885251895167744) - [CM曼容](https://www.iesdouyin.com/share/user/2981519695026888?sec_uid=MS4wLjABAAAAxoAKgbBLa67OvJ_ZOwQnQRq_jmb9pcgtCXi5TnpuPzKKPeFluXgOI-aWKXaDfTw-)
+1. [冷冷冷♑️正在直播](https://webcast.amemv.com/webcast/reflow/6922897466744703758) - [冷冷冷♑️](https://www.iesdouyin.com/share/user/108136505531?sec_uid=MS4wLjABAAAALoe0tBZ7iDdm13ZNTBfB4jQk_RT0ppeE6-SAzzP7BjI)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922886653677816590) - [一意孤行](https://www.iesdouyin.com/share/user/61906454415?sec_uid=MS4wLjABAAAAqcdqUHblOOK1UDjByVluuSTO_KkE1ASO07m1ltEBS6A)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922910825451637516) - [山西侯马美猴王杨淇](https://www.iesdouyin.com/share/user/1503739963801367?sec_uid=MS4wLjABAAAA87d7zFJCLLDbjQr4C9nZVXn1_nlilwLZfDU10wYpLLxCbvwpc91JNh4TBExH52L6)
+1. [用户96...正在直播](https://webcast.amemv.com/webcast/reflow/6922907642725911296) - [鱼儿🐟](https://www.iesdouyin.com/share/user/914430019241437?sec_uid=MS4wLjABAAAAwVr6WX3b7jL5KOa-PiWZK2-8uqdqcYkYsnxdHXoqEhY)
+1. [电动小马达](https://webcast.amemv.com/webcast/reflow/6922877054027975435) - [阿狸♡](https://www.iesdouyin.com/share/user/712095377133184?sec_uid=MS4wLjABAAAA8s7DQGhD8Dbv6LyVnyrQIKPwgZuAOoR9Uw4ruSrTqns)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922907221923875592) - [我叫舒楠😜😜](https://www.iesdouyin.com/share/user/4212944715128488?sec_uid=MS4wLjABAAAAXhlG4hgDAsLrJx_ht4mjqNKAZ6Uy-WcYSLqJnWNyMpHINwXKCDFEcQ3E6GGH2wQX)
+1. [南宁吉他弹唱](https://webcast.amemv.com/webcast/reflow/6922852814859995916) - [钟文星（乐队）](https://www.iesdouyin.com/share/user/61534704238?sec_uid=MS4wLjABAAAARUTa2Z1YwWnBMhc8Xufz2zK2afmcIM2RwogPbwulMgk)
+1. [若谷手写正在直播](https://webcast.amemv.com/webcast/reflow/6922905618667883277) - [若谷手写](https://www.iesdouyin.com/share/user/98204809520?sec_uid=MS4wLjABAAAAaR9YKgDmR7WUXXFfnFrmdvYrFzjA6DNmx29AW05rYjI)
+1. [小顾带你看车](https://webcast.amemv.com/webcast/reflow/6922797016153033486) - [徐州裕典珑车行](https://www.iesdouyin.com/share/user/2818796231332667?sec_uid=MS4wLjABAAAAy9_6lLhPFjLc3NLCMoqINhHEht_wjNzT71_on6qAa5u6bkRrZSTmu8NFOKeNSPHG)
+1. [学友台球俱乐部9球追分](https://webcast.amemv.com/webcast/reflow/6922862244095183620) - [Jacky 学友](https://www.iesdouyin.com/share/user/97277923877?sec_uid=MS4wLjABAAAAj4tqwAHdiYNgU9-JkJTOoBrm8hhZTl0Z2dlCkU7NRXQ)
 1. [看直播](https://webcast.amemv.com/webcast/reflow/6922898533586569999) - [说多了都是眼泪](https://www.iesdouyin.com/share/user/3839121100651964?sec_uid=MS4wLjABAAAAO2kQFWOm1xAsZvFx-IsHC6OoqSFzv3Bkv2UZkLT1iVh5_PqNBqbNB-YOhWx4FVXp)
-1. [甜豆     可纯可欲](https://webcast.amemv.com/webcast/reflow/6922899870319676174) - [甜豆✨](https://www.iesdouyin.com/share/user/650517145726654?sec_uid=MS4wLjABAAAAUo47vb7-rSZY6tDwgRBynkQwF79SYtu30UpXrL7nNRo)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922918417162881800) - [紫衣云梦](https://www.iesdouyin.com/share/user/2818800824363339?sec_uid=MS4wLjABAAAAjYJKYQiNpA4bpJM3iHr6kp4cm8Yf5VGxMbgdQ4xQLTxia46EMcnqIB4agz7N6T87)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922916528371305231) - [球球](https://www.iesdouyin.com/share/user/92073709931?sec_uid=MS4wLjABAAAA5j5a4Cy58bFJvVLCZRN4kSh2R1CVDVoDgSnH5RJoA1w)
+1. [看直播](https://webcast.amemv.com/webcast/reflow/6922914094987234061) - [你的宝呀💃](https://www.iesdouyin.com/share/user/67999350582?sec_uid=MS4wLjABAAAAcAYucC9cwlj904aQFrFLkfTf1NhGVX4V-4EOUDMTZS0)
 
 ## 音乐榜
 
@@ -161,7 +162,7 @@
 1. [星辰大海-黄霄雲 part2]() - 黄霄雲
 1. [爱人错过]() - 无孟子
 1. [关机又关机]() - YangYang
-1. [枕边童话](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/4ea3825a9fbec32e9a1c887f2b52fb31.mp3) - 小田音乐社、傲七爷
+1. [枕边童话](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/4ea3825a9fbec32e9a1c887f2b52fb31.mp3) - 小田音乐社、傲七爷
 1. [忘了没有]() - 王靖雯不胖
 1. [醒不来的梦]() - 戴羽彤
 1. [中间人](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/1641277064706055.mp3) - Ice Paper
@@ -169,42 +170,42 @@
 1. [星星在唱歌 2]() - 司南
 1. [万拒]() - 就是南方凯
 1. [地心引力](https://sf9-dycdn-tos.pstatp.com/obj/ies-music/e553379155d55568e22834b55c57b2a8.mp3) - 拾贰
-1. [Chandelier](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/6fea8cbd03d24ad39e73ae5398311102) - Sia
+1. [Chandelier](https://sf9-dycdn-tos.pstatp.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/6fea8cbd03d24ad39e73ae5398311102) - Sia
 1. [等你归来（剪辑版）]() - 程响
 1. [Loving You](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/48cbc11d2d39e93726323064d2ff3afe.m4a) - Jeante
-1. [不懂事](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/b07ef1c96cba4d42be526cb68baf23e9) - 吴炳文
-1. [Magnifique amelie](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/24276df7bd158e5c98026b068abeff46.m4a) - Mario Di Marco
-1. [Bomba Radio Edit (Remix Klass)](https://sf9-dycdn-tos.pstatp.com/obj/ies-music/96a7f6377c6a93ac951308182458ae29.mp3) - Jessy Matador
-1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/973cc5c0702075e3cee5e6796a7f49b1.m4a) - Daniel Powter
+1. [不懂事](https://sf9-dycdn-tos.pstatp.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/b07ef1c96cba4d42be526cb68baf23e9) - 吴炳文
+1. [Magnifique amelie](https://sf9-dycdn-tos.pstatp.com/obj/iesmusic-cn-local/v1/tt-obj/24276df7bd158e5c98026b068abeff46.m4a) - Mario Di Marco
+1. [Bomba Radio Edit (Remix Klass)](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/96a7f6377c6a93ac951308182458ae29.mp3) - Jessy Matador
+1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/973cc5c0702075e3cee5e6796a7f49b1.m4a) - Daniel Powter
 1. [Mr. Lonely]() - Bobby Vinton
 1. [渐冷]() - 雪二
-1. [Psycho, Pt. 2](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/iesmsc-sg-local/v1/m/43e60006a7eb093b76a5) - Russ
-1. [三行情书](https://sf9-dycdn-tos.pstatp.com/obj/ies-music/b67908e2f88ccf3d7245d929b8ad536e.mp3) - 蔡文泽
-1. [Sirius (Original Mix)](https://sf9-dycdn-tos.pstatp.com/obj/iesmusic-cn-local/v1/iesmsc-sg-local/v1/m/4a1300050a566dce476d) - Gianni Kosta,Belle
+1. [Psycho, Pt. 2](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/iesmsc-sg-local/v1/m/43e60006a7eb093b76a5) - Russ
+1. [三行情书](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/b67908e2f88ccf3d7245d929b8ad536e.mp3) - 蔡文泽
+1. [Sirius (Original Mix)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/iesmsc-sg-local/v1/m/4a1300050a566dce476d) - Gianni Kosta,Belle
 1. [一分一寸]() - 阿YueYue
-1. [Salt](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/bf363f1552be438c9cc570f6ca39027a) - Ava Max
-1. [Cute](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/e85a10f74704d0330cd2c4ed3a716f7a.m4a) - Prod by Rose
-1. [when u leave 唧唧](https://sf9-dycdn-tos.pstatp.com/obj/ies-music/b8b197c4da6328f1c7e3e3196bae6bb7.mp3) - 董唧唧
+1. [Salt](https://sf9-dycdn-tos.pstatp.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/bf363f1552be438c9cc570f6ca39027a) - Ava Max
+1. [Cute](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/e85a10f74704d0330cd2c4ed3a716f7a.m4a) - Prod by Rose
+1. [when u leave 唧唧](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/b8b197c4da6328f1c7e3e3196bae6bb7.mp3) - 董唧唧
 1. [不好听](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/cb47a204efa90b81e841e6d6e4f626db.m4a) - 徐良
-1. [Ride It](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/d7cf68aca4fa01b4ecd859b104a6d2f0.mp3) - Regard
+1. [Ride It](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/d7cf68aca4fa01b4ecd859b104a6d2f0.mp3) - Regard
 1. [为敌]() - 旺仔小乔
-1. [young boss 2.0](https://sf9-dycdn-tos.pstatp.com/obj/ies-music/d64dc79ea224a7617c0f731192899044.mp3) - Lambert/十七草
+1. [young boss 2.0](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/d64dc79ea224a7617c0f731192899044.mp3) - Lambert/十七草
 1. [Decepticons](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/915f1c19f8154ddf4b0b5a544818bf5b.m4a) - Maga AQ
 1. [明天會更好](https://sf9-dycdn-tos.pstatp.com/obj/iesmusic-cn-local/v1/tt-obj/27e2a93e0601a623691924e16dee314f.m4a) - 蔡惠英
-1. [Kiss Fight (feat. gnash) [Ben Phipps Remix]](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/iesmsc-sg-local/v1/m/4df700050df1a3bfae91) - Tülpa & BLANKTS
+1. [Kiss Fight (feat. gnash) [Ben Phipps Remix]](https://sf9-dycdn-tos.pstatp.com/obj/iesmusic-cn-local/v1/iesmsc-sg-local/v1/m/4df700050df1a3bfae91) - Tülpa & BLANKTS
 1. [Falling Down]() - Wild Cards/James Delaney
 1. [对不起，我还爱你]() - 也可
-1. [Dear John - Album Version](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/8c1f5074a07b6b47aca1cb335491955b.m4a) - 王雪娥
-1. [难生恨（剪辑版）-DAWN](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/a1ca490f26bbf070442e95b0d669968d.mp3) - DAWN
+1. [Dear John - Album Version](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/8c1f5074a07b6b47aca1cb335491955b.m4a) - 王雪娥
+1. [难生恨（剪辑版）-DAWN](https://sf9-dycdn-tos.pstatp.com/obj/ies-music/a1ca490f26bbf070442e95b0d669968d.mp3) - DAWN
 1. [晴天]() - 周杰伦
 1. [陨落]() - 不是花火
-1. [荡漾 ICE&SEANT肖恩恩](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/c3942d973e37f47e43f7a90e6f22bacb.mp3) - ICE/SEANT肖恩恩
+1. [荡漾 ICE&SEANT肖恩恩](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/c3942d973e37f47e43f7a90e6f22bacb.mp3) - ICE/SEANT肖恩恩
 1. [沈园外](https://sf9-dycdn-tos.pstatp.com/obj/ies-music/d4884236210f8897bbae20f1e3915a09.mp3) - 阿YueYue、戾格
 1. [入药]() - 77要睡觉
 1. [星星不说话]() - 秦牛正威/吴岱林
 1. [晚安晚安](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/57ebe48382934735dd9597789b403ede.mp3) - 小三金
 1. [过]() - 王嘉尔/林俊杰
-1. [为什么](https://sf9-dycdn-tos.pstatp.com/obj/ies-music/655e3c14035d7ae9576d018314b4fb7c.mp3) - 马思唯
+1. [为什么](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/655e3c14035d7ae9576d018314b4fb7c.mp3) - 马思唯
 
 ## 品牌榜
 
