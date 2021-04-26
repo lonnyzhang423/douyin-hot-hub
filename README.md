@@ -11,61 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-04-27 02:32:56 +0800`
+`更新时间：2021-04-27 03:21:27 +0800`
 
 ## 抖音热榜
 
-1. 郭老师 全郭巡演
 1. 峨眉派凌云正式回师门
 1. 凤凰传奇给爷上岸
 1. 美团涉嫌垄断行为被立案调查
-1. 凤凰传奇回应海底全场最低分
-1. 创造美好 享受生活
+1. 郭老师 全郭巡演
+1. 女子被诈骗见到真警察吓到大哭
 1. 腾讯携500艺人反对影视剪辑
+1. 凤凰传奇回应海底全场最低分
 1. 官方介入煮鸡蛋返生论文调查
-1. 赵露思 装淑女好难
-1. 凤凰传奇 中国最阳刚的哟
-1. 陈晓儿子正脸照
 1. 熟蛋返生孵小鸡论文能信吗
-1. 2021首次超级月亮
 1. RNG出征MSI名单
-1. 进村猛虎检测后首次亮相
+1. 赵露思 装淑女好难
 1. 沙溢蔡徐坤父子关系解约
+1. 陈晓儿子正脸照
+1. 凤凰传奇 中国最阳刚的哟
+1. 特斯拉称与维权女车主联系争取调解
 1. 子悠发疯
-1. 日薪208万是什么概念
-1. 金世佳演反派
 1. 中方已第一时间表明愿帮印度抗疫
+1. 进村猛虎检测后首次亮相
+1. 听叔一句劝
+1. 日薪208万是什么概念
+1. 2021首次超级月亮
+1. 盐城工学院辟谣女生遭轮奸欲跳楼
+1. 万梓良收徒弟
 1. 如何看待五一调休凑长假
 1. 印度疫情为何全面失控
+1. 金世佳演反派
 1. 张国政对吕明星撒娇
 1. 韩美娟 人就是不能太红
-1. 女子被诈骗见到真警察吓到大哭
-1. 盐城工学院辟谣女生遭轮奸欲跳楼
-1. 张哲瀚人间许愿池
 1. 徐璐的工作人员觉得她太瘦了
-1. 听叔一句劝
-1. 张欣尧的评论区太暖了
-1. 带你私奔
+1. 贾乃亮打掉节目组摄像头
 1. 郭老师南京旅游导致交通瘫痪
 1. 库里超远三分
-1. 张国政唱这歌也太上头了
-1. 贾乃亮打掉节目组摄像头
 1. 用山东话念angelababy太好笑了
 1. 霍尊粤语版错位时空
+1. 带你私奔
 1. 苏里苏气
+1. 贵阳机场厕所大理石含古生物化石
 1. 魔性趟水步
-1. 邵阳一丧礼现场发生爆炸
-1. 秘密访客全员黑化
-1. 警方通报奔驰男掌掴骑电动车女子
-1. 张恒语音聊天记录
+1. 张欣尧的评论区太暖了
 1. 乡村小乔订婚礼
+1. 张国政唱这歌也太上头了
+1. 邵阳一丧礼现场发生爆炸
+1. 世锦赛颜丙涛6比10落后
+1. 警方通报奔驰男掌掴骑电动车女子
+1. 做李易峰的经纪人太惨了
+1. 张恒语音聊天记录
+1. 潘玮柏和老婆同框
 1. 蔡徐坤澄清吃饺子嚼90下
 1. 爱不得忘不舍扭胯舞
-1. 世锦赛颜丙涛6比10落后
-1. 潘玮柏和老婆同框
-1. 毛毛姐在线吃瓜
-1. 邓稼先消失28年为国家放了个大炮仗
-1. 贵阳机场厕所大理石含古生物化石
+1. 秘密访客全员黑化
 
 ## 明星榜
 
@@ -109,16 +108,16 @@
 1. [7710（主歌）]() - 尹露浠
 1. [爱不会绝迹]() - 林俊杰
 1. [来迟]() - 戴羽彤
-1. [Cu Phe Thoi - 越南鼓版](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/3a04d1d9a29687cf73c826e4d900a6d5.m4a) - 潮妹
+1. [Cu Phe Thoi - 越南鼓版](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/3a04d1d9a29687cf73c826e4d900a6d5.m4a) - 潮妹
 1. [失恋不怪她阵线联盟]() - 拾贰
 1. [红马-一颗狼星_许篮心]() - 一颗狼星_许篮心
 1. [我害怕鬼-剪辑版]() - 段兴华
 1. [Peaches]() - Justin Bieber
 1. [即刻 副歌](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/db7c0e105755b997ee11c46acd91fadb.mp3) - joysaaaa
-1. [大风吹（主歌）](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/81b8a4734231b35492fc59100f00cfce.mp3) - 王赫野
-1. [呆我眼睛里](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/4e771cb2037ade4adcaa5bfdd7caa851.mp3) - 张天枢
-1. [Somebody's Girl](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/172898bf28c772365cfe7b8e83e73d83.m4a) - Stevie Hoang
-1. [天亮以前说再见](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/668cf68f839036dd9919e01dab848690.m4a) - 何野
+1. [大风吹（主歌）](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/81b8a4734231b35492fc59100f00cfce.mp3) - 王赫野
+1. [呆我眼睛里](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/4e771cb2037ade4adcaa5bfdd7caa851.mp3) - 张天枢
+1. [Somebody's Girl](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/172898bf28c772365cfe7b8e83e73d83.m4a) - Stevie Hoang
+1. [天亮以前说再见](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/668cf68f839036dd9919e01dab848690.m4a) - 何野
 1. [还是会想你]() - 林达浪/h3R3
 1. [夏天]() - 刘瑞琦
 1. [沦陷]() - 王靖雯不胖
@@ -127,15 +126,15 @@
 1. [必杀技 (Live)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/338b3fb2c23787b98319ac10afa8d341.m4a) - 古巨基
 1. [来自]() - 叶琼琳
 1. [到此为止]() - 徐佳莹
-1. [Octopus](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b3d682fabffc8ecf46987bb852b2c525.m4a) - ALan
-1. [《委屈话》--剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/ed7068b208a039668d8fa6e3e8de2dbc.mp3) - 金美儿
+1. [Octopus](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b3d682fabffc8ecf46987bb852b2c525.m4a) - ALan
+1. [《委屈话》--剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/ed7068b208a039668d8fa6e3e8de2dbc.mp3) - 金美儿
 1. [写你]() - 李柯君
 1. [绿色]() - 唐汉霄
 1. [难得有情人](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/99c52aeb545a4c8e8f33dfe820464594) - 关淑怡
-1. [孤岛星愿（剪辑版）-陈子晴](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/61214babeb65c5dcb5b2e99dd98c4066.mp3) - 陈子晴
+1. [孤岛星愿（剪辑版）-陈子晴](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/61214babeb65c5dcb5b2e99dd98c4066.mp3) - 陈子晴
 1. [八小时时差-剪辑版](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/f8fd37e66cabe7b877508962c8bf1e1f.mp3) - 郑鱼
-1. [처음 그 자리에](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/1611210422497282.mp3) - 이보람
-1. [失恋阵线联盟](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/3da998edf01ca67414176b07498759e9.m4a) - 草蜢
+1. [처음 그 자리에](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/1611210422497282.mp3) - 이보람
+1. [失恋阵线联盟](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/3da998edf01ca67414176b07498759e9.m4a) - 草蜢
 1. [飘移]() - 周杰伦
 1. [Heut´ brauch ich dich zum Träumen (Neuaufnahme)]() - Brunner & Brunner
 1. [完美降落]() - 胡期皓、董唧唧、叶琼琳
@@ -147,10 +146,10 @@
 1. [陪伴](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/16279bfb876043a2a3388e2dff1b2326) - 张嘉思
 1. [His Theme (From "Undertale")](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/0c992202d5d2deca58d37549d114f100.m4a) - Sprightly & Gamechops
 1. [Relax](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/9bf4f254c120b8a7d751f9d76b5ea2c6.m4a) - Junona Boys
-1. [Reality](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/3611756103d56eb71a2aa7c6bb648235.m4a) - Lost Frequencies
+1. [Reality](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/3611756103d56eb71a2aa7c6bb648235.m4a) - Lost Frequencies
 1. [小时光 - 剪辑版]() - 胡期皓
-1. [心若向阳](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/f1950cf1b56b55c09b7458d9e0e5a993.mp3) - 张哲瀚
-1. [提诗侧畔](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/8c70058e67409d9677f4a4f7b85183e6.mp3) - 刘珂矣
+1. [心若向阳](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/f1950cf1b56b55c09b7458d9e0e5a993.mp3) - 张哲瀚
+1. [提诗侧畔](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/8c70058e67409d9677f4a4f7b85183e6.mp3) - 刘珂矣
 1. [Waka Waka](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/6a80a8166f766989bf06df6e75a3b2aa.m4a) - Kids United Nouvelle Génération
 1. [航行](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/a2b2e3cbfb378a61d9ca90e8787b3b22.mp3) - 蒋小呢
 1. [It's a Beautiful Day](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b771f2a34b769aa60471c27ec8a6011d.m4a) - Evan McHugh
