@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-05-06 11:22:24 +0800`
+`更新时间：2021-05-06 12:20:08 +0800`
 
 ## 抖音热榜
 
-1. 五一全国接待国内游客2.3亿人次
-1. 外国男子乘火车不戴口罩还辱骂邻座
+1. 女子分手20年后才想起办离婚证
 1. 被拐25年网络寻亲女子回应
 1. 迷路的小灰灰是什么梗
+1. 五一全国接待国内游客2.3亿人次
+1. 陈妍希回应网友让陈晓离婚
 1. 涨潮时情侣水中亲热无视劝阻
 1. 邓紫棋超能力套路陈伟霆
 1. SpaceX星舰SN15高空试飞成功
 1. 郑恺训练偶遇苏炳添张国伟
+1. 外卖小哥砸门救火
 1. 薛之谦现身云台山音乐节
-1. 女子分手20年后才想起办离婚证
-1. 蔡萝莉回应素颜照
-1. 云南1.5亿只蝴蝶宝宝将羽化成蝶
-1. 如何看待粉丝为偶像打投倒奶
-1. 陈妍希回应网友让陈晓离婚
-1. 伍六七之玄武国篇完结
-1. 詹姆斯将缺席关键战
-1. 徐璐腰线好绝
-1. 副处长亲历查档案办退休
-1. MM豆化妆挑战
-1. 结婚当天到底有多累
-1. 假期结束后有多不想上班
-1. 郑号锡姐姐结婚
-1. 徐璐好甜
-1. 陈赫五一在家去了四个城市
-1. 杨少华父子现身天津德云社
 1. 小鬼粉色造型首唱mood
-1. 朱亚文悬崖之上台词有多烫嘴
-1. 陈建斌介意蒋勤勤的过去
-1. 张云雷 天津
-1. 王晶情陷聊斋画皮开播
+1. 詹姆斯将缺席关键战
+1. 蔡萝莉回应素颜照
+1. 伍六七之玄武国篇完结
+1. 外国男子乘火车不戴口罩还辱骂邻座
+1. 郑号锡姐姐结婚
+1. 结婚当天到底有多累
+1. 云南1.5亿只蝴蝶宝宝将羽化成蝶
+1. MM豆化妆挑战
+1. 杨少华父子现身天津德云社
 1. 粉丝送别余景天
-1. 画师小哥地铁上给路人画肖像
-1. 怦然心动20岁开播
-1. 切尔西晋级欧冠决赛
-1. 边伯贤入伍
-1. 孩子太早懂事是好事吗
-1. 李玉刚新歌也太感人了
-1. 张欣尧跳love shot
-1. 逆天奇案开分
-1. 大爷版培里培气
-1. 峨眉女侠收男弟子
 1. 两家接亲队桥上相遇新郎猜拳礼让
+1. 副处长亲历查档案办退休
+1. 如何看待粉丝为偶像打投倒奶
+1. 比利时农民意外导致法国领土缩小
+1. 徐璐腰线好绝
+1. 雷电击中广州塔瞬间
+1. 陈赫五一在家去了四个城市
+1. 徐璐好甜
+1. 王晶情陷聊斋画皮开播
+1. 阴阳怪气姐姐体
+1. 张云雷 天津
+1. 画师小哥地铁上给路人画肖像
+1. 孩子太早懂事是好事吗
+1. 朱亚文悬崖之上台词有多烫嘴
+1. 切尔西晋级欧冠决赛
+1. 怦然心动20岁开播
+1. 大爷版培里培气
+1. 假期结束后有多不想上班
+1. 母亲节手工礼物
+1. 阿哲婚礼
 1. 梅琳达盖茨或将成世界第二女富豪
-1. 新裤子乐队摇花手
-1. 周也晒顾湘大婚造型vlog
-1. 邓伦 我吃火锅挺专一的
-1. 明星哥哥们的爱老虎油谁顶得住
-1. 你的婚礼意难平
-1. 王源戴编织手表
-1. 章若楠  姐就是要唱
+1. 张欣尧跳love shot
+1. 陈建斌介意蒋勤勤的过去
+1. 李玉刚新歌也太感人了
+1. 峨眉女侠收男弟子
+1. 库里当选西部月最佳
+1. 逆天奇案开分
+1. 边伯贤入伍
 
 ## 明星榜
 
@@ -107,52 +107,52 @@
 
 1. [7710（主歌）]() - 尹露浠
 1. [来迟]() - 戴羽彤
-1. [Cu Phe Thoi - 越南鼓版](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/3a04d1d9a29687cf73c826e4d900a6d5.m4a) - 潮妹
+1. [Cu Phe Thoi - 越南鼓版](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/3a04d1d9a29687cf73c826e4d900a6d5.m4a) - 潮妹
 1. [爱不会绝迹]() - 林俊杰
 1. [呆我眼睛里](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/4e771cb2037ade4adcaa5bfdd7caa851.mp3) - 张天枢
 1. [夏天]() - 刘瑞琦
-1. [走马观花](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/078f857ba72c72b1c0179a150617a6cd.mp3) - 王若熙
-1. [I LOVE YOU](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-ve-2102/fb87a09e223a4241bdc26388f04e1a82) - Kevin Rater
+1. [走马观花](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/078f857ba72c72b1c0179a150617a6cd.mp3) - 王若熙
+1. [I LOVE YOU](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-ve-2102/fb87a09e223a4241bdc26388f04e1a82) - Kevin Rater
 1. [沦陷]() - 王靖雯不胖
 1. [必杀技 (Live)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/338b3fb2c23787b98319ac10afa8d341.m4a) - 古巨基
 1. [Octopus](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b3d682fabffc8ecf46987bb852b2c525.m4a) - ALan
-1. [Waka Waka](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/6a80a8166f766989bf06df6e75a3b2aa.m4a) - Kids United Nouvelle Génération
+1. [Waka Waka](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/6a80a8166f766989bf06df6e75a3b2aa.m4a) - Kids United Nouvelle Génération
 1. [红马-一颗狼星_许篮心]() - 一颗狼星_许篮心
 1. [察觉]() - 音格概念/逸霄
-1. [Nu](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/9793820783c9177bc12e0d86427c4612.m4a) - DJ PROJECT
+1. [Nu](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/9793820783c9177bc12e0d86427c4612.m4a) - DJ PROJECT
 1. [溯（Reverse）]() - CORSAK胡梦周/马吟吟
 1. [大风吹（主歌）](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/81b8a4734231b35492fc59100f00cfce.mp3) - 王赫野
-1. [Vacation](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/f52ac95554f84574a8526f44189d438b) - Dirty Heads
+1. [Vacation](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/f52ac95554f84574a8526f44189d438b) - Dirty Heads
 1. [처음 그 자리에](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/1611210422497282.mp3) - 이보람
 1. [TA]() - 不是花火呀
-1. [想说](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8668531adc9548995fdcc7d3e7811200.mp3) - Lambert
+1. [想说](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8668531adc9548995fdcc7d3e7811200.mp3) - Lambert
 1. [失恋不怪她阵线联盟]() - 拾贰
 1. [坏女孩（Bad girl）](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/5dfa3ca026a76dfb41e0a45a8e80e8da.mp3) - BY2
 1. [来自]() - 叶琼琳
 1. [飘移]() - 周杰伦
 1. [天亮以前说再见](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/668cf68f839036dd9919e01dab848690.m4a) - 何野
 1. [完美降落]() - 胡期皓、董唧唧、叶琼琳
-1. [即刻 副歌](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/db7c0e105755b997ee11c46acd91fadb.mp3) - joysaaaa
+1. [即刻 副歌](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/db7c0e105755b997ee11c46acd91fadb.mp3) - joysaaaa
 1. [我害怕鬼-剪辑版]() - 段兴华
-1. [Temptation](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/dcaf1f5a0753706dd42cfe3d93fd6784.m4a) - WYR GEMI
+1. [Temptation](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/dcaf1f5a0753706dd42cfe3d93fd6784.m4a) - WYR GEMI
 1. [爱就一个字（弹唱版）]() - V仔
 1. [여기저기거기 (Feat. 수퍼비)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/7c0f006a80bf9f35b4ad31075018cbe6.m4a) - Bumkey
 1. [命运的要求]() - 凝音
 1. [Peaches]() - Justin Bieber
 1. [别错过]() - 程jiajia
-1. [Oops](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/iesmsc-sg-local/v1/m/339500002b71488f901c) -  Little Mix / Charlie Puth 
+1. [Oops](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/iesmsc-sg-local/v1/m/339500002b71488f901c) -  Little Mix / Charlie Puth 
 1. [Heut´ brauch ich dich zum Träumen (Neuaufnahme)]() - Brunner & Brunner
 1. [还是会想你]() - 林达浪/h3R3
-1. [难得有情人](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/99c52aeb545a4c8e8f33dfe820464594) - 关淑怡
+1. [难得有情人](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/99c52aeb545a4c8e8f33dfe820464594) - 关淑怡
 1. [八小时时差-剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/f8fd37e66cabe7b877508962c8bf1e1f.mp3) - 郑鱼
 1. [Aloha Heja He]() - Deutscher Schlager
-1. [Somebody's Girl](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/172898bf28c772365cfe7b8e83e73d83.m4a) - Stevie Hoang
-1. [Hey Ho](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/3017dca9d177bb39642f66e91d48bb7f.m4a) - Gilles David Orchestra
+1. [Somebody's Girl](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/172898bf28c772365cfe7b8e83e73d83.m4a) - Stevie Hoang
+1. [Hey Ho](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/3017dca9d177bb39642f66e91d48bb7f.m4a) - Gilles David Orchestra
 1. [Love Love Love](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/9b49a31d414f14f167d3d1d25835e858.m4a) - 蔡依林
-1. [航行](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/a2b2e3cbfb378a61d9ca90e8787b3b22.mp3) - 蒋小呢
+1. [航行](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/a2b2e3cbfb378a61d9ca90e8787b3b22.mp3) - 蒋小呢
 1. [陪伴](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/16279bfb876043a2a3388e2dff1b2326) - 张嘉思
 1. [It's a Beautiful Day](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b771f2a34b769aa60471c27ec8a6011d.m4a) - Evan McHugh
-1. [星空剪影](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/b301b34bc93f762180f01ae408abcb51.mp3) - 蓝心羽
+1. [星空剪影](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/b301b34bc93f762180f01ae408abcb51.mp3) - 蓝心羽
 1. [I Stay In Love (as made famous by Mariah Carey)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/48485b6effd72e64c85237677af2a942.m4a) - The New Year Hit Makers
 1. [回声]() - 那英
 
