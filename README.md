@@ -11,61 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-05-09 04:16:58 +0800`
+`更新时间：2021-05-09 05:15:12 +0800`
 
 ## 抖音热榜
 
 1. 于文文 唱体面快唱吐了
 1. 动感光波
-1. 张艺谋说谋女郎不能是整容脸
 1. 天津德云社现场的感人细节
-1. Amber 妈妈喜欢我唱中文歌
-1. 红动中国艺术巡礼
-1. 男孩回应流鼻血后擦净地上血迹
+1. 张艺谋说谋女郎不能是整容脸
 1. 巴萨马竞争冠
 1. 疑似鞠婧祎粉丝下跪求网友放过鞠婧祎
-1. 凤凰传奇老农业重金属了
-1. 吴亦凡骑车上班
-1. 与GAI聊天的当事人回应
-1. 第二只出逃金钱豹被麻醉后已苏醒
 1. 12岁男孩深夜离家去坟地看妈妈
-1. 龚琳娜给茶树唱歌
-1. 你好李焕英限时免费看
+1. Amber 妈妈喜欢我唱中文歌
+1. 凤凰传奇老农业重金属了
+1. 男孩回应流鼻血后擦净地上血迹
+1. 第二只出逃金钱豹被麻醉后已苏醒
+1. 吴亦凡骑车上班
 1. 于文文 与你的灵魂共舞
 1. 我的妈妈我只要她健康快乐
+1. 你好李焕英限时免费看
+1. 与GAI聊天的当事人回应
 1. 于谦拿曲协砸挂吓坏郭德纲
-1. 守望先锋联赛事件
-1. 22岁大学生杀害父母被审查逮捕
-1. 扫黑决战演员阵容都是帅哥
-1. 章若楠第一次见许光汉时劈了个叉
-1. 护母儿子被羁押753天后重审
-1. 母亲节送什么礼物
-1. 林志玲分享婚后生活
-1. 许光汉说自己一点都不会撩
-1. 乌合麒麟 发张老照片
-1. 号手就位老郎退伍
-1. Amber清唱Borders
-1. 乃万说不做rapper就结婚了
 1. 母亲节明星高能送祝福
+1. 龚琳娜给茶树唱歌
+1. 守望先锋联赛事件
+1. 母亲节送什么礼物
+1. 22岁大学生杀害父母被审查逮捕
+1. 护母儿子被羁押753天后重审
+1. 林志玲分享婚后生活
+1. 章若楠第一次见许光汉时劈了个叉
+1. 号手就位老郎退伍
+1. 扫黑决战演员阵容都是帅哥
+1. 乌合麒麟 发张老照片
 1. 骊歌行太子妃难产
+1. 许光汉说自己一点都不会撩
+1. Amber清唱Borders
 1. 三大运营商集体公告纽交所退市决定
-1. 广东男篮82分大胜黑龙江男篮
+1. 乃万说不做rapper就结婚了
 1. 甘望星秒回张欣尧
+1. 毛晓彤杨玏拍摄情侣写真
 1. 陈大事夫妇再回应被起诉
 1. 晚安吻女团舞
-1. 官方回应6岁女童景区卖气球被驱赶
-1. 戴面具帮奶奶卖樱桃男孩找到了
-1. 张国政井迪儿见家长
-1. 毛晓彤杨玏拍摄情侣写真
-1. 龚琳娜版微微听得人好忐忑
-1. 白鹿辣妹造型2.0
-1. 张艺凡回怼恶评
 1. 杨超越  机器人女友
+1. 广东男篮82分大胜黑龙江男篮
 1. 男子回应偶遇土拨鼠后碎碎念
-1. GAI和粉丝聊天记录疑曝光
-1. 甘望星 昨天来了个假利路修
-1. 张伟丽赛后首次直播落泪
+1. 官方回应6岁女童景区卖气球被驱赶
+1. 妈妈我爱你表白舞
+1. 龚琳娜版微微听得人好忐忑
+1. 周也小雀斑好可爱
+1. 张艺凡回怼恶评
+1. 张国政井迪儿见家长
+1. 戴面具帮奶奶卖樱桃男孩找到了
+1. 白鹿辣妹造型2.0
 1. 吴磊过路障桩的姿势
+1. 甘望星 昨天来了个假利路修
 
 ## 明星榜
 
@@ -106,55 +105,55 @@
 
 ## 音乐榜
 
-1. [恋爱画板（May I Love You 版）](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/74b949029ee6c641f9ab507f690c74a5.mp3) - 锦零
+1. [恋爱画板（May I Love You 版）](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/74b949029ee6c641f9ab507f690c74a5.mp3) - 锦零
 1. [来迟]() - 戴羽彤
 1. [7710（主歌）]() - 尹露浠
-1. [《不遗憾》-电影《你的婚礼》主题曲（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/8ab037e62b165051d74a6c94836ec708.mp3) - 李荣浩
+1. [《不遗憾》-电影《你的婚礼》主题曲（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/8ab037e62b165051d74a6c94836ec708.mp3) - 李荣浩
 1. [夏天]() - 刘瑞琦
 1. [I Love You（中文版）](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8aa2f7a79e20b81702f8e139a3ce006d.mp3) - 汪東城
-1. [呆我眼睛里](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/4e771cb2037ade4adcaa5bfdd7caa851.mp3) - 张天枢
-1. [流星撞进我口袋（May I love U版）](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/fd5da80093b219806a206797e7aa79f4.mp3) - 满舒克
+1. [呆我眼睛里](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/4e771cb2037ade4adcaa5bfdd7caa851.mp3) - 张天枢
+1. [流星撞进我口袋（May I love U版）](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/fd5da80093b219806a206797e7aa79f4.mp3) - 满舒克
 1. [别错过]() - 程jiajia
-1. [Dope Lovers](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/68c0059f0e54afa11c20ceb7b6f7487a.m4a) - DPR IAN
+1. [Dope Lovers](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/68c0059f0e54afa11c20ceb7b6f7487a.m4a) - DPR IAN
 1. [Octopus](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b3d682fabffc8ecf46987bb852b2c525.m4a) - ALan
-1. [Smile At Me](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/e896bde2c6d1bc862a9acd8f67199657.m4a) - Lesya Nz
-1. [必杀技 (Live)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/338b3fb2c23787b98319ac10afa8d341.m4a) - 古巨基
-1. [想说](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8668531adc9548995fdcc7d3e7811200.mp3) - Lambert
+1. [Smile At Me](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/e896bde2c6d1bc862a9acd8f67199657.m4a) - Lesya Nz
+1. [必杀技 (Live)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/338b3fb2c23787b98319ac10afa8d341.m4a) - 古巨基
+1. [想说](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8668531adc9548995fdcc7d3e7811200.mp3) - Lambert
 1. [完美降落]() - 胡期皓、董唧唧、叶琼琳
-1. [Vacation](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/f52ac95554f84574a8526f44189d438b) - Dirty Heads
+1. [Vacation](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/f52ac95554f84574a8526f44189d438b) - Dirty Heads
 1. [囚鸟]() - 赵宥乔
 1. [《谁不是》(男生版)--剪辑](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/748b59bd5efba3d76731e41573258e42.mp3) - 阿叔
 1. [走马观花](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/078f857ba72c72b1c0179a150617a6cd.mp3) - 王若熙
 1. [春秋冬夏](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/398a80d9a6bbbf377a076deb4adc8198.mp3) - 赵芷彤
 1. [回声]() - 那英
-1. [Nu](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/9793820783c9177bc12e0d86427c4612.m4a) - DJ PROJECT
+1. [Nu](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/9793820783c9177bc12e0d86427c4612.m4a) - DJ PROJECT
 1. [吉他初恋](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/babca4bee7ccc9d6a72673ba31e88a1a.mp3) - 刘大壮
 1. [처음 그 자리에](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/1611210422497282.mp3) - 이보람
-1. [All I Need](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/20cfb87a908749d2b859aaaa7e614912) - Brianna
+1. [All I Need](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/20cfb87a908749d2b859aaaa7e614912) - Brianna
 1. [花海]() - 周杰伦
 1. [一路向北（《头文字D》电影插曲）]() - 周杰伦
 1. [溯（Reverse）]() - CORSAK胡梦周/马吟吟
 1. [修普诺斯](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/bb5918f748953bf1a5bfb6b53226b3df.mp3) - 熙月月
 1. [红马-一颗狼星_许篮心]() - 一颗狼星_许篮心
-1. [Waka Waka](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/6a80a8166f766989bf06df6e75a3b2aa.m4a) - Kids United Nouvelle Génération
+1. [Waka Waka](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/6a80a8166f766989bf06df6e75a3b2aa.m4a) - Kids United Nouvelle Génération
 1. [还是会想你]() - 林达浪/h3R3
 1. [命运的要求]() - 凝音
 1. [失恋不怪她阵线联盟]() - 拾贰
 1. [Work from Home](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/h/1d359f716a385c701dfc7b77b62d1121) - Fifth Harmony
 1. [来自]() - 叶琼琳
 1. [七里香]() - 周杰伦
-1. [One Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/179520d3a644b7d124cf142136aed261.m4a) - 虞姬 & 洋菟 & 天1宝宝
+1. [One Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/179520d3a644b7d124cf142136aed261.m4a) - 虞姬 & 洋菟 & 天1宝宝
 1. [Somebody's Girl](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/172898bf28c772365cfe7b8e83e73d83.m4a) - Stevie Hoang
 1. [Heut´ brauch ich dich zum Träumen (Neuaufnahme)]() - Brunner & Brunner
-1. [Deadwood](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/52349eb26ca06bea9157d88b84020344.m4a) - Really Slow Motion
-1. [Relax](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/9bf4f254c120b8a7d751f9d76b5ea2c6.m4a) - Junona Boys
-1. [여기저기거기 (Feat. 수퍼비)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/7c0f006a80bf9f35b4ad31075018cbe6.m4a) - Bumkey
+1. [Deadwood](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/52349eb26ca06bea9157d88b84020344.m4a) - Really Slow Motion
+1. [Relax](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/9bf4f254c120b8a7d751f9d76b5ea2c6.m4a) - Junona Boys
+1. [여기저기거기 (Feat. 수퍼비)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/7c0f006a80bf9f35b4ad31075018cbe6.m4a) - Bumkey
 1. [我害怕鬼-剪辑版]() - 段兴华
-1. [Call Me Maybe](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/2e9ac70638c8f883c64fba64b86f9493.m4a) - Alex G
+1. [Call Me Maybe](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/2e9ac70638c8f883c64fba64b86f9493.m4a) - Alex G
 1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-ve-2102/a22a84e3326448c694840d3cc0a3161e) - Daniel Powter
 1. [See You Again](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/da0ca8f3f4afc20c4a06976e86439c85.m4a) - Ward Burner
 1. [夜曲]() - 周杰伦
-1. [Lake Arrowhead (Radio Mix)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/ddec29be647e3abf436ef1ae1934003d.m4a) - Nora En Pure
+1. [Lake Arrowhead (Radio Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/ddec29be647e3abf436ef1ae1934003d.m4a) - Nora En Pure
 1. [Mood (Lil Ghost Remix)]() - 24KGoldn & Iann Dior & 小鬼
 
 ## 品牌榜
