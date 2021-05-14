@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-05-14 11:32:24 +0800`
+`更新时间：2021-05-14 12:28:31 +0800`
 
 ## 抖音热榜
 
 1. 泰国坠崖孕妇再忆事发细节
 1. 以色列空袭哈马斯总部大楼
 1. 禁忌女孩仿妆
-1. 李浩菲付伟伦街头拥吻
-1. Lisa7月发行SOLO专辑
+1. 许嵩新歌乌鸦越听越上头
 1. 尹正 女孩子一定不能断碳水
+1. 彭冠英黑色蕾丝礼服
+1. 李浩菲付伟伦街头拥吻
 1. 天才小火龙和小智的三岁照
 1. 北京体育大学女子百米飞人
-1. 安徽通报新增2例确诊病例情况
-1. 许嵩新歌乌鸦越听越上头
-1. 彭冠英黑色蕾丝礼服
-1. 还没告诉你对不起我爱你
 1. 仙剑4 仙剑5前传演员备选名单
-1. 消防员回应操场训练被女生搭讪
-1. 以色列总理称要哈马斯血债血偿
-1. 日美法澳四国东海联合演习
-1. 井迪儿求婚张国政
-1. 杜海涛沈梦辰什么时候结婚
-1. 范迪塞尔入驻抖音
-1. 药水哥再次喊话向佐
-1. 记者报道巴以冲突遇炸弹空袭
-1. 杭州杀妻碎尸案开庭
-1. 潘shy之交
-1. 玩具可以有多酷炫
-1. 唱游山恋小男孩再登台
-1. 乔丹和瓦妮莎将在名人堂典礼演讲
-1. 战王太上头了
-1. 小鬼精分舞挑战
-1. 倒垃圾是什么梗
-1. 角色找到原型有多绝
-1. 优酷提供危害国家统一等产品被罚款1万
+1. 赵睿落选国家队
+1. 刘丽千确诊粘液样脂肪肉瘤
+1. 还没告诉你对不起我爱你
 1. 捡51万现金姐弟妈妈是餐厅服务生
-1. 杜海涛沈梦辰否认分手
-1. 国足4场40强赛开球时间确定
-1. 井迪儿是张欣尧第一泥塑粉
-1. 塔图姆霸气隔扣阿伦
-1. 泰国女星Ploy染新冠
-1. 王晨艺王勉跳舞太搞笑了
+1. 杜海涛沈梦辰什么时候结婚
+1. 消防员回应操场训练被女生搭讪
+1. 药水哥再次喊话向佐
+1. 杭州杀妻碎尸案开庭
+1. 井迪儿求婚张国政
+1. 范迪塞尔入驻抖音
+1. 潘shy之交
+1. 唱游山恋小男孩再登台
+1. 记者报道巴以冲突遇炸弹空袭
+1. 哈马斯称打以色列像喝水一样容易
+1. 以色列总理称要哈马斯血债血偿
 1. 1921百位演员曝光
-1. 吴京谢楠庆结婚纪念日
-1. 赵本山女儿公开新恋情
-1. 钟南山 全球通过疫苗免疫需二到三年
+1. 乔丹和瓦妮莎将在名人堂典礼演讲
+1. 日美法澳四国东海联合演习
+1. 玩具可以有多酷炫
+1. 战王太上头了
+1. 安徽通报新增2例确诊病例情况
+1. 破产姐妹Max扮演者订婚
+1. 优酷提供危害国家统一等产品被罚款1万
+1. 国足4场40强赛开球时间确定
+1. 倒垃圾是什么梗
+1. 小鬼精分舞挑战
+1. 1921选角
+1. 塔图姆霸气隔扣阿伦
 1. 黄明昊 最想删除的视频
-1. 张嘴竟是个王者
-1. 李易峰回应没有翘臀
-1. 人民英雄在万疆
-1. 小猫猫也有烦心事儿
-1. 乌合麒麟反击抹黑画作
-1. 蚂蚁森林声明
-1. 安徽六安两地区调为中风险
+1. 王晨艺王勉跳舞太搞笑了
+1. 安徽本土确诊病例升至3例
+1. 当高三晚自习遇上夏夜晚霞
+1. 安德森签约勇士后与母亲通话落泪
+1. 井迪儿是张欣尧第一泥塑粉
+1. 消防员爬70米烟囱救人后累到手抖
+1. Lisa7月发行SOLO专辑
+1. 角色找到原型有多绝
+1. 合肥一地调整为中风险地区
+1. 金素妍百想视后
+1. 卑微文学
 
 ## 明星榜
 
@@ -72,8 +72,8 @@
 1. [罗志祥](https://www.iesdouyin.com/share/user/76725372134?sec_uid=MS4wLjABAAAA2jD45shuaphDnTULtCA3baR-xPXsD97pzSzgKAYwfss)
 1. [刘德华](https://www.iesdouyin.com/share/user/562575903556992?sec_uid=MS4wLjABAAAAU7ibxriLF-GSBF5QKa1Op9hxcMAPVmzmXwXqqvMfrhs)
 1. [刘宪华Henry](https://www.iesdouyin.com/share/user/3847908282870407?sec_uid=MS4wLjABAAAAtrU-PgQOFGoDpNniVNr8bC0y-nMcxe8qyq-smKZlbqK7CvbOxQpfUPAgGgvxUqYm)
-1. [张哲瀚](https://www.iesdouyin.com/share/user/2853975994670060?sec_uid=MS4wLjABAAAAz5LYVGDrF76Z30Tzt39ytO6hKSjQc_UvpOh8olpUwhgv4-nxqjTpJ1BhnvlMRqOU)
 1. [张庭](https://www.iesdouyin.com/share/user/98282802298?sec_uid=MS4wLjABAAAAmvx03_4dmvU4IouLcpVqVvabF3rgKym0WjOjLoVqPos)
+1. [张哲瀚](https://www.iesdouyin.com/share/user/2853975994670060?sec_uid=MS4wLjABAAAAz5LYVGDrF76Z30Tzt39ytO6hKSjQc_UvpOh8olpUwhgv4-nxqjTpJ1BhnvlMRqOU)
 1. [Lil ghost小鬼](https://www.iesdouyin.com/share/user/56252078401?sec_uid=MS4wLjABAAAA39aB3Uw1sFEYK1FpuSO3o69OZOsxKdNT8YcQ2QmKH7I)
 1. [冯巩](https://www.iesdouyin.com/share/user/1991933892508967?sec_uid=MS4wLjABAAAAh6tcornHHqhS6WdOvMvMJEsuMOgUjRpggx3BIBW6BFVVnSS2Gi3fahxR_Kkp1VY-)
 1. [李金铭](https://www.iesdouyin.com/share/user/2897954945654360?sec_uid=MS4wLjABAAAA_1OiHbgncZo7y3QNgqspLoWfOAkIAZlDjvycKoUNkARfEh1Cxdw_Yfd6mE8kSFZB)
@@ -114,46 +114,46 @@
 1. [呆我眼睛里](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/4e771cb2037ade4adcaa5bfdd7caa851.mp3) - 张天枢
 1. [流星撞进我口袋（May I love U版）](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/fd5da80093b219806a206797e7aa79f4.mp3) - 满舒克
 1. [别错过]() - 程jiajia
-1. [Dope Lovers](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/68c0059f0e54afa11c20ceb7b6f7487a.m4a) - DPR IAN
+1. [Dope Lovers](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/68c0059f0e54afa11c20ceb7b6f7487a.m4a) - DPR IAN
 1. [Octopus](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b3d682fabffc8ecf46987bb852b2c525.m4a) - ALan
-1. [Smile At Me](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/e896bde2c6d1bc862a9acd8f67199657.m4a) - Lesya Nz
-1. [必杀技 (Live)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/338b3fb2c23787b98319ac10afa8d341.m4a) - 古巨基
+1. [Smile At Me](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/e896bde2c6d1bc862a9acd8f67199657.m4a) - Lesya Nz
+1. [必杀技 (Live)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/338b3fb2c23787b98319ac10afa8d341.m4a) - 古巨基
 1. [想说](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8668531adc9548995fdcc7d3e7811200.mp3) - Lambert
 1. [完美降落]() - 胡期皓、董唧唧、叶琼琳
-1. [Vacation](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/f52ac95554f84574a8526f44189d438b) - Dirty Heads
+1. [Vacation](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/f52ac95554f84574a8526f44189d438b) - Dirty Heads
 1. [囚鸟]() - 赵宥乔
-1. [《谁不是》(男生版)--剪辑](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/748b59bd5efba3d76731e41573258e42.mp3) - 阿叔
-1. [走马观花](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/078f857ba72c72b1c0179a150617a6cd.mp3) - 王若熙
-1. [春秋冬夏](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/398a80d9a6bbbf377a076deb4adc8198.mp3) - 赵芷彤
+1. [《谁不是》(男生版)--剪辑](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/748b59bd5efba3d76731e41573258e42.mp3) - 阿叔
+1. [走马观花](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/078f857ba72c72b1c0179a150617a6cd.mp3) - 王若熙
+1. [春秋冬夏](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/398a80d9a6bbbf377a076deb4adc8198.mp3) - 赵芷彤
 1. [回声]() - 那英
 1. [Nu](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/9793820783c9177bc12e0d86427c4612.m4a) - DJ PROJECT
-1. [吉他初恋](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/babca4bee7ccc9d6a72673ba31e88a1a.mp3) - 刘大壮
+1. [吉他初恋](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/babca4bee7ccc9d6a72673ba31e88a1a.mp3) - 刘大壮
 1. [처음 그 자리에](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/1611210422497282.mp3) - 이보람
-1. [All I Need](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/20cfb87a908749d2b859aaaa7e614912) - Brianna
+1. [All I Need](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/20cfb87a908749d2b859aaaa7e614912) - Brianna
 1. [花海]() - 周杰伦
 1. [一路向北（《头文字D》电影插曲）]() - 周杰伦
 1. [溯（Reverse）]() - CORSAK胡梦周/马吟吟
-1. [修普诺斯](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/bb5918f748953bf1a5bfb6b53226b3df.mp3) - 熙月月
+1. [修普诺斯](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/bb5918f748953bf1a5bfb6b53226b3df.mp3) - 熙月月
 1. [红马-一颗狼星_许篮心]() - 一颗狼星_许篮心
-1. [Waka Waka](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/6a80a8166f766989bf06df6e75a3b2aa.m4a) - Kids United Nouvelle Génération
+1. [Waka Waka](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/6a80a8166f766989bf06df6e75a3b2aa.m4a) - Kids United Nouvelle Génération
 1. [还是会想你]() - 林达浪/h3R3
 1. [命运的要求]() - 凝音
 1. [失恋不怪她阵线联盟]() - 拾贰
-1. [Work from Home](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/h/1d359f716a385c701dfc7b77b62d1121) - Fifth Harmony
+1. [Work from Home](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/h/1d359f716a385c701dfc7b77b62d1121) - Fifth Harmony
 1. [来自]() - 叶琼琳
 1. [七里香]() - 周杰伦
-1. [One Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/179520d3a644b7d124cf142136aed261.m4a) - 虞姬 & 洋菟 & 天1宝宝
+1. [One Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/179520d3a644b7d124cf142136aed261.m4a) - 虞姬 & 洋菟 & 天1宝宝
 1. [Somebody's Girl](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/172898bf28c772365cfe7b8e83e73d83.m4a) - Stevie Hoang
 1. [Heut´ brauch ich dich zum Träumen (Neuaufnahme)]() - Brunner & Brunner
-1. [Deadwood](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/52349eb26ca06bea9157d88b84020344.m4a) - Really Slow Motion
-1. [Relax](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/9bf4f254c120b8a7d751f9d76b5ea2c6.m4a) - Junona Boys
-1. [여기저기거기 (Feat. 수퍼비)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/7c0f006a80bf9f35b4ad31075018cbe6.m4a) - Bumkey
+1. [Deadwood](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/52349eb26ca06bea9157d88b84020344.m4a) - Really Slow Motion
+1. [Relax](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/9bf4f254c120b8a7d751f9d76b5ea2c6.m4a) - Junona Boys
+1. [여기저기거기 (Feat. 수퍼비)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/7c0f006a80bf9f35b4ad31075018cbe6.m4a) - Bumkey
 1. [我害怕鬼-剪辑版]() - 段兴华
 1. [Call Me Maybe](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/2e9ac70638c8f883c64fba64b86f9493.m4a) - Alex G
-1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-ve-2102/a22a84e3326448c694840d3cc0a3161e) - Daniel Powter
+1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-ve-2102/a22a84e3326448c694840d3cc0a3161e) - Daniel Powter
 1. [See You Again](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/da0ca8f3f4afc20c4a06976e86439c85.m4a) - Ward Burner
 1. [夜曲]() - 周杰伦
-1. [Lake Arrowhead (Radio Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/ddec29be647e3abf436ef1ae1934003d.m4a) - Nora En Pure
+1. [Lake Arrowhead (Radio Mix)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/ddec29be647e3abf436ef1ae1934003d.m4a) - Nora En Pure
 1. [Mood (Lil Ghost Remix)]() - 24KGoldn & Iann Dior & 小鬼
 
 ## 品牌榜
