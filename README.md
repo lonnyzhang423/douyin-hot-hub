@@ -11,61 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-05-21 16:21:48 +0800`
+`更新时间：2021-05-21 17:22:12 +0800`
 
 ## 抖音热榜
 
-1. 张国政顽童大人恋情
-1. 七舅脑爷赵兮雪婚礼vlog
-1. 我要我们在一起看哭了
-1. 虞书欣丁禹兮吻戏
-1. 易烊千玺伤口
-1. 薇娅521心愿挑战赛
-1. 男孩身上绑塑料瓶游泳偷渡西班牙
+1. 黄奕女儿曾被前夫诱导拍视频
 1. 王不染木青分手
-1. 弓步摆肩操
-1. 糖画挑战要被玩坏了
-1. 赵兮雪的捧花只给胡玛丽
-1. lisa ikon合作舞台
-1. 一不小心捡到爱开播
-1. 陈意礼520表白暗黑大米
+1. 七舅脑爷赵兮雪婚礼vlog
+1. 张国政顽童大人恋情
 1. 赵丽颖希望的田野花絮
-1. 觉醒年代入围白玉兰奖
-1. 小满吃点啥
-1. 得知新垣结衣结婚后的你
-1. 云南1.5亿只蝴蝶大爆发
-1. 以色列与哈马斯宣布停火
-1. 3名中国船员加纳海域被绑架
-1. 陈小春新电影上线
-1. 以色列华人讲述巴以冲突的生活
-1. 中巴建交70周年
-1. 副市长跟老婆斗富讨好女儿
-1. 杨紫受到年龄暴击
+1. 2021护苗有我
+1. 虞书欣丁禹兮吻戏
+1. 我要我们在一起看哭了
+1. 易烊千玺伤口
+1. 弓步摆肩操
+1. 男孩身上绑塑料瓶游泳偷渡西班牙
+1. 赵兮雪的捧花只给胡玛丽
+1. 陈意礼520表白暗黑大米
+1. 糖画挑战要被玩坏了
 1. 梅尼耶的cp
-1. 沈阳大爷大妈将头挂树上锻炼
+1. lisa ikon合作舞台
+1. 得知新垣结衣结婚后的你
+1. 小满吃点啥
+1. 觉醒年代入围白玉兰奖
+1. 副市长跟老婆斗富讨好女儿
+1. 一不小心捡到爱开播
+1. 3名中国船员加纳海域被绑架
+1. 中巴建交70周年
 1. 明星集体送小鬼生日祝福
-1. 躲过了520还有521
-1. 陈赫腿部手术顺利
-1. 库里入选常规赛MVP最终候选名单
-1. 2哥来了怎么办兄妹好有爱
-1. 曹县县长凡尔赛现场
-1. 罗斯入选最佳第六人候选人
-1. 精灵耳整容是容貌焦虑吗
-1. 娱乐圈CP秀恩爱有多甜
-1. 甄嬛传剧组逐梦白玉兰
-1. 刘大壮回应吉他初恋抄袭
-1. 汪苏泷 别人发红包你发520群收款
-1. 张桐没入围白玉兰
-1. 孝警阿特领证了
-1. 山东人搞浪漫太硬核了
+1. 陈小春新电影上线
+1. 云南1.5亿只蝴蝶大爆发
 1. 库里高难度压哨三分
-1. 为什么单身的人越来越多
-1. 怦然心动20岁朱非儿
-1. 消防版拍手制服变装
-1. 原相机如何拍出冷白皮
-1. 姜云升 让我塌塌房吧
+1. 陈赫腿部手术顺利
+1. 躲过了520还有521
+1. 库里入选常规赛MVP最终候选名单
 1. 宋雨琦新歌bonnie
-1. 闫晓楠冲击ufc七连胜
+1. 娱乐圈CP秀恩爱有多甜
+1. 2哥来了怎么办兄妹好有爱
+1. 张桐没入围白玉兰
+1. 姜云升 让我塌塌房吧
+1. 刘大壮回应吉他初恋抄袭
+1. 罗斯入选最佳第六人候选人
+1. 杨紫受到年龄暴击
+1. 怦然心动20岁朱非儿
+1. 沈阳大爷大妈将头挂树上锻炼
+1. 消防版拍手制服变装
+1. 孝警阿特领证了
+1. 格林放倒詹姆斯
+1. 原相机如何拍出冷白皮
+1. 面膜特效男团
+1. 为什么单身的人越来越多
+1. 虞书欣跳舞帮王鹤棣打歌
+1. 甄嬛传剧组逐梦白玉兰
+1. 易烊千玺出关首次现身
+1. 小鬼拜托了世界合唱接力
 
 ## 明星榜
 
@@ -79,9 +78,9 @@
 1. [Lil ghost小鬼](https://www.iesdouyin.com/share/user/56252078401?sec_uid=MS4wLjABAAAA39aB3Uw1sFEYK1FpuSO3o69OZOsxKdNT8YcQ2QmKH7I)
 1. [韩美娟-5月22号16点直播](https://www.iesdouyin.com/share/user/99714411562?sec_uid=MS4wLjABAAAAQQ-lyuRQd8FmZqZulytetGTNQ0R5exPhc25F8xgaf5M)
 1. [赵露思](https://www.iesdouyin.com/share/user/58606884048?sec_uid=MS4wLjABAAAAISMJwLxAdIyVnQkkPT9Rv1PRzBraeitmytvKlmZWhmE)
+1. [冯巩](https://www.iesdouyin.com/share/user/1991933892508967?sec_uid=MS4wLjABAAAAh6tcornHHqhS6WdOvMvMJEsuMOgUjRpggx3BIBW6BFVVnSS2Gi3fahxR_Kkp1VY-)
 1. [歐陽娜娜Nana](https://www.iesdouyin.com/share/user/63075266947?sec_uid=MS4wLjABAAAAuWLelPqizjfu5w548WBDgaCJNoUCPsPgHcmoGlB9OXg)
 1. [井胧](https://www.iesdouyin.com/share/user/63549369776?sec_uid=MS4wLjABAAAAtHOKxQzNOxt41hqO4w6tAPHyzSbDbF6hpKS0kI425i0)
-1. [冯巩](https://www.iesdouyin.com/share/user/1991933892508967?sec_uid=MS4wLjABAAAAh6tcornHHqhS6WdOvMvMJEsuMOgUjRpggx3BIBW6BFVVnSS2Gi3fahxR_Kkp1VY-)
 1. [徐璐LULU](https://www.iesdouyin.com/share/user/105026707476?sec_uid=MS4wLjABAAAAWq6PbVw-1vDhdj0C03BDl6gVTCxZDHlBvFuDXG4615o)
 1. [江疏影](https://www.iesdouyin.com/share/user/59425735996?sec_uid=MS4wLjABAAAARoAQjmjgpXMaMKhm1gfcf4CSYlT6ALPnshxDbWAVpnA)
 1. [包文婧](https://www.iesdouyin.com/share/user/76158172249?sec_uid=MS4wLjABAAAAAdMcGhr-kyqvcnxPuGBmGSofbYp6lmxm70KB6zQ2RRw)
@@ -106,12 +105,12 @@
 
 ## 音乐榜
 
-1. [妈妈我爱你-李昕融（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/7919b2789c6eef332c75ba5c98492575.mp3) - 李昕融
+1. [妈妈我爱你-李昕融（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/7919b2789c6eef332c75ba5c98492575.mp3) - 李昕融
 1. [吉他初恋](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/babca4bee7ccc9d6a72673ba31e88a1a.mp3) - 刘大壮
-1. [Возьми сердце моё](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/d22140b73b7684ee4b4afce2b1bad0a2.m4a) - Канги
+1. [Возьми сердце моё](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/d22140b73b7684ee4b4afce2b1bad0a2.m4a) - Канги
 1. [你的眼睛像星星]() - 郭正正/老圈C
-1. [All Right](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b4b32749b84f3c4c766afc3bb7e946c1.m4a) - Lim Kim
-1. [★kiss me baby☆（prod by百川）](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/0fc4b9556679b89c410967ab4ec6396c.mp3) - 椅子不够酷/victor
+1. [All Right](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b4b32749b84f3c4c766afc3bb7e946c1.m4a) - Lim Kim
+1. [★kiss me baby☆（prod by百川）](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/0fc4b9556679b89c410967ab4ec6396c.mp3) - 椅子不够酷/victor
 1. [I Love You（中文版）](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8aa2f7a79e20b81702f8e139a3ce006d.mp3) - 汪東城
 1. [恋爱画板（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/f2ba056bd7b61a505bfadc63bed817e1.mp3) - 锦零
 1. [听妈妈的话]() - 周杰伦
@@ -120,12 +119,12 @@
 1. [Dope Lovers](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/68c0059f0e54afa11c20ceb7b6f7487a.m4a) - DPR IAN
 1. [来迟]() - 戴羽彤
 1. [七里香]() - 周杰伦
-1. [想说](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8668531adc9548995fdcc7d3e7811200.mp3) - Lambert
-1. [Octopus](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b3d682fabffc8ecf46987bb852b2c525.m4a) - ALan
+1. [想说](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8668531adc9548995fdcc7d3e7811200.mp3) - Lambert
+1. [Octopus](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b3d682fabffc8ecf46987bb852b2c525.m4a) - ALan
 1. [命运的要求]() - 凝音
 1. [红马-一颗狼星_许篮心]() - 一颗狼星_许篮心
-1. [See You Again](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/da0ca8f3f4afc20c4a06976e86439c85.m4a) - Ward Burner
-1. [必杀技 (Live)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/338b3fb2c23787b98319ac10afa8d341.m4a) - 古巨基
+1. [See You Again](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/da0ca8f3f4afc20c4a06976e86439c85.m4a) - Ward Burner
+1. [必杀技 (Live)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/338b3fb2c23787b98319ac10afa8d341.m4a) - 古巨基
 1. [失恋不怪她阵线联盟]() - 拾贰
 1. [别错过]() - 程jiajia
 1. [See You Again (feat. Charlie Puth)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-ve-2102/cd6121131bc04e76a7f8ca1dd836fc90) - Wiz Khalifa
@@ -136,25 +135,25 @@
 1. [环绕]() - 张哲瀚
 1. [Mood (Lil Ghost Remix)]() - 24KGoldn & Iann Dior & 小鬼
 1. [到此为止]() - 徐佳莹
-1. [Relax](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/9bf4f254c120b8a7d751f9d76b5ea2c6.m4a) - Junona Boys
+1. [Relax](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/9bf4f254c120b8a7d751f9d76b5ea2c6.m4a) - Junona Boys
 1. [7710（主歌）]() - 尹露浠
 1. [还是会想你]() - 林达浪/h3R3
-1. [風中有朵雨做的雲](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/7664a69dabd144341ebd5d1c079a47ee.m4a) - JIMMY CHAN
+1. [風中有朵雨做的雲](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/7664a69dabd144341ebd5d1c079a47ee.m4a) - JIMMY CHAN
 1. [처음 그 자리에](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/1611210422497282.mp3) - 이보람
 1. [Aloha Heja He]() - Deutscher Schlager
 1. [来自]() - 叶琼琳
-1. [колыбельная](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/1a0b73256822497b81f548bab46d85e4) - Rauf & Faik
+1. [колыбельная](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/1a0b73256822497b81f548bab46d85e4) - Rauf & Faik
 1. [囚鸟]() - 赵宥乔
 1. [好久不见]() - 周杰伦
 1. [Work from Home](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/h/1d359f716a385c701dfc7b77b62d1121) - Fifth Harmony
 1. [Deadwood](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/52349eb26ca06bea9157d88b84020344.m4a) - Really Slow Motion
-1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-ve-2102/a22a84e3326448c694840d3cc0a3161e) - Daniel Powter
+1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-ve-2102/a22a84e3326448c694840d3cc0a3161e) - Daniel Powter
 1. [Vacation](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/f52ac95554f84574a8526f44189d438b) - Dirty Heads
 1. [我害怕鬼-剪辑版]() - 段兴华
 1. [Lake Arrowhead (Radio Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/ddec29be647e3abf436ef1ae1934003d.m4a) - Nora En Pure
 1. [花海]() - 周杰伦
 1. [Unravel but is it okay if it's lofi?](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/bf2b09828db11c76a0de1af687b2329b.m4a) - Kijugo
-1. [Talk Dirty (feat. 2 Chainz) [TJR Remix]](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/dd09d72a5f28ce0607131bf03574ea1d.m4a) - Jason Derulo
+1. [Talk Dirty (feat. 2 Chainz) [TJR Remix]](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/dd09d72a5f28ce0607131bf03574ea1d.m4a) - Jason Derulo
 1. [再见吧 少年](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/9b3ddb10f54f40c3a0e0ee8e75ba8dd5.mp3) - 唐汉霄
 
 ## 品牌榜
