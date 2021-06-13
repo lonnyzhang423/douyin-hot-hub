@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-06-13 17:15:30 +0800`
+`更新时间：2021-06-13 18:17:03 +0800`
 
 ## 抖音热榜
 
 1. 周扬青男友
-1. 上海cp28漫展
-1. 羡慕南方人过端午节
-1. 郭麒麟曾因196斤体重不敢表白
-1. 易烊千玺战损妆
-1. 当男人恋爱时又甜又虐
-1. 赵露思万舞可沙雕
-1. 埃里克森被评为全场最佳
-1. 蔡徐坤羊毛卷造型
-1. 乃万青岛麦田音乐节绝绝子
-1. 美人出粽挑战
-1. 张新成说做女人好难
-1. 楚淇的假发是买粽子送的吧
-1. 薛之谦青岛麦田音乐节
-1. 请全抖音看音乐节
-1. 男孩街头晕倒农民工立即喂水施救
-1. 用新垣结衣方式打开郭老师
-1. 于和伟说不要低估年轻观众审美判断力
-1. 周也腰好细
-1. 河南卫视水下舞蹈幕后细节
-1. 倪妮下班后吃臭豆腐
-1. 粽子变装
 1. 那英 杨紫
-1. 十堰燃气爆炸事故致多人伤亡
-1. 埃里克森已能开口说话
-1. 神奇粽子图鉴
-1. 除了越心全抖音都知道志扬要求婚
+1. 倪妮下班后吃臭豆腐
+1. YG新女团成员
+1. 上海cp28漫展
+1. 当男人恋爱时又甜又虐
 1. 论会过日子还得是张国伟
-1. 杜兰特保镖被罚
-1. 体育生的少年感有多绝
-1. 宋妍霏爸爸年轻时的照片
-1. 皮卡丘颜粉姜云升
-1. 中国男篮公布14人出征大名单
+1. 羡慕南方人过端午节
+1. 易烊千玺战损妆
+1. 莆田鞋集体商标发布
+1. 厚米大妈唠嗑
+1. 乃万青岛麦田音乐节绝绝子
+1. 用新垣结衣方式打开郭老师
+1. 请全抖音看音乐节
+1. 胡先煦被夸帅后的反应
+1. 十堰燃气爆炸事故致多人伤亡
+1. 当你问爸妈家里为什么穷
+1. 倪妮回头杀
+1. 大司马鲁班锁挑战翻车现场
+1. 薛之谦青岛麦田音乐节
+1. 美人出粽挑战
+1. 亲历者还原十堰爆炸事发瞬间
+1. 于和伟说不要低估年轻观众审美判断力
+1. 张新成说做女人好难
+1. 赵露思万舞可沙雕
+1. 蔡徐坤羊毛卷造型
+1. 周也腰好细
+1. 郭麒麟曾因196斤体重不敢表白
+1. 楚淇的假发是买粽子送的吧
 1. 椰树集团被罚40万元
-1. 陈学冬购物好像我本人
-1. 十堰燃气爆炸救援现场
-1. 花式过端午
-1. 周也回应星探推荐自己赚了20万
-1. 陈立农领唱星辰大海
-1. 痞幼回应粉丝疯狂表白
-1. 莫文蔚穿杜嘉班纳服装拍MV
-1. 端午节安康
+1. 河南卫视水下舞蹈幕后细节
 1. 张艺兴翻窗练舞
-1. 广州近6成病例以为是普通感冒
+1. 埃里克森已能开口说话
+1. 十堰燃气爆炸救援现场
+1. 粽子变装
+1. 花式过端午
+1. 郑恺直播曝100米短跑成绩
+1. 杜兰特保镖被罚
+1. 皮卡丘颜粉姜云升
+1. 宋妍霏爸爸年轻时的照片
+1. 中国男篮公布14人出征大名单
 1. 河南卫视水下飞天洛神舞
-1. 不同Rapper的穿着打扮
+1. 神奇粽子图鉴
 1. 吴磊给张子枫提裙子
-1. 电影超越真实励志
-1. 单身哪敢来音乐节
+1. 端午节安康
+1. 苏炳添回怼冬日娜
+1. 这首银河与星斗也太好听了
+1. 莫文蔚穿杜嘉班纳服装拍MV
 1. 埃里克森休克倒地
+1. 体育生的少年感有多绝
 
 ## 明星榜
 
@@ -107,24 +107,24 @@
 
 1. [好久不见（剪辑版2）]() - Lil Jet
 1. [银河与星斗（剪辑版）]() - yihuik苡慧
-1. [窗](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8c272e1cef4295ef376c942f93934ed3.mp3) - 虎二
+1. [窗](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/8c272e1cef4295ef376c942f93934ed3.mp3) - 虎二
 1. [我想要]() - 盖君炎
-1. [那一刻心动](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/ce960f273c96406bdfe8b7350cd73cb6.mp3) - 任子墨
+1. [那一刻心动](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/ce960f273c96406bdfe8b7350cd73cb6.mp3) - 任子墨
 1. [守护着我的光]() - 李巍V仔
-1. [假装（吉他版）](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/4269fbe4ab11e70434833dd0a0dba9d6.mp3) - 刘大壮
+1. [假装（吉他版）](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/4269fbe4ab11e70434833dd0a0dba9d6.mp3) - 刘大壮
 1. [别错过（DJ阿卓版）]() - 程jiajia
 1. [你的眼睛像星星]() - 郭正正/老圈C
 1. [龙的传人](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/d679ec0fef635057dbb18c388b5ded86.mp3) - 王力宏
 1. [Love You Three 3000](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/be75989dbf3f99e8e5e3a6c888ca2af5.m4a) - mushroom
 1. [★kiss me baby☆（prod by百川）](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/0fc4b9556679b89c410967ab4ec6396c.mp3) - 椅子不够酷/victor
-1. [San Andreas (Radio Edit)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/37c0395e56d56d405314d4c640da5baf.m4a) - Groove Delight
-1. [Friendships (Lost My Love)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/423dcf61dfb64d35b2c305b0d5f9c89a) - Pascal Letoublon
+1. [San Andreas (Radio Edit)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/37c0395e56d56d405314d4c640da5baf.m4a) - Groove Delight
+1. [Friendships (Lost My Love)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tos-ag-v-0000/423dcf61dfb64d35b2c305b0d5f9c89a) - Pascal Letoublon
 1. [嘉宾]() - 路飞文
 1. [Hey Mädchen]() - Zillertaler Mander
 1. [Возьми сердце моё](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/d22140b73b7684ee4b4afce2b1bad0a2.m4a) - Канги
-1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/63bdc0878c0691e99cbf6f324092559e.mp3) - 李玉刚
+1. [万疆（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/63bdc0878c0691e99cbf6f324092559e.mp3) - 李玉刚
 1. [我恋爱了（《公主小妹》电视剧插曲）]() - 张韶涵
-1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/973cc5c0702075e3cee5e6796a7f49b1.m4a) - Daniel Powter
+1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/973cc5c0702075e3cee5e6796a7f49b1.m4a) - Daniel Powter
 1. [引力陷阱（剪辑版）]() - 傅梦彤
 1. [这世界那么多人 (电影《我要我们在一起》主题曲)]() - 莫文蔚
 1. [Octopus](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/b3d682fabffc8ecf46987bb852b2c525.m4a) - ALan
@@ -136,25 +136,25 @@
 1. [放空（片段）]() - 大籽/Lil E
 1. [Drown (feat. Clinton Kane) (Alle Farben Remix)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/20cba8ec97accda706ea7e5b3298b113.m4a) - Martin Garrix & Clinton Kane & Alle Farben
 1. [春风醉(卡点版)]() - 七朵家族/曲酷
-1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/06ce7dcdab76e40def0a1039e72815e9.m4a) - Martin Arteta
+1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/06ce7dcdab76e40def0a1039e72815e9.m4a) - Martin Arteta
 1. [命运的要求]() - 凝音
 1. [Dope Lovers](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/68c0059f0e54afa11c20ceb7b6f7487a.m4a) - DPR IAN
 1. [稻香]() - 周杰伦
-1. [吉他初恋](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/babca4bee7ccc9d6a72673ba31e88a1a.mp3) - 刘大壮
-1. [Lake Arrowhead (Radio Mix)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/ddec29be647e3abf436ef1ae1934003d.m4a) - Nora En Pure
-1. [Relax](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/9bf4f254c120b8a7d751f9d76b5ea2c6.m4a) - Junona Boys
+1. [吉他初恋](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/babca4bee7ccc9d6a72673ba31e88a1a.mp3) - 刘大壮
+1. [Lake Arrowhead (Radio Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/ddec29be647e3abf436ef1ae1934003d.m4a) - Nora En Pure
+1. [Relax](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/9bf4f254c120b8a7d751f9d76b5ea2c6.m4a) - Junona Boys
 1. [Fresh 'n' Sexy (Radio Edit)](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/aa771114cccad9a7e683e76feb1aced0.m4a) - Bloxberg & Mark Cox
 1. [别叫我达芬奇 朋克版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/62d6fada7dfe704017912eed4a538f4c.mp3) - 小鬼王琳凯
-1. [爱情慢慢来](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/24c52abd6103fca051a9394a944251a5.mp3) - Stake TwoP
+1. [爱情慢慢来](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/24c52abd6103fca051a9394a944251a5.mp3) - Stake TwoP
 1. [一路向北]() - 周杰伦
 1. [星晴]() - 周杰伦
-1. [Angel](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/edc3992a871833158753f43a11140152.m4a) - MFBTY
+1. [Angel](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/edc3992a871833158753f43a11140152.m4a) - MFBTY
 1. [哥哥抱抱]() - Y星人儿歌/叶雨岑 & 袁鑫怡
-1. [Temptation](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/dcaf1f5a0753706dd42cfe3d93fd6784.m4a) - WYR GEMI
+1. [Temptation](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/dcaf1f5a0753706dd42cfe3d93fd6784.m4a) - WYR GEMI
 1. [Deadwood](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/52349eb26ca06bea9157d88b84020344.m4a) - Really Slow Motion
-1. [Nu](https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/9793820783c9177bc12e0d86427c4612.m4a) - DJ PROJECT
+1. [Nu](https://sf3-cdn-tos.douyinstatic.com/obj/ies-music/9793820783c9177bc12e0d86427c4612.m4a) - DJ PROJECT
 1. [S.O.S. - Herz in Not (Radio-Edit)](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/2d31d7d67d9f971c8cd2214f91dab601.m4a) - 3mal1
-1. [The Other Side of Paradise](https://sf3-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/4893a68bf15df336ef95db9a952f0e05.m4a) - The Harmonics
+1. [The Other Side of Paradise](https://sf6-cdn-tos.douyinstatic.com/obj/iesmusic-cn-local/v1/tt-obj/4893a68bf15df336ef95db9a952f0e05.m4a) - The Harmonics
 
 ## 品牌榜
 
