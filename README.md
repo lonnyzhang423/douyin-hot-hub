@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-06-20 02:17:48 +0800`
+`更新时间：2021-06-20 03:11:59 +0800`
 
 ## 抖音热榜
 
 1. 葡萄牙VS德国
 1. 张晨光反转演技好绝
-1. 我有一个好爸爸
 1. 中国男篮获得3连胜
+1. 我有一个好爸爸
+1. 刘浩存最受传媒关注新人女演员
 1. 天天向上的阿毛长大了
 1. 当男人恋爱时太心痛了
-1. 刘浩存最受传媒关注新人女演员
-1. 采访孟子义好像在悬崖走钢索
-1. 陈意礼回应和大米恋情
-1. 黄磊说要打梁靖康
-1. hey boy嘘声变装
-1. 男生连续三年切水果投喂舍友
-1. 董明珠调侃没人骂你挺孤独的
-1. 周冬雨解释古的白
-1. 原来小学音乐就学过蜜雪冰城
-1. 看电影困在时间里的父亲爆哭
-1. 王俊凯走路姿势
-1. 黄景瑜硬核吃皮皮虾
-1. 东契奇完成首秀
-1. 许佳琪一分钟说60次可爱
-1. 马来西亚女孩露脸唱歌
-1. 刘大壮新歌太伤感了
-1. 张若昀扎染真丝衬衫
-1. 法国爆冷被匈牙利逼平
-1. 按自己的审美p图
-1. 多国航天局点赞中国航天成就
-1. 羊村也开始拼儿子了
 1. 曹荣再现斗战胜佛造型
-1. 说唱版蜜雪冰城
-1. 我们国家为什么叫航天员
-1. 张艺兴跳复古舞上头
-1. giao哥酒吧演出和人发生肢体冲突
-1. 港风女孩的复古婚纱太绝了
-1. 期末考试前的大学生们
-1. 凤凰传奇版请回答1988
+1. 阿根廷战胜乌拉圭
+1. 看电影困在时间里的父亲爆哭
+1. 周冬雨解释古的白
+1. 陈意礼回应和大米恋情
+1. 德国4比2逆转葡萄牙
+1. hey boy嘘声变装
+1. 刘大壮新歌太伤感了
+1. 男生连续三年切水果投喂舍友
+1. 黄磊说要打梁靖康
+1. 多国航天局点赞中国航天成就
+1. 东契奇完成首秀
+1. 马来西亚女孩露脸唱歌
+1. 张若昀扎染真丝衬衫
+1. 董明珠调侃没人骂你挺孤独的
+1. 王俊凯走路姿势
+1. 原来小学音乐就学过蜜雪冰城
+1. 许佳琪一分钟说60次可爱
 1. 致敬中国航天梦
-1. 旺仔小乔版雾里也太好听了
+1. 说唱版蜜雪冰城
 1. 曼恩更衣室被疯狂喷水
-1. 顶楼3秀莲的孩子还活着
-1. 毕业时才知道这些歌有多扎心
-1. 肖战围巾上的泪珠
-1. 虞书欣的三亚旅行vlog
-1. 易烊千玺演医生角色
-1. 噢啦舞挑战
-1. 蔡徐坤你可太会撒娇了
-1. 湖南郴州一居民楼倒塌
+1. giao哥酒吧演出和人发生肢体冲突
+1. 凤凰传奇版请回答1988
+1. 黄景瑜硬核吃皮皮虾
+1. 我们国家为什么叫航天员
+1. 羊村也开始拼儿子了
+1. 按自己的审美p图
 1. 于正公司签约的新人
-1. 张新成盘核桃盘成肌肉记忆
-1. 袁冰妍红色一字裙
+1. 张艺兴跳复古舞上头
+1. 旺仔小乔版雾里也太好听了
+1. 采访孟子义好像在悬崖走钢索
+1. 虞书欣的三亚旅行vlog
+1. 法国爆冷被匈牙利逼平
+1. 毕业时才知道这些歌有多扎心
+1. 港风女孩的复古婚纱太绝了
+1. 顶楼3秀莲的孩子还活着
+1. 湖南郴州一居民楼倒塌
+1. 期末考试前的大学生们
+1. 蔡徐坤你可太会撒娇了
+1. 肖战围巾上的泪珠
 1. 如何看待超市诬陷孩子偷窃事件
+1. 易烊千玺演医生角色
+1. 刘德华确定出演流浪地球2
 
 ## 明星榜
 
@@ -105,7 +105,7 @@
 
 ## 音乐榜
 
-1. [Crazy](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6997a2ef06ef442eba386c62b768bce2) - BCD Studio-CC
+1. [Crazy](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6997a2ef06ef442eba386c62b768bce2) - BCD Studio-CC
 1. [Old Town Road](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/571d360d21b14fef8a8f267dd6e237ff) - Lil Nas X/Billy Ray Cyrus 
 1. [好久不见（剪辑版2）]() - Lil Jet
 1. [银河与星斗（剪辑版）]() - yihuik苡慧
@@ -123,8 +123,8 @@
 1. [窗](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/269c983db11f449ca8ec78006d207f24) - 虎二
 1. [像风一样自由](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4769ac21012d4458b1837d8c627db4e1) - 许巍
 1. [夏天]() - 刘瑞琦
-1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
-1. [Octopus](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c6b904c04d34b48837782a3563d6679) - ALan
+1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
+1. [Octopus](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c6b904c04d34b48837782a3563d6679) - ALan
 1. [来迟]() - 戴羽彤
 1. [这世界那么多人 (电影《我要我们在一起》主题曲)]() - 莫文蔚
 1. [半生雪]() - 是七叔呢
@@ -133,24 +133,24 @@
 1. [我恋爱了（《公主小妹》电视剧插曲）]() - 张韶涵
 1. [Lake Arrowhead (Radio Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/15688b46e76e4ad781edb69e01286786) - Nora En Pure
 1. [稻香]() - 周杰伦
-1. [San Andreas (Radio Edit)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/edcfd04425e8418cbc76b04fdaac57a2) - Groove Delight
-1. [那一刻心动](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
-1. [Drown (feat. Clinton Kane) (Alle Farben Remix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/62db4107a5a24443a49ba989cba509c2) - Martin Garrix & Clinton Kane & Alle Farben
+1. [San Andreas (Radio Edit)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/edcfd04425e8418cbc76b04fdaac57a2) - Groove Delight
+1. [那一刻心动](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
+1. [Drown (feat. Clinton Kane) (Alle Farben Remix)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/62db4107a5a24443a49ba989cba509c2) - Martin Garrix & Clinton Kane & Alle Farben
 1. [I Love You (OT: Ai Hen Jian Dan)]() - 王若琳
 1. [嘉宾]() - 路飞文
-1. [大海](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c1700d35eade43a08a97f64dc2f8b614) - 张雨生
-1. [《Raining》（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7be2735a9c5c42219f8e738c78fcadb3) - Lil Ghost小鬼
+1. [大海](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c1700d35eade43a08a97f64dc2f8b614) - 张雨生
+1. [《Raining》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7be2735a9c5c42219f8e738c78fcadb3) - Lil Ghost小鬼
 1. [雨一直下](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6a3f3f8d4d441a5a960bf7de26e36c7) - 張宇
-1. [别叫我达芬奇 朋克版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/87b71986feac44c588cbad1b62bb1637) - 小鬼王琳凯
-1. [Somebody's Girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5d55c9d08b73474fbac192a70d799c1f) - Stevie Hoang
-1. [★kiss me baby☆（prod by百川）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ee7e93c39804ac493a60daa3d9ded65) - 椅子不够酷/victor
-1. [赴约（副歌版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0462e95d213142aeb2f54b4877ea3fd4) - Lorien/国风音乐联盟
+1. [别叫我达芬奇 朋克版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/87b71986feac44c588cbad1b62bb1637) - 小鬼王琳凯
+1. [Somebody's Girl](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5d55c9d08b73474fbac192a70d799c1f) - Stevie Hoang
+1. [★kiss me baby☆（prod by百川）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ee7e93c39804ac493a60daa3d9ded65) - 椅子不够酷/victor
+1. [赴约（副歌版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0462e95d213142aeb2f54b4877ea3fd4) - Lorien/国风音乐联盟
 1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/201a624b4b4f47d4ac8c895a2c7aeb32) - Martin Arteta
-1. [Nu](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/227381bfae98439fb2c618592116fafe) - DJ PROJECT
+1. [Nu](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/227381bfae98439fb2c618592116fafe) - DJ PROJECT
 1. [Hey Mädchen]() - Zillertaler Mander
 1. [航行](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0675cc6498fb4c6d996b864d8d7e61d5) - 蒋小呢
-1. [无忘（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf65dcfea03a44c9b1eea096c62f4c46) - 钟芷晴
-1. [Deadwood](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/882e84b7e9614929a7c18eb14ac746ca) - Really Slow Motion
+1. [无忘（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf65dcfea03a44c9b1eea096c62f4c46) - 钟芷晴
+1. [Deadwood](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/882e84b7e9614929a7c18eb14ac746ca) - Really Slow Motion
 1. [我是如此相信]() - 周杰伦
 1. [必杀技 (Live)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/40dd609629244ca6932deab4966124d4) - 古巨基
 1. [사랑해요 只对你说]() - 林俊杰
