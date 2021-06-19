@@ -11,58 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-06-19 12:19:32 +0800`
+`更新时间：2021-06-19 13:17:49 +0800`
 
 ## 抖音热榜
 
 1. 原来小学音乐就学过蜜雪冰城
 1. 张晨光反转演技好绝
-1. 黄磊说要打梁靖康
-1. 港风女孩的复古婚纱太绝了
+1. 薛之谦心脏人体舞美太酷了
 1. hey boy嘘声变装
 1. 宋妍霏六年后向佟大为道歉
-1. 薛之谦心脏人体舞美太酷了
+1. 黄磊说要打梁靖康
+1. 港风女孩的复古婚纱太绝了
+1. 袁隆平讲禾下乘凉梦的珍贵影像
+1. 顶楼3秀莲的孩子还活着
 1. 按自己的审美p图
+1. 马来西亚女孩露脸唱歌
+1. 张艺兴跳复古舞上头
+1. 恩比德科林斯冲突
 1. 毕业时才知道这些歌有多扎心
 1. 聂海胜出征前染黑了白发
-1. 肖战围巾上的泪珠
-1. 顶楼3秀莲的孩子还活着
-1. 马来西亚女孩露脸唱歌
 1. 赵露思回应变胖
-1. 袁冰妍红色一字裙
-1. 航天员是如何选拔出来的
-1. 恩比德科林斯冲突
+1. 肖战围巾上的泪珠
 1. 白冰公主切造型梦回玉漱
+1. 国际空间站新太阳能电池板安装失败
 1. Lisa将于7月solo出道
-1. 情侣为爱用锁链锁住彼此123天
-1. 陈意礼回应和大米恋情
-1. 如何看待超市诬陷孩子偷窃事件
-1. 毕业的仪式感
+1. 玩密室被男友推出去挡npc要分手吗
+1. 阿斯顿马丁车主再次回应
 1. 家长回应弟弟扔枕头救下姐姐
+1. 情侣为爱用锁链锁住彼此123天
+1. 凤凰传奇版隐秘的角落
+1. 袁冰妍红色一字裙
+1. 航天员太空吃播名场面
+1. 邓刚黑坑盘老板后换小黑鸭
+1. 毕业的仪式感
+1. 蔡徐坤的脑洞实现了
+1. 陈意礼回应和大米恋情
+1. 多国航天局点赞中国航天成就
+1. 高校偷外卖的网红狗狗去世
+1. 清华美院毕设引质疑
 1. 寻找小刚学长全国分刚
 1. 郑恺说自己和爆红不适用
-1. 阿斯顿马丁车主再次回应
-1. 彭于晏回应被馋身子
-1. 吴磊张子枫校服合照
-1. 清华美院毕设引质疑
-1. 凤凰传奇版隐秘的角落
-1. 顽童大人张国政隔空秀恩爱
-1. 高校偷外卖的网红狗狗去世
 1. C罗可乐梗被球员争相模仿
+1. 顽童大人张国政隔空秀恩爱
 1. 张新成好会演女生
+1. 梅西当选全场最佳
 1. 虞书欣的三亚旅行vlog
-1. 蔡徐坤的脑洞实现了
-1. 蔡徐坤工作室注册情人商标
-1. 航天员太空吃播名场面
 1. 王玉萌奇葩外号惊呆可爱屁
-1. 郭麒麟回归奔跑吧
-1. 玩密室被男友推出去挡npc要分手吗
-1. 小朋友跳古典舞气质绝了
-1. 多国航天局点赞中国航天成就
-1. 国足亚洲排名第九
+1. 蔡徐坤工作室注册情人商标
 1. 周冬雨演技
+1. 如何看待超市诬陷孩子偷窃事件
+1. 为什么神舟十二航天员不是年轻人
+1. 吴磊张子枫校服合照
 1. 密室大逃脱海报疑似抄袭梦华录
-1. 凤凰传奇版请回答1988
+1. 小朋友跳古典舞气质绝了
 1. 想你的夜唱作大赏
 
 ## 明星榜
@@ -79,11 +80,11 @@
 1. [陈赫](https://www.iesdouyin.com/share/user/84990209480?sec_uid=MS4wLjABAAAAAEtO1dCIZvj4VWbLU4Xce7DgVgsKNMNu88eNR2c2LtY)
 1. [涂磊](https://www.iesdouyin.com/share/user/58078054954?sec_uid=MS4wLjABAAAAyj9GWtEMNtvyynBb2MaVe_nWeq0fkomuURHCHelaSAA)
 1. [毛晓彤](https://www.iesdouyin.com/share/user/63685564960?sec_uid=MS4wLjABAAAALTVw6qP34qqsNJ6xqN6jRRkJ78edpGiaIw-YeZGDvTk)
+1. [张晨光](https://www.iesdouyin.com/share/user/1270671510879005?sec_uid=MS4wLjABAAAAqRR5h5970eacf_kdSonHPp9pVIairI848wleLQJp7PQlVJDzTmohFbiJ9e6OHVSJ)
 1. [李玉刚](https://www.iesdouyin.com/share/user/93070705572?sec_uid=MS4wLjABAAAAaBcrUUGVhBDfPtBa4D6qQKc6XpvAxii-ImVWyNZJJOQ)
 1. [GEM鄧紫棋](https://www.iesdouyin.com/share/user/85089670734?sec_uid=MS4wLjABAAAAh7MdVA-UbMYLeO3_zhA_Z-Mrkh8cDwBCU_qQqucnrFE)
-1. [张晨光](https://www.iesdouyin.com/share/user/1270671510879005?sec_uid=MS4wLjABAAAAqRR5h5970eacf_kdSonHPp9pVIairI848wleLQJp7PQlVJDzTmohFbiJ9e6OHVSJ)
-1. [朱梓骁](https://www.iesdouyin.com/share/user/64036627979?sec_uid=MS4wLjABAAAAap4V4ShgmTBxsTl5JgKYnkywnroBJKyLRxAFAUHsD_0)
 1. [孙耀威](https://www.iesdouyin.com/share/user/94517847754?sec_uid=MS4wLjABAAAAzFwssMnR_vWRnQp8fDzOm3iXLpW3OuD2Hm13DotkCi0)
+1. [朱梓骁](https://www.iesdouyin.com/share/user/64036627979?sec_uid=MS4wLjABAAAAap4V4ShgmTBxsTl5JgKYnkywnroBJKyLRxAFAUHsD_0)
 1. [我才是孙怡](https://www.iesdouyin.com/share/user/84911283426?sec_uid=MS4wLjABAAAAfn32ij5ZB2c6LTBAjgCdFHB1sUfcT2hSwjTJZnGyqsk)
 1. [陈佩斯父与子](https://www.iesdouyin.com/share/user/97117915687?sec_uid=MS4wLjABAAAAhsi-e3XXzqPPcOzEClkEna2LOeKP8aENLueuQHDlC_M)
 1. [张柏芝](https://www.iesdouyin.com/share/user/83204842726829?sec_uid=MS4wLjABAAAAak8ElxZLmBZk6jessKl6pA3KEpkijlAr_Wdci_9DKXg)
@@ -94,8 +95,8 @@
 1. [井胧](https://www.iesdouyin.com/share/user/63549369776?sec_uid=MS4wLjABAAAAtHOKxQzNOxt41hqO4w6tAPHyzSbDbF6hpKS0kI425i0)
 1. [张纪中导演](https://www.iesdouyin.com/share/user/4050243636962300?sec_uid=MS4wLjABAAAASJVEisuWb4bL4D4WkmZqoqAYfSSyMQh2nZAYllrO1tqDMGdbeUQTZXN-9ti5-HpD)
 1. [张鹤伦](https://www.iesdouyin.com/share/user/64185140502?sec_uid=MS4wLjABAAAA71jyiMMU9f2JIC9CVYnRvhJp_VnymfaUQrSeJxLnxbE)
-1. [克拉拉ClaraLee](https://www.iesdouyin.com/share/user/62910551816?sec_uid=MS4wLjABAAAAAJdO1lVACAkRdL-wx0U3FpCPg9K7M5sgv--kz_UXPZo)
 1. [凤凰传奇玲花](https://www.iesdouyin.com/share/user/4292937661289933?sec_uid=MS4wLjABAAAA4FWIk5FvDVR3V1ZyrQeu0ap6ukBnGTxHOsi4qLUDdtcL-EP4ovFf7AVDeMR_J8cf)
+1. [克拉拉ClaraLee](https://www.iesdouyin.com/share/user/62910551816?sec_uid=MS4wLjABAAAAAJdO1lVACAkRdL-wx0U3FpCPg9K7M5sgv--kz_UXPZo)
 1. [韩美娟](https://www.iesdouyin.com/share/user/99714411562?sec_uid=MS4wLjABAAAAQQ-lyuRQd8FmZqZulytetGTNQ0R5exPhc25F8xgaf5M)
 
 ## 直播榜
@@ -104,48 +105,48 @@
 
 ## 音乐榜
 
-1. [Crazy](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6997a2ef06ef442eba386c62b768bce2) - BCD Studio-CC
-1. [Old Town Road](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/571d360d21b14fef8a8f267dd6e237ff) - Lil Nas X/Billy Ray Cyrus 
+1. [Crazy](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6997a2ef06ef442eba386c62b768bce2) - BCD Studio-CC
+1. [Old Town Road](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/571d360d21b14fef8a8f267dd6e237ff) - Lil Nas X/Billy Ray Cyrus 
 1. [好久不见（剪辑版2）]() - Lil Jet
 1. [银河与星斗（剪辑版）]() - yihuik苡慧
-1. [风吹一夏（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
+1. [风吹一夏（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
 1. [守护着我的光]() - 李巍V仔
-1. [愿意（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/290fb827080a420b8bbad98e3f537495) - 吕口口
-1. [假装（吉他版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d4774b8e64977aaec60c991369e0d) - 刘大壮
+1. [愿意（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/290fb827080a420b8bbad98e3f537495) - 吕口口
+1. [假装（吉他版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d4774b8e64977aaec60c991369e0d) - 刘大壮
 1. [你的眼睛像星星]() - 郭正正/老圈C
 1. [吉他初恋](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2b50aa97a4d34f55b12f9ae0a4279a4b) - 刘大壮
 1. [引力陷阱（剪辑版）]() - 傅梦彤
-1. [Dope Lovers](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5cdee0e57544fe8983e5169c9a108f8) - DPR IAN
+1. [Dope Lovers](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5cdee0e57544fe8983e5169c9a108f8) - DPR IAN
 1. [我想要]() - 盖君炎
 1. [放空（片段）]() - 大籽/Lil E
 1. [爱情慢慢来](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28c7f5aba8f24e70a45e8db8c3fce8a2) - Stake TwoP
-1. [窗](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/269c983db11f449ca8ec78006d207f24) - 虎二
+1. [窗](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/269c983db11f449ca8ec78006d207f24) - 虎二
 1. [像风一样自由](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4769ac21012d4458b1837d8c627db4e1) - 许巍
 1. [夏天]() - 刘瑞琦
-1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
-1. [Octopus](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c6b904c04d34b48837782a3563d6679) - ALan
+1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
+1. [Octopus](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c6b904c04d34b48837782a3563d6679) - ALan
 1. [来迟]() - 戴羽彤
 1. [这世界那么多人 (电影《我要我们在一起》主题曲)]() - 莫文蔚
 1. [半生雪]() - 是七叔呢
-1. [Send It](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45bdbf78005146529d550a75a4788eba) - Austin Mahone,Rich Homie Quan
+1. [Send It](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45bdbf78005146529d550a75a4788eba) - Austin Mahone,Rich Homie Quan
 1. [漫步宇宙]() - 蓝心羽
 1. [我恋爱了（《公主小妹》电视剧插曲）]() - 张韶涵
-1. [Lake Arrowhead (Radio Mix)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/15688b46e76e4ad781edb69e01286786) - Nora En Pure
+1. [Lake Arrowhead (Radio Mix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/15688b46e76e4ad781edb69e01286786) - Nora En Pure
 1. [稻香]() - 周杰伦
-1. [San Andreas (Radio Edit)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/edcfd04425e8418cbc76b04fdaac57a2) - Groove Delight
-1. [那一刻心动](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
-1. [Drown (feat. Clinton Kane) (Alle Farben Remix)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/62db4107a5a24443a49ba989cba509c2) - Martin Garrix & Clinton Kane & Alle Farben
+1. [San Andreas (Radio Edit)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/edcfd04425e8418cbc76b04fdaac57a2) - Groove Delight
+1. [那一刻心动](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
+1. [Drown (feat. Clinton Kane) (Alle Farben Remix)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/62db4107a5a24443a49ba989cba509c2) - Martin Garrix & Clinton Kane & Alle Farben
 1. [I Love You (OT: Ai Hen Jian Dan)]() - 王若琳
 1. [嘉宾]() - 路飞文
-1. [大海](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c1700d35eade43a08a97f64dc2f8b614) - 张雨生
+1. [大海](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c1700d35eade43a08a97f64dc2f8b614) - 张雨生
 1. [《Raining》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7be2735a9c5c42219f8e738c78fcadb3) - Lil Ghost小鬼
-1. [雨一直下](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6a3f3f8d4d441a5a960bf7de26e36c7) - 張宇
+1. [雨一直下](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6a3f3f8d4d441a5a960bf7de26e36c7) - 張宇
 1. [别叫我达芬奇 朋克版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/87b71986feac44c588cbad1b62bb1637) - 小鬼王琳凯
-1. [Somebody's Girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5d55c9d08b73474fbac192a70d799c1f) - Stevie Hoang
-1. [★kiss me baby☆（prod by百川）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ee7e93c39804ac493a60daa3d9ded65) - 椅子不够酷/victor
+1. [Somebody's Girl](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5d55c9d08b73474fbac192a70d799c1f) - Stevie Hoang
+1. [★kiss me baby☆（prod by百川）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1ee7e93c39804ac493a60daa3d9ded65) - 椅子不够酷/victor
 1. [赴约（副歌版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0462e95d213142aeb2f54b4877ea3fd4) - Lorien/国风音乐联盟
-1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/201a624b4b4f47d4ac8c895a2c7aeb32) - Martin Arteta
-1. [Nu](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/227381bfae98439fb2c618592116fafe) - DJ PROJECT
+1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/201a624b4b4f47d4ac8c895a2c7aeb32) - Martin Arteta
+1. [Nu](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/227381bfae98439fb2c618592116fafe) - DJ PROJECT
 1. [Hey Mädchen]() - Zillertaler Mander
 1. [航行](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0675cc6498fb4c6d996b864d8d7e61d5) - 蒋小呢
 1. [无忘（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf65dcfea03a44c9b1eea096c62f4c46) - 钟芷晴
