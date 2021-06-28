@@ -11,61 +11,62 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-06-28 11:17:58 +0800`
+`更新时间：2021-06-28 12:19:53 +0800`
 
 ## 抖音热榜
 
 1. 专题：百年风华
 1. 七一勋章是如何铸成的
-1. 杨利伟回忆生死26秒惊险时刻
-1. 最后一个离开宿舍是什么体验
 1. 农村国宝挑战全网篮球达人
-1. 利拉德或申请交易
-1. 葡萄牙0比1遭比利时淘汰
+1. 杨利伟回忆生死26秒惊险时刻
+1. 西红柿茄子焖面绝了
 1. 高校抢人大赛
-1. 忍住不唱不跳挑战
-1. 蜜雪冰城开在东京是什么样的
-1. 觉醒年代导演称赞电影革命者
+1. 跟龚俊一起拍夏日Vlog
+1. 业主电梯内备喜糖邻居留言祝福
+1. 最后一个离开宿舍是什么体验
+1. 利拉德或申请交易
+1. 深夜看球的正确姿势
 1. 谁是欧洲杯预测之王
 1. C罗欧洲杯之旅结束了
+1. 发改委称中国居民电价偏低
 1. 挑战黑坑上岸
-1. 业主电梯内备喜糖邻居留言祝福
-1. 张嘉倪想拉黑芜浣
-1. 旺仔小乔雾里高音合唱挑战
-1. Lisa超大蝴蝶结抹胸造型
-1. 井迪儿余庆伟连麦聊面基趣事
-1. 让周冬雨行礼的后果
-1. 曾毅被玲花支配的一生
-1. 王子邓丽欣宣布分手
-1. 周也对孟子义撒娇说抱我
-1. 经纪人叫宋轶别吃了
-1. 河南多地校外培训机构暂停营业
-1. 王思聪参加婚礼全程严肃高冷
-1. 周柯宇为了不曝光新发色有多努力
-1. 王一博寸头西装造型
-1. 张子枫梁靖康互动好甜
-1. 不要将哈士奇锁在车里
-1. 德布劳内受伤
-1. 17岁28岁33岁的刘亦菲
-1. 男子救落水老人前拍视频防止被讹
-1. 刘宇宁见到高个子粉丝的反应
-1. 许凯回应白玦高冷人设
-1. 和李玉刚一起唱万疆
-1. 周冬雨一喝酒就撩许凯
-1. 郭麒麟直男语录
-1. 姜云升 你们体验爱情我体验暴富
-1. 张新成费渡风
-1. 毛不易 我听见一些不太吉利的声音
-1. 外卖小哥高考623分淡定送外卖
-1. 深夜看球的正确姿势
-1. 张颂文回应40岁无房产
-1. 井迪儿小霸宠回应被组cp
-1. 农夫山泉否认涉日本福岛进口成分
-1. 大爷妖娆舞姿引爆幼儿园毕业典礼
-1. 清华美院动画毕设万华镜
+1. 忍住不唱不跳挑战
+1. 葡萄牙0比1遭比利时淘汰
 1. 贵阳幼崽一镜到底飙演技
+1. 觉醒年代导演称赞电影革命者
+1. 不要将哈士奇锁在车里
+1. 拜登下令空袭伊拉克叙利亚边境地区
+1. 环法自行车赛集体摔车
+1. 外卖小哥高考623分淡定送外卖
+1. 楚淇毛光光傻傻分不清楚
+1. 挑战全网最美雅典娜
+1. 蜜雪冰城开在东京是什么样的
+1. 大爷妖娆舞姿引爆幼儿园毕业典礼
+1. 当女朋友变成篮球
+1. 男子救落水老人前拍视频防止被讹
 1. C罗怒摔袖标
-1. 西红柿茄子焖面绝了
+1. 蜜雪冰城在逃雪人
+1. 当一个美术生很闲的时候
+1. 张颂文回应40岁无房产
+1. 消防版空地召唤爱车
+1. 荷兰0-2捷克无缘八强
+1. 让周冬雨行礼的后果
+1. 太阳拿到西决赛点
+1. 欧洲杯历史第一对父子进球
+1. 王思聪参加婚礼全程严肃高冷
+1. Cindy瘦了
+1. 河南多地校外培训机构暂停营业
+1. 刘宇宁见到高个子粉丝的反应
+1. 17岁28岁33岁的刘亦菲
+1. Lisa超大蝴蝶结抹胸造型
+1. 周冬雨一喝酒就撩许凯
+1. 经纪人叫宋轶别吃了
+1. 许凯回应白玦高冷人设
+1. 王一博寸头西装造型
+1. 周柯宇为了不曝光新发色有多努力
+1. 姜云升 你们体验爱情我体验暴富
+1. 周也对孟子义撒娇说抱我
+1. 外孙女出嫁外公拉着手大哭送出门
 
 ## 明星榜
 
@@ -73,32 +74,32 @@
 1. [李小萌](https://www.iesdouyin.com/share/user/79808605025?sec_uid=MS4wLjABAAAAa3pDmhrA7xgUsXvqxxChNK79zu06-p6kFCYJqbjM54o)
 1. [孙耀威](https://www.iesdouyin.com/share/user/94517847754?sec_uid=MS4wLjABAAAAzFwssMnR_vWRnQp8fDzOm3iXLpW3OuD2Hm13DotkCi0)
 1. [薛之谦](https://www.iesdouyin.com/share/user/96392803790?sec_uid=MS4wLjABAAAAV9gNIy6uaO24sU0-g3Uz_kxHqIRYQrKqDXtLSBtsm5E)
+1. [张俪](https://www.iesdouyin.com/share/user/62741533697?sec_uid=MS4wLjABAAAAsXkb2OBQIasuTtHOavgoUpSUNRkjiVFC4jDbIMml81w)
 1. [张庭](https://www.iesdouyin.com/share/user/98282802298?sec_uid=MS4wLjABAAAAmvx03_4dmvU4IouLcpVqVvabF3rgKym0WjOjLoVqPos)
-1. [蔡徐坤](https://www.iesdouyin.com/share/user/103313639528?sec_uid=MS4wLjABAAAAxj2Cuu75g3I2pGOs7jtw5XN6WMiCKbA-jfIjlONRRvM)
 1. [许凯](https://www.iesdouyin.com/share/user/74885334220?sec_uid=MS4wLjABAAAA1lmOnZRQ70GGdNlv9GfnuPVGSBvTVXeW0HDskx7HhGU)
 1. [李若彤](https://www.iesdouyin.com/share/user/3232189957815115?sec_uid=MS4wLjABAAAAvYFMjRhT_7pHVfgrEKSj4zAk6_UbPXdPjjJ51rlGQa7EklxqaZkMbUXxo3fApgDD)
+1. [蔡徐坤](https://www.iesdouyin.com/share/user/103313639528?sec_uid=MS4wLjABAAAAxj2Cuu75g3I2pGOs7jtw5XN6WMiCKbA-jfIjlONRRvM)
 1. [白鹿my](https://www.iesdouyin.com/share/user/67262082771?sec_uid=MS4wLjABAAAAORCDztC7TcHbBDZ4e6JwLx6CfMzl-OIOLx6YKrcIA-U)
-1. [张俪](https://www.iesdouyin.com/share/user/62741533697?sec_uid=MS4wLjABAAAAsXkb2OBQIasuTtHOavgoUpSUNRkjiVFC4jDbIMml81w)
-1. [徐冬冬](https://www.iesdouyin.com/share/user/62643163398?sec_uid=MS4wLjABAAAAL7etEMYqPnShAe7v-FHo4NLDhtGJnkdcaDuRmvuxy2M)
 1. [陈赫](https://www.iesdouyin.com/share/user/84990209480?sec_uid=MS4wLjABAAAAAEtO1dCIZvj4VWbLU4Xce7DgVgsKNMNu88eNR2c2LtY)
+1. [徐冬冬](https://www.iesdouyin.com/share/user/62643163398?sec_uid=MS4wLjABAAAAL7etEMYqPnShAe7v-FHo4NLDhtGJnkdcaDuRmvuxy2M)
 1. [周扬青](https://www.iesdouyin.com/share/user/94523065049?sec_uid=MS4wLjABAAAAATpnb7tnKRvQfeojO4rHjgQsp9orfdR68bK-NuVEeqY)
 1. [罗志祥](https://www.iesdouyin.com/share/user/76725372134?sec_uid=MS4wLjABAAAA2jD45shuaphDnTULtCA3baR-xPXsD97pzSzgKAYwfss)
 1. [陈钰琪Yukee](https://www.iesdouyin.com/share/user/93378652232?sec_uid=MS4wLjABAAAAhTZ6RemvE4X2asHlWop9rdBHrNOpgnkrdRS4SgAkD3I)
 1. [舒畅](https://www.iesdouyin.com/share/user/110210061818?sec_uid=MS4wLjABAAAAq082846ylI-_hWpwlULfFfX27LM_vwCyKijtCj4chsY)
 1. [刘梦LapMoby](https://www.iesdouyin.com/share/user/73034611499?sec_uid=MS4wLjABAAAA4SzYAQ0SApCbJqgJVR_k7hnFzxj1nqimQKMw2GDivic)
 1. [李玉刚](https://www.iesdouyin.com/share/user/93070705572?sec_uid=MS4wLjABAAAAaBcrUUGVhBDfPtBa4D6qQKc6XpvAxii-ImVWyNZJJOQ)
-1. [陳法蓉](https://www.iesdouyin.com/share/user/3452101883332871?sec_uid=MS4wLjABAAAAXdPTP_kTafD1E5mtNe3b5wReSsWlPiSLu3LUXf-KLXap4MnAY_cmO4Z17ciceETk)
-1. [涂磊](https://www.iesdouyin.com/share/user/58078054954?sec_uid=MS4wLjABAAAAyj9GWtEMNtvyynBb2MaVe_nWeq0fkomuURHCHelaSAA)
+1. [莫小奇星座女神](https://www.iesdouyin.com/share/user/67526744533?sec_uid=MS4wLjABAAAAXz6pl5R9n_nUIZm-BeRDy9NzgPUGeBvTu9Zav4qxKps)
 1. [付笛生](https://www.iesdouyin.com/share/user/99023647402?sec_uid=MS4wLjABAAAADAwXpLOnyU_mRZe42q9AppqeRI6Fs5X768ElguyZMBg)
 1. [陈浩民](https://www.iesdouyin.com/share/user/518583802932652?sec_uid=MS4wLjABAAAAQ0ygkFpBP10Jf6Z2R4auA98oxtEVs0Jfa1pWm4kMmQQ)
-1. [莫小奇星座女神](https://www.iesdouyin.com/share/user/67526744533?sec_uid=MS4wLjABAAAAXz6pl5R9n_nUIZm-BeRDy9NzgPUGeBvTu9Zav4qxKps)
-1. [邢恩X](https://www.iesdouyin.com/share/user/58688599606?sec_uid=MS4wLjABAAAAm0OoCc6qOCIcTC8k6u1qFqwd_nTtfOtIgvvGxAplJq4)
+1. [陳法蓉](https://www.iesdouyin.com/share/user/3452101883332871?sec_uid=MS4wLjABAAAAXdPTP_kTafD1E5mtNe3b5wReSsWlPiSLu3LUXf-KLXap4MnAY_cmO4Z17ciceETk)
 1. [徐佳](https://www.iesdouyin.com/share/user/87487212022?sec_uid=MS4wLjABAAAAHEfRxunhgwYuCPBN6ql-KhDtDCsUnFM40h-tJF7lGeA)
+1. [涂磊](https://www.iesdouyin.com/share/user/58078054954?sec_uid=MS4wLjABAAAAyj9GWtEMNtvyynBb2MaVe_nWeq0fkomuURHCHelaSAA)
+1. [邢恩X](https://www.iesdouyin.com/share/user/58688599606?sec_uid=MS4wLjABAAAAm0OoCc6qOCIcTC8k6u1qFqwd_nTtfOtIgvvGxAplJq4)
 1. [章若楠](https://www.iesdouyin.com/share/user/75389470922?sec_uid=MS4wLjABAAAA3q_M7SAG4eQnFrskafFBDLnycg_2s21oi7Q_aI42C2Q)
 1. [黄宥明（6月27号18点直播](https://www.iesdouyin.com/share/user/59987315253?sec_uid=MS4wLjABAAAARLigrGSo04ZcM2CeixVboxtKGdiLOU0HP7UtRvgwpls)
 1. [张纪中导演](https://www.iesdouyin.com/share/user/4050243636962300?sec_uid=MS4wLjABAAAASJVEisuWb4bL4D4WkmZqoqAYfSSyMQh2nZAYllrO1tqDMGdbeUQTZXN-9ti5-HpD)
-1. [朱容君-兔子牙](https://www.iesdouyin.com/share/user/97682711563?sec_uid=MS4wLjABAAAAIJrPdreQJViuB5hb0K6slORPBCK6GqdatAKPVDeSwdI)
-1. [范丞丞](https://www.iesdouyin.com/share/user/84676974127?sec_uid=MS4wLjABAAAAUjUKcJRbIv3_BqE-RY2WGfOyy2Adn8AYjgLOIwm5WUI)
+1. [李金铭（6月28日🎀中午12点见）](https://www.iesdouyin.com/share/user/2897954945654360?sec_uid=MS4wLjABAAAA_1OiHbgncZo7y3QNgqspLoWfOAkIAZlDjvycKoUNkARfEh1Cxdw_Yfd6mE8kSFZB)
+1. [冯巩](https://www.iesdouyin.com/share/user/1991933892508967?sec_uid=MS4wLjABAAAAh6tcornHHqhS6WdOvMvMJEsuMOgUjRpggx3BIBW6BFVVnSS2Gi3fahxR_Kkp1VY-)
 
 ## 直播榜
 
@@ -117,15 +118,15 @@
 1. [爱情慢慢来](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28c7f5aba8f24e70a45e8db8c3fce8a2) - Stake TwoP
 1. [愿意（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/290fb827080a420b8bbad98e3f537495) - 吕口口
 1. [半空]() - 陈之
-1. [嘉宾](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dbca83ff9925425f8692a03c7f7dec0d) - 路飞文
+1. [嘉宾](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dbca83ff9925425f8692a03c7f7dec0d) - 路飞文
 1. [这世界那么多人 (电影《我要我们在一起》主题曲)]() - 莫文蔚
 1. [Shym - Beknur Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1542139e170b40e39d0b8e7bb56cabfd) - Shiza
-1. [等一场大雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f4673a81db09438f96544a655cb62183) - 苏星婕
+1. [等一场大雨（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f4673a81db09438f96544a655cb62183) - 苏星婕
 1. [路太远]() - 张镐哲
 1. [Dancing With Your Ghost]() - 于文文
 1. [春风醉(卡点版)]() - 七朵家族/曲酷
 1. [假装（吉他版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d4774b8e64977aaec60c991369e0d) - 刘大壮
-1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
+1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
 1. [曾经你说(剪辑版1）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
 1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
 1. [酒馆里的流光溢彩（纯享版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c318b3a31d9944a5a4f72668c031f9e2) - 熊浩/董相麟
@@ -134,22 +135,22 @@
 1. [窗](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/269c983db11f449ca8ec78006d207f24) - 虎二
 1. [努力工作吧]() - 赛文的Demo
 1. [《Raining》（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7be2735a9c5c42219f8e738c78fcadb3) - Lil Ghost小鬼
-1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9df800f62ae04a7191b9ab23ff6e329b) - 李巍V仔
+1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9df800f62ae04a7191b9ab23ff6e329b) - 李巍V仔
 1. [I Love You (OT: Ai Hen Jian Dan)]() - 王若琳
 1. [张碧晨《光的方向》（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
-1. [无忘（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf65dcfea03a44c9b1eea096c62f4c46) - 钟芷晴
+1. [无忘（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf65dcfea03a44c9b1eea096c62f4c46) - 钟芷晴
 1. [In Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8721d241fc0249dcb232d5b1dbd30a1c) - July
 1. [我是如此相信]() - 周杰伦
 1. [Talk Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/09e1f868384f4173ad9a21c61875d9c1) - K.Will
-1. [Birds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6f99776d01054ab7a18572e8bf767438) - Wünsche
+1. [Birds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6f99776d01054ab7a18572e8bf767438) - Wünsche
 1. [被风吹过的夏天]() - 林俊杰 & 金莎
-1. [May it be](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cec739fc35a64849b5293b97bc59b736) - B2A & Anklebreaker & Dypression
+1. [May it be](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cec739fc35a64849b5293b97bc59b736) - B2A & Anklebreaker & Dypression
 1. [城里的月光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/90f216b35e4f4257bdd18e3d9c0b13eb) - 许美静
 1. [我恋爱了（《公主小妹》电视剧插曲）]() - 张韶涵
-1. [You Are Not Alone](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c6421cadd6fe4a13a6c89886315b6f6d) - Kim Waters
+1. [You Are Not Alone](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c6421cadd6fe4a13a6c89886315b6f6d) - Kim Waters
 1. [特别引力]() - 岳伽南K!yo
-1. [夕阳醉了](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c6b41244111437f9362892a57c0561e) - 张学友
-1. [necessary girl](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/240c3dbe9abe4971a82e882a69140cc8) - oceanfromtheblue
+1. [夕阳醉了](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c6b41244111437f9362892a57c0561e) - 张学友
+1. [necessary girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/240c3dbe9abe4971a82e882a69140cc8) - oceanfromtheblue
 1. [Angel](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bda079ec512749f5b741bd538e0101fa) - MFBTY
 1. [明明就]() - 周杰伦
 1. [《始终如一》--剪辑版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0811166758944c53a5c682ebd0f4e27d) - 王优秀
