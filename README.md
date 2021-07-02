@@ -11,62 +11,61 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-07-02 14:16:18 +0800`
+`更新时间：2021-07-02 15:15:26 +0800`
 
 ## 抖音热榜
 
 1. 专题：百年风华
 1. 谁妄想欺负中国必将碰得头破血流
-1. 建党100周年庆祝大会
 1. 100秒混剪庆祝大会难忘瞬间
+1. 唱支rap给党听
 1. 外交部祝愿中国共产党生日快乐
 1. 空中梯队飞阅长安街
-1. 超6大空间
-1. 我们的国家我们不爱谁爱
 1. 多地上演光影盛宴庆祝建党百年
-1. 庆祝建党百年文艺演出
-1. 95后女孩用糖画献礼建党百年
+1. 我们的国家我们不爱谁爱
 1. 米秒不差的歼20编队是这样训练的
+1. 三军仪仗队练眼神迎风40秒不眨眼
 1. 万人高唱没有共产党就没有新中国
-1. 合肥将研究延乔路设地铁站
-1. 毛爷爷的声音加彩色的开国大典
 1. 强军战歌太燃了
-1. 一人一首红歌献礼建党百年
+1. 庆祝建党百年文艺演出
 1. 鸟巢再次唱起我和你
-1. 张桂梅说江姐是她的榜样
+1. 抖音达人花式献礼建党百年
+1. 毛爷爷的声音加彩色的开国大典
+1. 95后女孩用糖画献礼建党百年
+1. 建党百年版骄傲的少年
+1. 敦煌光热电站的硬核百岁生日礼物
+1. 一人一首红歌献礼建党百年
+1. 合肥将研究延乔路设地铁站
+1. 深圳光影秀把党徽打在星空上
 1. 建党百年文艺演出再现觉醒年代
+1. 五彩稻党徽太美了
 1. 那些年爷爷奶奶的故事
 1. 冯琳母亲称看直播才知女儿是领诵员
-1. 五彩稻党徽太美了
-1. 深圳光影秀把党徽打在星空上
-1. 建党百年庆祝大会上的动人瞬间
-1. 敦煌光热电站的硬核百岁生日礼物
-1. 抖音达人花式献礼建党百年
 1. 男子在卫生纸上手绘亮剑经典人物
 1. 惠州一店主为满身勋章老兵免单
 1. 东北口音的传染力有多强
-1. 漫画献礼党的100岁生日
-1. 我们的生活就是觉醒年代的续集
 1. 鸟巢齐唱保卫黄河太震撼了
-1. 老师们撑伞站成一排为学生挡雨
-1. 萌宠版好兄弟在心中
-1. 唐山新晋网红街区逛吃攻略
-1. 张桂梅登上天安门城楼
-1. 来平潭假装在冰岛
+1. 返乡6年的变化
+1. 毕业典礼上最忙的宝宝
 1. 观礼台上一群老兵令人动容
-1. 我是消防员我是共产党员
-1. 全国公安为建党百年送祝福
+1. 张桂梅登上天安门城楼
 1. 鲜花铺满合肥延乔路
-1. 情景再现为了胜利向我开炮
+1. 全国公安为建党百年送祝福
+1. 漫画献礼党的100岁生日
 1. 来自太空的祝福
-1. 100响礼炮鸣放间隔仅3.73秒
+1. 我是消防员我是共产党员
+1. 情景再现为了胜利向我开炮
 1. 武契奇祝贺中国共产党百年华诞
+1. 100响礼炮鸣放间隔仅3.73秒
 1. 10万只气球放飞背后的秘密
 1. 鸟巢烟花打出100字样
-1. 10万羽和平鸽是从哪里来的
 1. 观礼席上的布袋都装了些啥
+1. 10万羽和平鸽是从哪里来的
 1. 北京环卫工人连夜清理红毯积水
 1. 这猫不送去清北都浪费了
+1. 国足世预赛12强赛抽签
+1. 伴舞小姐姐看到张艺兴的表情
+1. 东京奥运会中国已获317个席位
 
 ## 明星榜
 
@@ -79,8 +78,8 @@
 1. [李玉刚](https://www.iesdouyin.com/share/user/93070705572?sec_uid=MS4wLjABAAAAaBcrUUGVhBDfPtBa4D6qQKc6XpvAxii-ImVWyNZJJOQ)
 1. [张晋max](https://www.iesdouyin.com/share/user/98614488308?sec_uid=MS4wLjABAAAAvdlhL0FLnOD3pZMhuU57zvEZNn4XNSO2e8V4WZDMCo8)
 1. [许凯](https://www.iesdouyin.com/share/user/74885334220?sec_uid=MS4wLjABAAAA1lmOnZRQ70GGdNlv9GfnuPVGSBvTVXeW0HDskx7HhGU)
-1. [大张伟](https://www.iesdouyin.com/share/user/64190351725?sec_uid=MS4wLjABAAAAcUqp8hrnOXzqTDNj7kX7sYRVQiuqfPtJl5Wssm3GCOQ)
 1. [冯巩](https://www.iesdouyin.com/share/user/1991933892508967?sec_uid=MS4wLjABAAAAh6tcornHHqhS6WdOvMvMJEsuMOgUjRpggx3BIBW6BFVVnSS2Gi3fahxR_Kkp1VY-)
+1. [大张伟](https://www.iesdouyin.com/share/user/64190351725?sec_uid=MS4wLjABAAAAcUqp8hrnOXzqTDNj7kX7sYRVQiuqfPtJl5Wssm3GCOQ)
 1. [白鹿my](https://www.iesdouyin.com/share/user/67262082771?sec_uid=MS4wLjABAAAAORCDztC7TcHbBDZ4e6JwLx6CfMzl-OIOLx6YKrcIA-U)
 1. [蔡少芬](https://www.iesdouyin.com/share/user/98616743080?sec_uid=MS4wLjABAAAAxVL94_YiAE4AumZ5K4gDavB-QlyNdzb4yw1jbQ8phmI)
 1. [朱梓骁](https://www.iesdouyin.com/share/user/64036627979?sec_uid=MS4wLjABAAAAap4V4ShgmTBxsTl5JgKYnkywnroBJKyLRxAFAUHsD_0)
@@ -96,9 +95,9 @@
 1. [徐璐LULU](https://www.iesdouyin.com/share/user/105026707476?sec_uid=MS4wLjABAAAAWq6PbVw-1vDhdj0C03BDl6gVTCxZDHlBvFuDXG4615o)
 1. [蔡徐坤](https://www.iesdouyin.com/share/user/103313639528?sec_uid=MS4wLjABAAAAxj2Cuu75g3I2pGOs7jtw5XN6WMiCKbA-jfIjlONRRvM)
 1. [陈浩民](https://www.iesdouyin.com/share/user/518583802932652?sec_uid=MS4wLjABAAAAQ0ygkFpBP10Jf6Z2R4auA98oxtEVs0Jfa1pWm4kMmQQ)
+1. [张哲瀚](https://www.iesdouyin.com/share/user/2853975994670060?sec_uid=MS4wLjABAAAAz5LYVGDrF76Z30Tzt39ytO6hKSjQc_UvpOh8olpUwhgv4-nxqjTpJ1BhnvlMRqOU)
 1. [龚俊Simon](https://www.iesdouyin.com/share/user/86200478082?sec_uid=MS4wLjABAAAALrg3u74IgjC03_4MBSO00O03QkLHA0UjM5ejXvXDDm0)
 1. [赵奕欢](https://www.iesdouyin.com/share/user/58277041106?sec_uid=MS4wLjABAAAAdfzoOBEqCwnuIQEAVUySZODEYNeY5ZbOjItiQjn4Lfg)
-1. [张哲瀚](https://www.iesdouyin.com/share/user/2853975994670060?sec_uid=MS4wLjABAAAAz5LYVGDrF76Z30Tzt39ytO6hKSjQc_UvpOh8olpUwhgv4-nxqjTpJ1BhnvlMRqOU)
 1. [矢野浩二](https://www.iesdouyin.com/share/user/104397172057?sec_uid=MS4wLjABAAAAE_EHa9uFGJD_aouq9aPdgqRgbTT1qeNRp_VTGERlJEo)
 
 ## 直播榜
@@ -110,38 +109,38 @@
 1. [风吹一夏（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
 1. [别错过（DJ阿卓版）]() - 程jiajia
 1. [放空（片段）]() - 大籽/Lil E
-1. [银河与星斗（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd29a9dd83664524b056312707bcfe34) - yihuik苡慧
+1. [银河与星斗（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd29a9dd83664524b056312707bcfe34) - yihuik苡慧
 1. [夏天的风]() - 温岚
 1. [我想要-剪辑版-副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/772022b7edb5434481d738927676afdb) - 盖君炎
 1. [不如]() - 秦海清
-1. [Send It](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45bdbf78005146529d550a75a4788eba) - Austin Mahone,Rich Homie Quan
+1. [Send It](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45bdbf78005146529d550a75a4788eba) - Austin Mahone,Rich Homie Quan
 1. [爱情慢慢来](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28c7f5aba8f24e70a45e8db8c3fce8a2) - Stake TwoP
-1. [愿意（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/290fb827080a420b8bbad98e3f537495) - 吕口口
+1. [愿意（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/290fb827080a420b8bbad98e3f537495) - 吕口口
 1. [半空]() - 陈之
-1. [嘉宾](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dbca83ff9925425f8692a03c7f7dec0d) - 路飞文
+1. [嘉宾](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/dbca83ff9925425f8692a03c7f7dec0d) - 路飞文
 1. [这世界那么多人 (电影《我要我们在一起》主题曲)]() - 莫文蔚
 1. [Shym - Beknur Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1542139e170b40e39d0b8e7bb56cabfd) - Shiza
-1. [等一场大雨（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f4673a81db09438f96544a655cb62183) - 苏星婕
+1. [等一场大雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f4673a81db09438f96544a655cb62183) - 苏星婕
 1. [路太远]() - 张镐哲
 1. [Dancing With Your Ghost]() - 于文文
 1. [春风醉(卡点版)]() - 七朵家族/曲酷
 1. [假装（吉他版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3e1d4774b8e64977aaec60c991369e0d) - 刘大壮
-1. [Free Loop](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
+1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
 1. [曾经你说(剪辑版1）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
 1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/59f5b22062174b639df7640423f84460) - 李玉刚
-1. [酒馆里的流光溢彩（纯享版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c318b3a31d9944a5a4f72668c031f9e2) - 熊浩/董相麟
-1. [Salt](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ab4a895057e4e35a7ef4d710ce6ac2c) - Ava Max
-1. [窗](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/269c983db11f449ca8ec78006d207f24) - 虎二
+1. [酒馆里的流光溢彩（纯享版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c318b3a31d9944a5a4f72668c031f9e2) - 熊浩/董相麟
+1. [Salt](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ab4a895057e4e35a7ef4d710ce6ac2c) - Ava Max
+1. [窗](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/269c983db11f449ca8ec78006d207f24) - 虎二
 1. [努力工作吧]() - 赛文的Demo
 1. [《Raining》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7be2735a9c5c42219f8e738c78fcadb3) - Lil Ghost小鬼
-1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9df800f62ae04a7191b9ab23ff6e329b) - 李巍V仔
+1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9df800f62ae04a7191b9ab23ff6e329b) - 李巍V仔
 1. [I Love You (OT: Ai Hen Jian Dan)]() - 王若琳
 1. [张碧晨《光的方向》（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/80fe956e74914f2db2b6ef2647448a22) - 张碧晨
 1. [无忘（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf65dcfea03a44c9b1eea096c62f4c46) - 钟芷晴
-1. [In Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8721d241fc0249dcb232d5b1dbd30a1c) - July
+1. [In Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8721d241fc0249dcb232d5b1dbd30a1c) - July
 1. [我是如此相信]() - 周杰伦
-1. [Talk Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/09e1f868384f4173ad9a21c61875d9c1) - K.Will
-1. [Birds](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6f99776d01054ab7a18572e8bf767438) - Wünsche
+1. [Talk Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/09e1f868384f4173ad9a21c61875d9c1) - K.Will
+1. [Birds](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6f99776d01054ab7a18572e8bf767438) - Wünsche
 1. [被风吹过的夏天]() - 林俊杰 & 金莎
 1. [May it be](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cec739fc35a64849b5293b97bc59b736) - B2A & Anklebreaker & Dypression
 1. [城里的月光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/90f216b35e4f4257bdd18e3d9c0b13eb) - 许美静
@@ -149,7 +148,7 @@
 1. [You Are Not Alone](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c6421cadd6fe4a13a6c89886315b6f6d) - Kim Waters
 1. [特别引力]() - 岳伽南K!yo
 1. [夕阳醉了](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c6b41244111437f9362892a57c0561e) - 张学友
-1. [necessary girl](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/240c3dbe9abe4971a82e882a69140cc8) - oceanfromtheblue
+1. [necessary girl](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/240c3dbe9abe4971a82e882a69140cc8) - oceanfromtheblue
 1. [Angel](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bda079ec512749f5b741bd538e0101fa) - MFBTY
 1. [明明就]() - 周杰伦
 1. [《始终如一》--剪辑版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0811166758944c53a5c682ebd0f4e27d) - 王优秀
