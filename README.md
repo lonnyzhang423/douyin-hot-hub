@@ -11,61 +11,61 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-07-08 16:22:01 +0800`
+`更新时间：2021-07-08 17:21:44 +0800`
 
 ## 抖音热榜
 
 1. 专题：决战欧洲杯
-1. 差点以为是吴磊抖音小号
-1. 这到底是啥歌
-1. 那拉提景区公开致歉
 1. 机智的党妹疑丢粉丝礼物
-1. 当南方人第一次在东北买西瓜
-1. 张国伟人间托尼
-1. 麦迪娜晒8个月孕肚
-1. 2018年的抖音有多美好
-1. 王俊凯出现瞬间好像偶像剧
-1. 小霸王挑战三年前的自己
-1. 你微笑时很美告白大赛
+1. 这到底是啥歌
+1. 差点以为是吴磊抖音小号
+1. 那拉提景区公开致歉
 1. 奥特曼的学历
-1. 奥特曼3D特效绝了
-1. 花式晒录取通知书
-1. 小罗伯特唐尼父亲去世
-1. 紫薇和小燕子连麦
+1. 你微笑时很美告白大赛
+1. 2018年的抖音有多美好
+1. 当南方人第一次在东北买西瓜
+1. 蔡徐坤穿紧身上衣拍照
 1. 关晓彤收工后与妈妈同回鹿晗家
-1. 河马君做奥特曼吓跑张若宇妈妈
-1. 女生身高一米九是种怎样的体验
-1. 丹麦门将遭激光笔照射
-1. 怦然心动20岁收官
-1. 艾佳陈今阳吻戏
-1. 蔡国强正式入驻抖音
-1. 陈辰郑宇星官宣
-1. 猫咪脑袋空壳测试
-1. 吴昕唱歌不跑调了
-1. Jisoo怼脸拍
-1. 海地总统在私人寓所中遇刺
-1. 电影梅艳芳还原度好高
-1. 一时间不知道听歌还是看脸
-1. 蔡徐坤与黄旭熙热舞
-1. 袁弘受胡歌启发重回舞台
-1. 阿卓最后的留言给了非儿
-1. 汪润秋 窒息
-1. 金希澈MOMO分手
-1. JennieRose晒录音室合照
-1. 许凯大学旧照
-1. 秦霄贤密室硬核玩家
+1. 国防科技大学究竟有多强
+1. 张国伟人间托尼
 1. 皇冠变装
-1. 吴彤揭秘萌探怎么选卧底
-1. 暮光终于怀疑芜浣了
+1. 王俊凯出现瞬间好像偶像剧
+1. 麦迪娜晒8个月孕肚
+1. 小霸王挑战三年前的自己
+1. 花式晒录取通知书
+1. 蔡国强正式入驻抖音
+1. 一时间不知道听歌还是看脸
+1. 紫薇和小燕子连麦
+1. Jisoo怼脸拍
+1. 女生身高一米九是种怎样的体验
+1. 电影梅艳芳还原度好高
+1. 虞书欣张彬彬合作新剧
+1. 小罗伯特唐尼父亲去世
+1. 怦然心动20岁收官
+1. 猫咪脑袋空壳测试
+1. 袁弘受胡歌启发重回舞台
+1. 许凯大学旧照
+1. 奥特曼3D特效绝了
+1. 吴昕唱歌不跑调了
+1. 海地总统在私人寓所中遇刺
+1. 艾佳陈今阳吻戏
+1. 阿卓最后的留言给了非儿
+1. JennieRose晒录音室合照
+1. 汪润秋 窒息
+1. 乐华虚拟偶像asoul大作战
+1. 丹麦门将遭激光笔照射
 1. 吴京全身受伤汇总图
+1. 蔡徐坤与黄旭熙热舞
 1. 小女孩测核酸认出医务人员是妈妈
 1. 斯特林造点惹争议
-1. 赵露思小烟嗓好好听
-1. 恭喜恭喜不是拜年歌是抗日歌曲
-1. 这上头的压迫感
-1. 夫妻证件记录的一生
 1. 赵让扭扭舞接力挑战
-1. 蔡徐坤穿紧身上衣拍照
+1. 秦霄贤密室硬核玩家
+1. 吴彤揭秘萌探怎么选卧底
+1. 恭喜恭喜不是拜年歌是抗日歌曲
+1. 夫妻证件记录的一生
+1. 周冬雨出戏一秒变可爱
+1. 暮光终于怀疑芜浣了
+1. 赵露思小烟嗓好好听
 
 ## 明星榜
 
@@ -93,9 +93,9 @@
 1. [克拉拉ClaraLee](https://www.iesdouyin.com/share/user/62910551816?sec_uid=MS4wLjABAAAAAJdO1lVACAkRdL-wx0U3FpCPg9K7M5sgv--kz_UXPZo)
 1. [GEM鄧紫棋](https://www.iesdouyin.com/share/user/85089670734?sec_uid=MS4wLjABAAAAh7MdVA-UbMYLeO3_zhA_Z-Mrkh8cDwBCU_qQqucnrFE)
 1. [罗志祥](https://www.iesdouyin.com/share/user/76725372134?sec_uid=MS4wLjABAAAA2jD45shuaphDnTULtCA3baR-xPXsD97pzSzgKAYwfss)
+1. [主持人沈涛（7月8号12点宠粉节）](https://www.iesdouyin.com/share/user/81581456812?sec_uid=MS4wLjABAAAA1LvDahva_AR9xVugIzHUme0Kw7fux45QUjujq8q_I6A)
 1. [吴昕](https://www.iesdouyin.com/share/user/105927636273?sec_uid=MS4wLjABAAAA8ni5lQuJryyaJT-FXiSWshY8w7aVmK8o_1sGw_bcr2o)
 1. [徐佳](https://www.iesdouyin.com/share/user/87487212022?sec_uid=MS4wLjABAAAAHEfRxunhgwYuCPBN6ql-KhDtDCsUnFM40h-tJF7lGeA)
-1. [主持人沈涛（7月8号12点宠粉节）](https://www.iesdouyin.com/share/user/81581456812?sec_uid=MS4wLjABAAAA1LvDahva_AR9xVugIzHUme0Kw7fux45QUjujq8q_I6A)
 1. [麦迪娜](https://www.iesdouyin.com/share/user/75476011506?sec_uid=MS4wLjABAAAANpWFzBjXIE_OjPsoPXBTc6x-8BI8gDmCpWpbI5OVau4)
 1. [李小璐Super璐](https://www.iesdouyin.com/share/user/104682176689?sec_uid=MS4wLjABAAAAMpKkN60Qjn0DDrJfJFk5VDFak61mzKVElnjN_IAEsPw)
 1. [黄宥明](https://www.iesdouyin.com/share/user/59987315253?sec_uid=MS4wLjABAAAARLigrGSo04ZcM2CeixVboxtKGdiLOU0HP7UtRvgwpls)
@@ -106,27 +106,27 @@
 
 ## 音乐榜
 
-1. [风吹一夏（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
-1. [You and I](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6d41d079cdc24be0b6a3311869b3fa44) - Will Armex
+1. [风吹一夏（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/64b5a4609eb843c29c974d39d4d5d058) - DP龙猪/Swei水/Rays陈袁
+1. [You and I](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6d41d079cdc24be0b6a3311869b3fa44) - Will Armex
 1. [放空（片段）]() - 大籽/Lil E
 1. [不如]() - 秦海清
-1. [《始终如一》--剪辑版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0811166758944c53a5c682ebd0f4e27d) - 王优秀
+1. [《始终如一》--剪辑版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0811166758944c53a5c682ebd0f4e27d) - 王优秀
 1. [我想要]() - 盖君炎
-1. [蜜雪冰城主題曲 - 官方版](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/533bb7f4475c4138a7e68f7faf92caaf) - 蜜雪冰城
-1. [曾经你说(剪辑版1）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
+1. [蜜雪冰城主題曲 - 官方版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/533bb7f4475c4138a7e68f7faf92caaf) - 蜜雪冰城
+1. [曾经你说(剪辑版1）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/009731e932704ed28ba74617e292f8c0) - 赵乃吉
 1. [怎叹](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66b23b4108a942e986f0e770385c8781) - 郑鱼
 1. [爱情慢慢来](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/28c7f5aba8f24e70a45e8db8c3fce8a2) - Stake TwoP
-1. [窗](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/269c983db11f449ca8ec78006d207f24) - 虎二
-1. [Send It](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45bdbf78005146529d550a75a4788eba) - Austin Mahone,Rich Homie Quan
+1. [窗](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/269c983db11f449ca8ec78006d207f24) - 虎二
+1. [Send It](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/45bdbf78005146529d550a75a4788eba) - Austin Mahone,Rich Homie Quan
 1. [银河与星斗（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cd29a9dd83664524b056312707bcfe34) - yihuik苡慧
 1. [雾里_旺仔小乔-剪辑版](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5ba2bcf2f9364a7aaf8726b6ca8b79ee) - 旺仔小乔
 1. [Power (In Your Soul)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fd7e24a379524831a3735ead41eb0f1f) - Interupt
 1. [Free Loop](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6bf7cbdca7a54b26983694a314531bd4) - Daniel Powter
 1. [哪里都是你 剪辑版]() - 队长
-1. [未发送（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffd7ed9a094744dd8e77357376c6b6fb) - 阿冗
+1. [未发送（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffd7ed9a094744dd8e77357376c6b6fb) - 阿冗
 1. [I Love You (OT: Ai Hen Jian Dan)]() - 王若琳
 1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/201a624b4b4f47d4ac8c895a2c7aeb32) - Martin Arteta
-1. [那一刻心动](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
+1. [那一刻心动](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
 1. [The Other Side of Paradise](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2ac0d9b0e5c64625b5ebec8005fb872e) - The Harmonics
 1. [Shym - Beknur Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1542139e170b40e39d0b8e7bb56cabfd) - Shiza
 1. [《Raining》（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7be2735a9c5c42219f8e738c78fcadb3) - Lil Ghost小鬼
@@ -134,9 +134,9 @@
 1. [Возьми сердце моё](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5a875c655397489ea4c5ee20908b536e) - Канги
 1. [It's a Beautiful Day](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1be39e912a2c4efe9e40d94dbee7cb29) - Evan McHugh
 1. [春风醉(卡点版)]() - 七朵家族/曲酷
-1. [等一场大雨（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f4673a81db09438f96544a655cb62183) - 苏星婕
+1. [等一场大雨（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f4673a81db09438f96544a655cb62183) - 苏星婕
 1. [这世界那么多人 (电影《我要我们在一起》主题曲)]() - 莫文蔚
-1. [无忘（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf65dcfea03a44c9b1eea096c62f4c46) - 钟芷晴
+1. [无忘（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cf65dcfea03a44c9b1eea096c62f4c46) - 钟芷晴
 1. [必杀技 (Live)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/40dd609629244ca6932deab4966124d4) - 古巨基
 1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9df800f62ae04a7191b9ab23ff6e329b) - 李巍V仔
 1. [今天]() - 刘德华
@@ -150,9 +150,9 @@
 1. [愿意（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/290fb827080a420b8bbad98e3f537495) - 吕口口
 1. [雨中的恋人们](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/063a6d6fab8c48048ede4ad6c87fd7b8) - 黄凯芹
 1. [At My Worst](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e27c2d66fe624dd2a0d70f38698e2680) - Pink Sweat$
-1. [春秋冬夏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/400440234aa24e98a41aead7a50ed639) - 赵芷彤
-1. [城里的月光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/90f216b35e4f4257bdd18e3d9c0b13eb) - 许美静
-1. [In Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8721d241fc0249dcb232d5b1dbd30a1c) - July
+1. [春秋冬夏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/400440234aa24e98a41aead7a50ed639) - 赵芷彤
+1. [城里的月光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/90f216b35e4f4257bdd18e3d9c0b13eb) - 许美静
+1. [In Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8721d241fc0249dcb232d5b1dbd30a1c) - July
 1. [红马-一颗狼星_许篮心]() - 一颗狼星_许篮心
 1. [Hero](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/09b6d69a66914476946945ca053d35ea) - Cash Cash,Christina Perri
 1. [合唱-我和我亲爱的祖国](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/be81f67e5c294e2883228a2b9405d9e3) - 中国爱乐乐团
