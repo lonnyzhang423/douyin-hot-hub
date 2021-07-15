@@ -14,7 +14,8 @@ def generate_archive_md(searches, stars, lives, musics, brands):
     """
     def search(item):
         word = item['word']
-        return '1. {}'.format(word)
+        url = 'https://www.douyin.com/search/' + urllib.parse.quote(word)
+        return '1. [{}]({})'.format(word, url)
 
     def star(item):
         name = item['user_info']['nickname']
@@ -87,7 +88,8 @@ def generate_readme(searches, stars, lives, musics, brands):
     """
     def search(item):
         word = item['word']
-        return '1. {}'.format(word)
+        url = 'https://www.douyin.com/search/' + urllib.parse.quote(word)
+        return '1. [{}]({})'.format(word, url)
 
     def star(item):
         name = item['user_info']['nickname']
