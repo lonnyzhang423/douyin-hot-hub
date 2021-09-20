@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-09-20 08:54:41 +0800`
+`更新时间：2021-09-20 10:01:43 +0800`
 
 ## 抖音热榜
 
+1. [当小可爱身上挂了一个小可爱](https://www.douyin.com/search/%E5%BD%93%E5%B0%8F%E5%8F%AF%E7%88%B1%E8%BA%AB%E4%B8%8A%E6%8C%82%E4%BA%86%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%8F%AF%E7%88%B1)
+1. [被奶奶惯坏的小狗](https://www.douyin.com/search/%E8%A2%AB%E5%A5%B6%E5%A5%B6%E6%83%AF%E5%9D%8F%E7%9A%84%E5%B0%8F%E7%8B%97)
 1. [你见过4岁的少林宗师吗](https://www.douyin.com/search/%E4%BD%A0%E8%A7%81%E8%BF%874%E5%B2%81%E7%9A%84%E5%B0%91%E6%9E%97%E5%AE%97%E5%B8%88%E5%90%97)
-1. [南方人吃月饼vs北方人吃月饼](https://www.douyin.com/search/%E5%8D%97%E6%96%B9%E4%BA%BA%E5%90%83%E6%9C%88%E9%A5%BCvs%E5%8C%97%E6%96%B9%E4%BA%BA%E5%90%83%E6%9C%88%E9%A5%BC)
-1. [面容如老人的14岁少女到上海医治](https://www.douyin.com/search/%E9%9D%A2%E5%AE%B9%E5%A6%82%E8%80%81%E4%BA%BA%E7%9A%8414%E5%B2%81%E5%B0%91%E5%A5%B3%E5%88%B0%E4%B8%8A%E6%B5%B7%E5%8C%BB%E6%B2%BB)
-1. [张小斐黑龙江分斐](https://www.douyin.com/search/%E5%BC%A0%E5%B0%8F%E6%96%90%E9%BB%91%E9%BE%99%E6%B1%9F%E5%88%86%E6%96%90)
 1. [专家回应印度拿导弹威胁中国](https://www.douyin.com/search/%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%8D%B0%E5%BA%A6%E6%8B%BF%E5%AF%BC%E5%BC%B9%E5%A8%81%E8%83%81%E4%B8%AD%E5%9B%BD)
-1. [温太医眉姐姐十年后终于发糖了](https://www.douyin.com/search/%E6%B8%A9%E5%A4%AA%E5%8C%BB%E7%9C%89%E5%A7%90%E5%A7%90%E5%8D%81%E5%B9%B4%E5%90%8E%E7%BB%88%E4%BA%8E%E5%8F%91%E7%B3%96%E4%BA%86)
-1. [林皇绝杀西汉姆联](https://www.douyin.com/search/%E6%9E%97%E7%9A%87%E7%BB%9D%E6%9D%80%E8%A5%BF%E6%B1%89%E5%A7%86%E8%81%94)
-1. [女孩火场被救出先问弟弟出来了没](https://www.douyin.com/search/%E5%A5%B3%E5%AD%A9%E7%81%AB%E5%9C%BA%E8%A2%AB%E6%95%91%E5%87%BA%E5%85%88%E9%97%AE%E5%BC%9F%E5%BC%9F%E5%87%BA%E6%9D%A5%E4%BA%86%E6%B2%A1)
-1. [人类幼崽演技合拍挑战](https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E6%BC%94%E6%8A%80%E5%90%88%E6%8B%8D%E6%8C%91%E6%88%98)
-1. [女孩戴闪光假肢回应异样眼光](https://www.douyin.com/search/%E5%A5%B3%E5%AD%A9%E6%88%B4%E9%97%AA%E5%85%89%E5%81%87%E8%82%A2%E5%9B%9E%E5%BA%94%E5%BC%82%E6%A0%B7%E7%9C%BC%E5%85%89)
-1. [中秋不回家图鉴](https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E4%B8%8D%E5%9B%9E%E5%AE%B6%E5%9B%BE%E9%89%B4)
-1. [杨倩已回到宁波和家人过中秋](https://www.douyin.com/search/%E6%9D%A8%E5%80%A9%E5%B7%B2%E5%9B%9E%E5%88%B0%E5%AE%81%E6%B3%A2%E5%92%8C%E5%AE%B6%E4%BA%BA%E8%BF%87%E4%B8%AD%E7%A7%8B)
-1. [原来是嫦娥姐姐](https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%AB%A6%E5%A8%A5%E5%A7%90%E5%A7%90)
-1. [被澳捅刀的法国驻澳大使发声](https://www.douyin.com/search/%E8%A2%AB%E6%BE%B3%E6%8D%85%E5%88%80%E7%9A%84%E6%B3%95%E5%9B%BD%E9%A9%BB%E6%BE%B3%E5%A4%A7%E4%BD%BF%E5%8F%91%E5%A3%B0)
+1. [C罗遭争议判罚](https://www.douyin.com/search/C%E7%BD%97%E9%81%AD%E4%BA%89%E8%AE%AE%E5%88%A4%E7%BD%9A)
 1. [价值11万元黄金快递丢失后续](https://www.douyin.com/search/%E4%BB%B7%E5%80%BC11%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E5%BF%AB%E9%80%92%E4%B8%A2%E5%A4%B1%E5%90%8E%E7%BB%AD)
+1. [南方人吃月饼vs北方人吃月饼](https://www.douyin.com/search/%E5%8D%97%E6%96%B9%E4%BA%BA%E5%90%83%E6%9C%88%E9%A5%BCvs%E5%8C%97%E6%96%B9%E4%BA%BA%E5%90%83%E6%9C%88%E9%A5%BC)
+1. [温太医眉姐姐十年后终于发糖了](https://www.douyin.com/search/%E6%B8%A9%E5%A4%AA%E5%8C%BB%E7%9C%89%E5%A7%90%E5%A7%90%E5%8D%81%E5%B9%B4%E5%90%8E%E7%BB%88%E4%BA%8E%E5%8F%91%E7%B3%96%E4%BA%86)
+1. [曼联2比1西汉姆联](https://www.douyin.com/search/%E6%9B%BC%E8%81%942%E6%AF%941%E8%A5%BF%E6%B1%89%E5%A7%86%E8%81%94)
+1. [女孩戴闪光假肢回应异样眼光](https://www.douyin.com/search/%E5%A5%B3%E5%AD%A9%E6%88%B4%E9%97%AA%E5%85%89%E5%81%87%E8%82%A2%E5%9B%9E%E5%BA%94%E5%BC%82%E6%A0%B7%E7%9C%BC%E5%85%89)
 1. [管晨辰全运会训练再现袋鼠摇](https://www.douyin.com/search/%E7%AE%A1%E6%99%A8%E8%BE%B0%E5%85%A8%E8%BF%90%E4%BC%9A%E8%AE%AD%E7%BB%83%E5%86%8D%E7%8E%B0%E8%A2%8B%E9%BC%A0%E6%91%87)
+1. [杨倩已回到宁波和家人过中秋](https://www.douyin.com/search/%E6%9D%A8%E5%80%A9%E5%B7%B2%E5%9B%9E%E5%88%B0%E5%AE%81%E6%B3%A2%E5%92%8C%E5%AE%B6%E4%BA%BA%E8%BF%87%E4%B8%AD%E7%A7%8B)
+1. [中秋不回家图鉴](https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E4%B8%8D%E5%9B%9E%E5%AE%B6%E5%9B%BE%E9%89%B4)
+1. [中秋奇妙游用墨水舞出中秋](https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E5%A5%87%E5%A6%99%E6%B8%B8%E7%94%A8%E5%A2%A8%E6%B0%B4%E8%88%9E%E5%87%BA%E4%B8%AD%E7%A7%8B)
+1. [人类幼崽演技合拍挑战](https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E6%BC%94%E6%8A%80%E5%90%88%E6%8B%8D%E6%8C%91%E6%88%98)
 1. [李嘉诚21亿套现上海世纪盛荟广场](https://www.douyin.com/search/%E6%9D%8E%E5%98%89%E8%AF%9A21%E4%BA%BF%E5%A5%97%E7%8E%B0%E4%B8%8A%E6%B5%B7%E4%B8%96%E7%BA%AA%E7%9B%9B%E8%8D%9F%E5%B9%BF%E5%9C%BA)
 1. [女子九一八当天穿和服逛校园](https://www.douyin.com/search/%E5%A5%B3%E5%AD%90%E4%B9%9D%E4%B8%80%E5%85%AB%E5%BD%93%E5%A4%A9%E7%A9%BF%E5%92%8C%E6%9C%8D%E9%80%9B%E6%A0%A1%E5%9B%AD)
 1. [谢霆锋完美融入理塘本地](https://www.douyin.com/search/%E8%B0%A2%E9%9C%86%E9%94%8B%E5%AE%8C%E7%BE%8E%E8%9E%8D%E5%85%A5%E7%90%86%E5%A1%98%E6%9C%AC%E5%9C%B0)
 1. [人类幼崽英语发音能有多标准](https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E8%8B%B1%E8%AF%AD%E5%8F%91%E9%9F%B3%E8%83%BD%E6%9C%89%E5%A4%9A%E6%A0%87%E5%87%86)
 1. [梅西两次错失巴黎首球被换下场](https://www.douyin.com/search/%E6%A2%85%E8%A5%BF%E4%B8%A4%E6%AC%A1%E9%94%99%E5%A4%B1%E5%B7%B4%E9%BB%8E%E9%A6%96%E7%90%83%E8%A2%AB%E6%8D%A2%E4%B8%8B%E5%9C%BA)
-1. [野性干饭开始人传人了](https://www.douyin.com/search/%E9%87%8E%E6%80%A7%E5%B9%B2%E9%A5%AD%E5%BC%80%E5%A7%8B%E4%BA%BA%E4%BC%A0%E4%BA%BA%E4%BA%86)
 1. [孟子义妈妈因女儿没选男嘉宾痛哭](https://www.douyin.com/search/%E5%AD%9F%E5%AD%90%E4%B9%89%E5%A6%88%E5%A6%88%E5%9B%A0%E5%A5%B3%E5%84%BF%E6%B2%A1%E9%80%89%E7%94%B7%E5%98%89%E5%AE%BE%E7%97%9B%E5%93%AD)
-1. [31省份新增本土确诊28例](https://www.douyin.com/search/31%E7%9C%81%E4%BB%BD%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A28%E4%BE%8B)
-1. [任嘉伦预言家](https://www.douyin.com/search/%E4%BB%BB%E5%98%89%E4%BC%A6%E9%A2%84%E8%A8%80%E5%AE%B6)
 1. [哈利波特自制咒语](https://www.douyin.com/search/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E8%87%AA%E5%88%B6%E5%92%92%E8%AF%AD)
 1. [董卿咏梅同框](https://www.douyin.com/search/%E8%91%A3%E5%8D%BF%E5%92%8F%E6%A2%85%E5%90%8C%E6%A1%86)
+1. [清水河祝大家都有好身体](https://www.douyin.com/search/%E6%B8%85%E6%B0%B4%E6%B2%B3%E7%A5%9D%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%9C%89%E5%A5%BD%E8%BA%AB%E4%BD%93)
 1. [汪苏泷快本再唱一笑倾城](https://www.douyin.com/search/%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BF%AB%E6%9C%AC%E5%86%8D%E5%94%B1%E4%B8%80%E7%AC%91%E5%80%BE%E5%9F%8E)
+1. [中秋节文案](https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E8%8A%82%E6%96%87%E6%A1%88)
 1. [街舞队长齐舞battle炸翻了](https://www.douyin.com/search/%E8%A1%97%E8%88%9E%E9%98%9F%E9%95%BF%E9%BD%90%E8%88%9Ebattle%E7%82%B8%E7%BF%BB%E4%BA%86)
 1. [看我的青春有个你释怀了](https://www.douyin.com/search/%E7%9C%8B%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E6%9C%89%E4%B8%AA%E4%BD%A0%E9%87%8A%E6%80%80%E4%BA%86)
 1. [有个肉肉脸的女朋友是什么体验](https://www.douyin.com/search/%E6%9C%89%E4%B8%AA%E8%82%89%E8%82%89%E8%84%B8%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C)
-1. [詹姆斯威少参加浓眉婚礼](https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%A8%81%E5%B0%91%E5%8F%82%E5%8A%A0%E6%B5%93%E7%9C%89%E5%A9%9A%E7%A4%BC)
 1. [薛之谦玲花点评像双人相声](https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%8E%B2%E8%8A%B1%E7%82%B9%E8%AF%84%E5%83%8F%E5%8F%8C%E4%BA%BA%E7%9B%B8%E5%A3%B0)
+1. [女孩火场被救出先问弟弟出来了没](https://www.douyin.com/search/%E5%A5%B3%E5%AD%A9%E7%81%AB%E5%9C%BA%E8%A2%AB%E6%95%91%E5%87%BA%E5%85%88%E9%97%AE%E5%BC%9F%E5%BC%9F%E5%87%BA%E6%9D%A5%E4%BA%86%E6%B2%A1)
 1. [灵媒好看吗](https://www.douyin.com/search/%E7%81%B5%E5%AA%92%E5%A5%BD%E7%9C%8B%E5%90%97)
 1. [李莎旻子说隔壁老樊不善言辞](https://www.douyin.com/search/%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E8%AF%B4%E9%9A%94%E5%A3%81%E8%80%81%E6%A8%8A%E4%B8%8D%E5%96%84%E8%A8%80%E8%BE%9E)
-1. [周扬青 谁会把感情当成演戏](https://www.douyin.com/search/%E5%91%A8%E6%89%AC%E9%9D%92%20%E8%B0%81%E4%BC%9A%E6%8A%8A%E6%84%9F%E6%83%85%E5%BD%93%E6%88%90%E6%BC%94%E6%88%8F)
 1. [程序员那么可爱好虐](https://www.douyin.com/search/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%E5%A5%BD%E8%99%90)
-1. [中秋节文案](https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E8%8A%82%E6%96%87%E6%A1%88)
-1. [清水河祝大家都有好身体](https://www.douyin.com/search/%E6%B8%85%E6%B0%B4%E6%B2%B3%E7%A5%9D%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%9C%89%E5%A5%BD%E8%BA%AB%E4%BD%93)
-1. [曾毅说最大的成功是选择了玲花](https://www.douyin.com/search/%E6%9B%BE%E6%AF%85%E8%AF%B4%E6%9C%80%E5%A4%A7%E7%9A%84%E6%88%90%E5%8A%9F%E6%98%AF%E9%80%89%E6%8B%A9%E4%BA%86%E7%8E%B2%E8%8A%B1)
-1. [小时候的超能力长大后就没了](https://www.douyin.com/search/%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B%E9%95%BF%E5%A4%A7%E5%90%8E%E5%B0%B1%E6%B2%A1%E4%BA%86)
-1. [河南卫视文化自信天花板](https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1%E5%A4%A9%E8%8A%B1%E6%9D%BF)
-1. [王嘉尔回忆第一次见魏大勋](https://www.douyin.com/search/%E7%8E%8B%E5%98%89%E5%B0%94%E5%9B%9E%E5%BF%86%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%AD%8F%E5%A4%A7%E5%8B%8B)
-1. [央视中秋晚会节目单出炉](https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%87%BA%E7%82%89)
-1. [槟榔的危害有多大](https://www.douyin.com/search/%E6%A7%9F%E6%A6%94%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7)
+1. [全网都在找秋芬是什么梗](https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E6%89%BE%E7%A7%8B%E8%8A%AC%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97)
 1. [港队选手和刘诗雯握手后的反应](https://www.douyin.com/search/%E6%B8%AF%E9%98%9F%E9%80%89%E6%89%8B%E5%92%8C%E5%88%98%E8%AF%97%E9%9B%AF%E6%8F%A1%E6%89%8B%E5%90%8E%E7%9A%84%E5%8F%8D%E5%BA%94)
+1. [央视中秋晚会节目单出炉](https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%87%BA%E7%82%89)
+1. [曾毅说最大的成功是选择了玲花](https://www.douyin.com/search/%E6%9B%BE%E6%AF%85%E8%AF%B4%E6%9C%80%E5%A4%A7%E7%9A%84%E6%88%90%E5%8A%9F%E6%98%AF%E9%80%89%E6%8B%A9%E4%BA%86%E7%8E%B2%E8%8A%B1)
+1. [原来是嫦娥姐姐](https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%AB%A6%E5%A8%A5%E5%A7%90%E5%A7%90)
+1. [我和我的父辈吴京好拼](https://www.douyin.com/search/%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%88%B6%E8%BE%88%E5%90%B4%E4%BA%AC%E5%A5%BD%E6%8B%BC)
+1. [野性干饭开始人传人了](https://www.douyin.com/search/%E9%87%8E%E6%80%A7%E5%B9%B2%E9%A5%AD%E5%BC%80%E5%A7%8B%E4%BA%BA%E4%BC%A0%E4%BA%BA%E4%BA%86)
+1. [许嵩回应给歌迷买洗发水](https://www.douyin.com/search/%E8%AE%B8%E5%B5%A9%E5%9B%9E%E5%BA%94%E7%BB%99%E6%AD%8C%E8%BF%B7%E4%B9%B0%E6%B4%97%E5%8F%91%E6%B0%B4)
+1. [C罗回归曼联连续3场破门](https://www.douyin.com/search/C%E7%BD%97%E5%9B%9E%E5%BD%92%E6%9B%BC%E8%81%94%E8%BF%9E%E7%BB%AD3%E5%9C%BA%E7%A0%B4%E9%97%A8)
 1. [许嵩点评太通透了](https://www.douyin.com/search/%E8%AE%B8%E5%B5%A9%E7%82%B9%E8%AF%84%E5%A4%AA%E9%80%9A%E9%80%8F%E4%BA%86)
+1. [槟榔的危害有多大](https://www.douyin.com/search/%E6%A7%9F%E6%A6%94%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7)
 1. [盛景初程了虐不过一集](https://www.douyin.com/search/%E7%9B%9B%E6%99%AF%E5%88%9D%E7%A8%8B%E4%BA%86%E8%99%90%E4%B8%8D%E8%BF%87%E4%B8%80%E9%9B%86)
 1. [金小气家族姐妹嫁叔侄](https://www.douyin.com/search/%E9%87%91%E5%B0%8F%E6%B0%94%E5%AE%B6%E6%97%8F%E5%A7%90%E5%A6%B9%E5%AB%81%E5%8F%94%E4%BE%84)
-1. [河南卫视中秋奇妙游](https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E5%A5%87%E5%A6%99%E6%B8%B8)
+1. [小时候的超能力长大后就没了](https://www.douyin.com/search/%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B%E9%95%BF%E5%A4%A7%E5%90%8E%E5%B0%B1%E6%B2%A1%E4%BA%86)
+1. [女子按摩一次花费19万8千元](https://www.douyin.com/search/%E5%A5%B3%E5%AD%90%E6%8C%89%E6%91%A9%E4%B8%80%E6%AC%A1%E8%8A%B1%E8%B4%B919%E4%B8%878%E5%8D%83%E5%85%83)
+1. [被澳捅刀的法国驻澳大使发声](https://www.douyin.com/search/%E8%A2%AB%E6%BE%B3%E6%8D%85%E5%88%80%E7%9A%84%E6%B3%95%E5%9B%BD%E9%A9%BB%E6%BE%B3%E5%A4%A7%E4%BD%BF%E5%8F%91%E5%A3%B0)
 
 ## 明星榜
 
@@ -77,35 +77,35 @@
 ## 音乐榜
 
 1. [小馋猫]() - Y星人/袁鑫怡
-1. [自娱自乐（副歌版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
+1. [自娱自乐（副歌版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63b6870e3b949d385737ae6f1303199) - 金志文
 1. [孤城]() - 洛先生
 1. [时光洪流（剪辑版1）]() - 程响
 1. [阳光宅男]() - 周杰伦
 1. [hallo每一天（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e212772f9d4842e3a75837471eff7f63) - 薛廷佑
 1. [初恋]() - 回春丹
 1. [不值得你喜欢]() - 王子明 / Copy / WYAN王毓千
-1. [STAY](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/888b40ee58934cae8d8ed1a96db93c57) - The Kid LAROI & Justin Bieber
+1. [STAY](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/888b40ee58934cae8d8ed1a96db93c57) - The Kid LAROI & Justin Bieber
 1. [飞船（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a5acdd7e03714ddc936e5e0da63d89e8) - 刘可以
 1. [借过]() - 印子月
 1. [LALISA](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d7cbe7406d084c6faaa1acc4acb296a2) - 리사 (LISA)
 1. [错都错了（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d7ff48d91ea04ceeb2270e9989f13635) - 赵乃吉
-1. [第一缕晨曦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/60264a8bb80b4f4695ea1ece583c9d15) - 赵芷彤Cassie
-1. [Boom Boom](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
-1. [星光降落](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69c2c0bdd07941bd875538ac21bdbcd4) - 王宗介
+1. [第一缕晨曦](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/60264a8bb80b4f4695ea1ece583c9d15) - 赵芷彤Cassie
+1. [Boom Boom](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/734a506f0eef41528e2061edc0d8f5a8) - CHYL
+1. [星光降落](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/69c2c0bdd07941bd875538ac21bdbcd4) - 王宗介
 1. [我是如此相信]() - 周杰伦
-1. [夏日晚风](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/48fb12bf307c48afb58ac6c80209ed35) - xxxmiracle、Aioz
+1. [夏日晚风](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/48fb12bf307c48afb58ac6c80209ed35) - xxxmiracle、Aioz
 1. [该不该对你说再见](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8c765cdfc4d8471f897b5096491127f1) - 李乐乐
 1. [Don't sleep](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8249bfc4d79144d2a2b90321304c2dd6) - BCD Studio
-1. [O (Feat. 이하이)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca029e30099c48c68abe7af17bcf8232) - 코드 쿤스트(CODE KUNST)
-1. [微风吹（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/13c7f1a894c1443baad9b835bcb8e4dd) - 李润祺
+1. [O (Feat. 이하이)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca029e30099c48c68abe7af17bcf8232) - 코드 쿤스트(CODE KUNST)
+1. [微风吹（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/13c7f1a894c1443baad9b835bcb8e4dd) - 李润祺
 1. [Lone Ranger]() - Rachel Platten
 1. [My Treasure]() - Stanislav Artemyev
-1. [宋孟君_失眠的夜dj](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d2b238968cce401280af21ea0f297b94) - 宋孟君
+1. [宋孟君_失眠的夜dj](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d2b238968cce401280af21ea0f297b94) - 宋孟君
 1. [时光背面的我（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d5c634788d8245f796314952f28e1891) - 刘至佳/韩瞳
 1. [时间沦陷-王忻辰（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7fa8d0afdac84604b561a6bae3390113) - 王忻辰
 1. [落日与晚风]() - INK+王忻辰+苏星婕
 1. [Bygone Bumps]() - Deep East Music
-1. [陪你看星星-陈子晴（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/697035f8ea2946dc9e2d38a45f00744c) - 陈子晴
+1. [陪你看星星-陈子晴（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/697035f8ea2946dc9e2d38a45f00744c) - 陈子晴
 1. [园游会]() - 周杰伦
 1. [Я буду ебать](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d4bb6d509c2401e8bafb8f4db656a92) - MOREART
 1. [呓语]() - 毛不易
@@ -113,16 +113,16 @@
 1. [whatever it takes](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c5aa949759944eeebc9d15d21a3f22ad) - convolk
 1. [解药 (新版)]() - 来一碗老于
 1. [雨爱（雨上晴空）]() - 不是花火呀
-1. [花好月圆夜 (广东版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2306777a9de24d5391f9f43d8c3bc1d2) - 杨千嬅 & 任贤齐
+1. [花好月圆夜 (广东版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2306777a9de24d5391f9f43d8c3bc1d2) - 杨千嬅 & 任贤齐
 1. [外婆说]() - 程jiajia
 1. [Lucid Dreams](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/570a59fee4594435b4802feb279d5fd1) - iLab兴趣实验室
-1. [Kiss Me More (feat. SZA)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eced77c66c2844d082316f4b89eac1d9) - Doja Cat
+1. [Kiss Me More (feat. SZA)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/eced77c66c2844d082316f4b89eac1d9) - Doja Cat
 1. [Middle Of The Night (Original Mix)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/78a1f43f4b764363a3038875126c4d4f) - TAIGA
-1. [偷听对白](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/01cb60c814e9481ba48ccb86e87f189f) - Joysaaaa
+1. [偷听对白](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/01cb60c814e9481ba48ccb86e87f189f) - Joysaaaa
 1. [Ngau Hung](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/fe5b05b2ffb64697a7fa68eaa202c953) - Hoaprox
 1. [爷爷泡的茶]() - 周杰伦
 1. [飘移]() - 周杰伦
-1. [画离弦-海伦（戏腔版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8f235c63c69940bda737153d8adc152d) - 海伦
+1. [画离弦-海伦（戏腔版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8f235c63c69940bda737153d8adc152d) - 海伦
 1. [篝火旁（再启程）]() - 吕大叶 / 旺仔小乔
 1. [Light It Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3b77cb7037e54b3dbf432784f1436614) - Robin Hustin & Tobimorrow & Jex
 1. [It's a Beautiful Day](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/d90d1a032a55472396a13e4d5ff44c2c) - Evan McHugh
