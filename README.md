@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2022-03-11 10:41:18 +0800`
+`更新时间：2022-03-11 11:18:45 +0800`
 
 ## 抖音热榜
 
@@ -20,10 +20,11 @@
 1. [两会上的民生热点](https://www.douyin.com/search/%E4%B8%A4%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%B0%91%E7%94%9F%E7%83%AD%E7%82%B9)
 1. [两会闭幕代表委员告别](https://www.douyin.com/search/%E4%B8%A4%E4%BC%9A%E9%97%AD%E5%B9%95%E4%BB%A3%E8%A1%A8%E5%A7%94%E5%91%98%E5%91%8A%E5%88%AB)
 1. [建议取消一般性公务接待用餐](https://www.douyin.com/search/%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E4%B8%80%E8%88%AC%E6%80%A7%E5%85%AC%E5%8A%A1%E6%8E%A5%E5%BE%85%E7%94%A8%E9%A4%90)
-1. [篮网vs76人](https://www.douyin.com/search/%E7%AF%AE%E7%BD%91vs76%E4%BA%BA)
+1. [顺丰回应快递受病毒污染风险](https://www.douyin.com/search/%E9%A1%BA%E4%B8%B0%E5%9B%9E%E5%BA%94%E5%BF%AB%E9%80%92%E5%8F%97%E7%97%85%E6%AF%92%E6%B1%A1%E6%9F%93%E9%A3%8E%E9%99%A9)
 1. [吉林新增本土确诊98例](https://www.douyin.com/search/%E5%90%89%E6%9E%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A98%E4%BE%8B)
 1. [建议将开车玩手机等视为危险驾驶](https://www.douyin.com/search/%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%BC%80%E8%BD%A6%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%AD%89%E8%A7%86%E4%B8%BA%E5%8D%B1%E9%99%A9%E9%A9%BE%E9%A9%B6)
 1. [外交部再就生物实验室质问美国](https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%86%8D%E5%B0%B1%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%B4%A8%E9%97%AE%E7%BE%8E%E5%9B%BD)
+1. [漫画版防疫服小姐姐有多可爱](https://www.douyin.com/search/%E6%BC%AB%E7%94%BB%E7%89%88%E9%98%B2%E7%96%AB%E6%9C%8D%E5%B0%8F%E5%A7%90%E5%A7%90%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1)
 1. [山东新增121例本土确诊病例](https://www.douyin.com/search/%E5%B1%B1%E4%B8%9C%E6%96%B0%E5%A2%9E121%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B)
 1. [建议把第三卫生间建好建到位](https://www.douyin.com/search/%E5%BB%BA%E8%AE%AE%E6%8A%8A%E7%AC%AC%E4%B8%89%E5%8D%AB%E7%94%9F%E9%97%B4%E5%BB%BA%E5%A5%BD%E5%BB%BA%E5%88%B0%E4%BD%8D)
 1. [我这手机怎么就变成高脚杯了](https://www.douyin.com/search/%E6%88%91%E8%BF%99%E6%89%8B%E6%9C%BA%E6%80%8E%E4%B9%88%E5%B0%B1%E5%8F%98%E6%88%90%E9%AB%98%E8%84%9A%E6%9D%AF%E4%BA%86)
@@ -46,6 +47,7 @@
 1. [剃寸头的女生有多酷](https://www.douyin.com/search/%E5%89%83%E5%AF%B8%E5%A4%B4%E7%9A%84%E5%A5%B3%E7%94%9F%E6%9C%89%E5%A4%9A%E9%85%B7)
 1. [吴倩第一次用武汉话演电影](https://www.douyin.com/search/%E5%90%B4%E5%80%A9%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E6%AD%A6%E6%B1%89%E8%AF%9D%E6%BC%94%E7%94%B5%E5%BD%B1)
 1. [易烊千玺片场玩游戏](https://www.douyin.com/search/%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%89%87%E5%9C%BA%E7%8E%A9%E6%B8%B8%E6%88%8F)
+1. [陈腾跃新剧造型撞脸李逵](https://www.douyin.com/search/%E9%99%88%E8%85%BE%E8%B7%83%E6%96%B0%E5%89%A7%E9%80%A0%E5%9E%8B%E6%92%9E%E8%84%B8%E6%9D%8E%E9%80%B5)
 1. [沈明宝什么时候和杨争离婚](https://www.douyin.com/search/%E6%B2%88%E6%98%8E%E5%AE%9D%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%92%8C%E6%9D%A8%E4%BA%89%E7%A6%BB%E5%A9%9A)
 1. [猎罪图鉴是檀健次第一部男主剧](https://www.douyin.com/search/%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B4%E6%98%AF%E6%AA%80%E5%81%A5%E6%AC%A1%E7%AC%AC%E4%B8%80%E9%83%A8%E7%94%B7%E4%B8%BB%E5%89%A7)
 1. [檀健次说金世佳是快乐源泉](https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1%E8%AF%B4%E9%87%91%E4%B8%96%E4%BD%B3%E6%98%AF%E5%BF%AB%E4%B9%90%E6%BA%90%E6%B3%89)
@@ -57,14 +59,12 @@
 1. [刘诗诗说下部戏要去古代世界](https://www.douyin.com/search/%E5%88%98%E8%AF%97%E8%AF%97%E8%AF%B4%E4%B8%8B%E9%83%A8%E6%88%8F%E8%A6%81%E5%8E%BB%E5%8F%A4%E4%BB%A3%E4%B8%96%E7%95%8C)
 1. [阿布资产被冻结](https://www.douyin.com/search/%E9%98%BF%E5%B8%83%E8%B5%84%E4%BA%A7%E8%A2%AB%E5%86%BB%E7%BB%93)
 1. [天津学校配餐事件后续](https://www.douyin.com/search/%E5%A4%A9%E6%B4%A5%E5%AD%A6%E6%A0%A1%E9%85%8D%E9%A4%90%E4%BA%8B%E4%BB%B6%E5%90%8E%E7%BB%AD)
-1. [顺丰回应快递受病毒污染风险](https://www.douyin.com/search/%E9%A1%BA%E4%B8%B0%E5%9B%9E%E5%BA%94%E5%BF%AB%E9%80%92%E5%8F%97%E7%97%85%E6%AF%92%E6%B1%A1%E6%9F%93%E9%A3%8E%E9%99%A9)
+1. [总理回应乌克兰局势](https://www.douyin.com/search/%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B1%80%E5%8A%BF)
+1. [篮网vs76人](https://www.douyin.com/search/%E7%AF%AE%E7%BD%91vs76%E4%BA%BA)
 1. [港风复古踢腿变装](https://www.douyin.com/search/%E6%B8%AF%E9%A3%8E%E5%A4%8D%E5%8F%A4%E8%B8%A2%E8%85%BF%E5%8F%98%E8%A3%85)
-1. [漫画版防疫服小姐姐有多可爱](https://www.douyin.com/search/%E6%BC%AB%E7%94%BB%E7%89%88%E9%98%B2%E7%96%AB%E6%9C%8D%E5%B0%8F%E5%A7%90%E5%A7%90%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1)
 1. [苏翊鸣隔离结束第一件事是滑雪](https://www.douyin.com/search/%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%9A%94%E7%A6%BB%E7%BB%93%E6%9D%9F%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E6%BB%91%E9%9B%AA)
 1. [当薛汀哲装成小白在北京蹭课](https://www.douyin.com/search/%E5%BD%93%E8%96%9B%E6%B1%80%E5%93%B2%E8%A3%85%E6%88%90%E5%B0%8F%E7%99%BD%E5%9C%A8%E5%8C%97%E4%BA%AC%E8%B9%AD%E8%AF%BE)
-1. [大象杯四强晋级名单](https://www.douyin.com/search/%E5%A4%A7%E8%B1%A1%E6%9D%AF%E5%9B%9B%E5%BC%BA%E6%99%8B%E7%BA%A7%E5%90%8D%E5%8D%95)
-1. [淄博加油](https://www.douyin.com/search/%E6%B7%84%E5%8D%9A%E5%8A%A0%E6%B2%B9)
-1. [油价上涨会带来哪些影响](https://www.douyin.com/search/%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
+1. [詹姆斯谈绝杀球传给安东尼](https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E8%B0%88%E7%BB%9D%E6%9D%80%E7%90%83%E4%BC%A0%E7%BB%99%E5%AE%89%E4%B8%9C%E5%B0%BC)
 
 ## 明星榜
 
@@ -76,56 +76,56 @@
 
 ## 音乐榜
 
-1. [落在生命里的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
+1. [落在生命里的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a3ac5299a304a0babc779305d06ec09) - 尹昔眠
 1. [在他乡（女生版）剪辑版]() - 汪六六
-1. [Coming Baby](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
+1. [Coming Baby](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f02fe2dbebf642a6ba6faa6c3b9853ad) - 律野 & Evis Wy
 1. [哪里都是你 剪辑版]() - 队长
 1. [一样的月光]() - 徐佳莹
 1. [Letting Go]() - 蔡健雅
 1. [渐暖片段1]() - 时代少年团
 1. [Haru Haru（하루하루）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/940c04aa98154ee7bdbaaa2ad9f28aec) - BIGBANG
-1. [But U](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
-1. [洛杉矶](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
-1. [我们啊（男版）片段2](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
-1. [What They Want](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ad9d29b8e31945538d0d6a1247108b12) - Russ
-1. [最好的都给你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
+1. [But U](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9b24e803abb480a87dd1768e2eb1da3) - 乃万NINEONE#
+1. [洛杉矶](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6a65a749415e47988b83c0968476d343) - LBI利比
+1. [我们啊（男版）片段2](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/069198d37333496097851cb872387829) - 三块木头
+1. [What They Want](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ad9d29b8e31945538d0d6a1247108b12) - Russ
+1. [最好的都给你（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e321304ad36c4bdc88df946f53b7b6f9) - 余佳运
 1. [平凡的一天]() - 毛不易
-1. [一个俗人](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9d0177aeea74be2b26593b598f1de07) - 宋宇苗
+1. [一个俗人](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c9d0177aeea74be2b26593b598f1de07) - 宋宇苗
 1. [为什么要努力（part.1）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1d592d511ad5457fb7516ca79bbbf4fd) - 海伦
-1. [爱的回归线（爱情公寓插曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0051c58d3a6448d69f3ab243d5d88416) - 影视原声
-1. [No Make Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b38aca6ce3204b63862b7046255d2ecb) - Zion.T
-1. [DO WHATEVER想做就做（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4613d0aaecf14703b04389a110a45d53) - 卡西恩Cacien
-1. [破碎的人请听 温暖版（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/639c11430cc04c61a944a1317926b641) - 昨夜派对
-1. [守护着我的光](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/313235b651a84c11a8c9dea19ff24fe3) - 李巍V仔
+1. [爱的回归线（爱情公寓插曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0051c58d3a6448d69f3ab243d5d88416) - 影视原声
+1. [No Make Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b38aca6ce3204b63862b7046255d2ecb) - Zion.T
+1. [DO WHATEVER想做就做（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4613d0aaecf14703b04389a110a45d53) - 卡西恩Cacien
+1. [破碎的人请听 温暖版（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/639c11430cc04c61a944a1317926b641) - 昨夜派对
+1. [守护着我的光](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/313235b651a84c11a8c9dea19ff24fe3) - 李巍V仔
 1. [从前说]() - 小阿七
 1. [好一点（don't emo)]() - 小蓝背心
-1. [11](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
+1. [11](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e7c6cc79eb64e2fadb0af297165d43b) - 队长 黄礼格
 1. [帶我去找夜生活]() - 告五人
 1. [Beautiful]() - INTO1-米卡
 1. [我们的爱](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b6ecf7a484314af4a843e93893795216) - 曹雨航
 1. [Polaroid Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/24c13ba6eed54ac995dfecb86ac9af1f) - ENHYPEN
 1. [孤勇者]() - 陈奕迅
 1. [迷途的孤鸟（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2e66f1fbe49240fd8c37a0e510129c89) - 王天阳
-1. [Mystery of Love](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f23267b3df94e60bae314d584aae9f0) - Luke Pickman
+1. [Mystery of Love](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7f23267b3df94e60bae314d584aae9f0) - Luke Pickman
 1. [春日漫游](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/614f052b8f134eee85f8160524ce2f33) - BCD Studio-CC
-1. [Celebrity](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ba5878dfa7874a9a94764703e89b4f51) - IU
+1. [Celebrity](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ba5878dfa7874a9a94764703e89b4f51) - IU
 1. [神魂颠倒]() - 邓典
 1. [In The Shadow Of The Sun]() - Professor Green
-1. [危险派对](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
-1. [走着走着花就开了](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/02797a33fcaa45c3afd4a68c0946455f) - 卓舒晨
-1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
+1. [危险派对](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/bb2bd3bc2cc34436ba0091273d523e37) - 王以太/刘至佳
+1. [走着走着花就开了](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/02797a33fcaa45c3afd4a68c0946455f) - 卓舒晨
+1. [Past Lives](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [碎银几两](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9e3cdce7dc934152917c7a7be1ce59f5) - 轩东
-1. [Not Angry](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a68705f440f245c4bce9f08bda774c51) - Chris James
+1. [Not Angry](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a68705f440f245c4bce9f08bda774c51) - Chris James
 1. [橘子汽水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7600b994f4724d3ca63e4904cc209b82) - iLab兴趣实验室
 1. [Lemon Tree](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3c9a89fe7736474a989d239664c35bcf) - Gustixa
-1. [WAVE（Prod by 张杰峻）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
+1. [WAVE（Prod by 张杰峻）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ffb189e5870a4074b9251322f2fb4727) - 花欲燃
 1. [たぶん](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4ecd7372e41540d4acf77b1692442b08) - YOASOBI
 1. [追寻你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cfb22ccf85784f2f83bcefe9ad675822) - 王天戈/川青
-1. [人世间（电视剧《人世间》主题曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/abc8e014bfbc4fec90e5b74d4b1e46e6) - 雷佳
+1. [人世间（电视剧《人世间》主题曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/abc8e014bfbc4fec90e5b74d4b1e46e6) - 雷佳
 1. [晚风眠眠 (剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/55820116913b43b99467e92421473a62) - 黄雅莉
-1. [贴贴 片段一](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
-1. [跳跳跳！](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ec2959722d041d49c5e0be8fb34d10d) - 抖音小助手
-1. [你听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca5844d9e9674a3496bb3d314cfee322) - 苏星婕 & Lil Tzy刘踢几
+1. [贴贴 片段一](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/43592a571cd04dcb87a151851f697181) - 胥睿/杨淳
+1. [跳跳跳！](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/3ec2959722d041d49c5e0be8fb34d10d) - 抖音小助手
+1. [你听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ca5844d9e9674a3496bb3d314cfee322) - 苏星婕 & Lil Tzy刘踢几
 
 ## 品牌榜
 
