@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-05-09 12:17:46 +0800`
+`更新时间：2023-05-09 13:14:25 +0800`
 
 ## 抖音热榜
 
@@ -57,7 +57,6 @@
 1. [来自吊牌的惊吓](https://www.douyin.com/search/%E6%9D%A5%E8%87%AA%E5%90%8A%E7%89%8C%E7%9A%84%E6%83%8A%E5%90%93)
 1. [秦刚回应中美会否因台开战](https://www.douyin.com/search/%E7%A7%A6%E5%88%9A%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E4%BC%9A%E5%90%A6%E5%9B%A0%E5%8F%B0%E5%BC%80%E6%88%98)
 1. [mlxg回应没参加Letme婚礼](https://www.douyin.com/search/mlxg%E5%9B%9E%E5%BA%94%E6%B2%A1%E5%8F%82%E5%8A%A0Letme%E5%A9%9A%E7%A4%BC)
-1. [狗狗过吊桥吓到腿抖](https://www.douyin.com/search/%E7%8B%97%E7%8B%97%E8%BF%87%E5%90%8A%E6%A1%A5%E5%90%93%E5%88%B0%E8%85%BF%E6%8A%96)
 1. [音乐节方否认赵今麦插队](https://www.douyin.com/search/%E9%9F%B3%E4%B9%90%E8%8A%82%E6%96%B9%E5%90%A6%E8%AE%A4%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%8F%92%E9%98%9F)
 1. [广东人的夜生活](https://www.douyin.com/search/%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E5%A4%9C%E7%94%9F%E6%B4%BB)
 1. [广州一小区有黄猄出没](https://www.douyin.com/search/%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E6%9C%89%E9%BB%84%E7%8C%84%E5%87%BA%E6%B2%A1)
@@ -76,22 +75,22 @@
 
 ## 音乐榜
 
-1. [子莫格尼_剪辑版1_全网可听](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
-1. [ไม่ได้ก็ไม่เอา - Speed Ver.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
-1. [五月天_火鸡 (全网已上线)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
+1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
+1. [ไม่ได้ก็ไม่เอา - Speed Ver.](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMsFyA3EBDiUgOWxcdofhRnrIAWth1ab8wzqWo) - PiXXiE
+1. [五月天_火鸡 (全网已上线)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEtOMSQZstjlJ4nfBEgeqN29IbWjkmDBrFtF2C) - 火鸡
 1. [我生性爱自由]() - 阿吉野马
-1. [I'll Do It (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0IcAyFWnAB1XwscIWMB9fhApNzcTIOBbNadNo) - 绔子一
+1. [I'll Do It (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0IcAyFWnAB1XwscIWMB9fhApNzcTIOBbNadNo) - 绔子一
 1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
-1. [孤雏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0pxgkL6nYiYoEOCCpePQWZ97BbfklBQD6g7tQ) - AGA
-1. [One More Light](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIBCInhecoGOE5h6ZvqCBYtfXCIMQEbgkRKgD) - Linkin Park
-1. [有风无风都不自由 (新版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osNym1s0WazDjbdhoafXZIJ8AR1aUwAGbNOoJB) - 奶栗
-1. [人间这一遭（剪辑版2）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocEhqgscITFWmsEA3mOzNg2sDgBfQE0QBCTyUA) - 木杰
+1. [孤雏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0pxgkL6nYiYoEOCCpePQWZ97BbfklBQD6g7tQ) - AGA
+1. [One More Light](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okIBCInhecoGOE5h6ZvqCBYtfXCIMQEbgkRKgD) - Linkin Park
+1. [有风无风都不自由 (新版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osNym1s0WazDjbdhoafXZIJ8AR1aUwAGbNOoJB) - 奶栗
+1. [人间这一遭（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocEhqgscITFWmsEA3mOzNg2sDgBfQE0QBCTyUA) - 木杰
 1. [帶我去找夜生活]() - 告五人
-1. [i walk this earth all by myself](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
+1. [i walk this earth all by myself](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c751e38547b548b389ff6e1b9203b1de) - Ekkstacy
 1. [我想离开浪浪山 (大川版)]() - 大川Dietry
 1. [小城夏天]() - LBI利比
-1. [麦浪（四月天特别版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
-1. [浪漫黄昏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
+1. [麦浪（四月天特别版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/26f5501a6547411fa3fbedc592fed0ad) - yihuik苡慧
+1. [浪漫黄昏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
 1. [晚风心里吹(纯享版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0IIgiLTsCfQeF8zKDxoVGedrSaDAYbBk43nDM) - 南樱
 1. [Doin' the Limbo]() - James Brown & His Famous Flames
 1. [心里种下一颗种子哒啦滴哒啦]() - 贝乐虎
@@ -116,16 +115,16 @@
 1. [Jellyfish]() - 落日飛車 Sunset Rollercoaster
 1. [肯定 (剪辑版1)]() - RE-D+是二哈ya+Masta
 1. [Hot](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a63be641febf4335a8996c8a877dee1c) - Liili
-1. [Favorite Song - Sped Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA2Wq8BZQnjf9UtLggrhCkwuQbe7bYBDytoCod) - Toosii
-1. [TURN&BRING IT BACK（Prod.Gr33nart Beats）（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1821b5f8d0384f7ba8b99ffaa9d30fb8) - younggoldwontlost
+1. [Favorite Song - Sped Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oA2Wq8BZQnjf9UtLggrhCkwuQbe7bYBDytoCod) - Toosii
+1. [TURN&BRING IT BACK（Prod.Gr33nart Beats）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/1821b5f8d0384f7ba8b99ffaa9d30fb8) - younggoldwontlost
 1. [Past Lives](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e75cfe0f1fa54d25951fc9e1411226aa) - Martin Arteta & creamy & 11:11 Music Group
 1. [catch me]() - JVKE
 1. [晚风遇见你]() - 陆杰
 1. [Pebble（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/5e6913036e674b34b92df6abd1361f00) - BlackDD
-1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
-1. [One More Last Time](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
-1. [in heat. - ALEJANDRO Remix](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/48f0438d83da47cc95579af06ff42588) - Hentai Xander
-1. [Who Says](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f6a468914cf243f68b7f047bad22afa5) - Selena Gomez & The Scene
+1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
+1. [One More Last Time](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAzTlo0LUAdCAIhjktsKWcLAEUKmZwGcOoB1fy) - Henry Young & Ashley Alisha
+1. [in heat. - ALEJANDRO Remix](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/48f0438d83da47cc95579af06ff42588) - Hentai Xander
+1. [Who Says](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f6a468914cf243f68b7f047bad22afa5) - Selena Gomez & The Scene
 
 ## 品牌榜
 
