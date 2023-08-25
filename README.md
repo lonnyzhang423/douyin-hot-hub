@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-08-25 19:12:24 +0800`
+`更新时间：2023-08-25 20:26:29 +0800`
 
 ## 抖音热榜
 
 1. [瑞士向中国返还5件流失文物](https://www.douyin.com/search/%E7%91%9E%E5%A3%AB%E5%90%91%E4%B8%AD%E5%9B%BD%E8%BF%94%E8%BF%985%E4%BB%B6%E6%B5%81%E5%A4%B1%E6%96%87%E7%89%A9)
 1. [日本排海启动瞬间画面](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%8E%92%E6%B5%B7%E5%90%AF%E5%8A%A8%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2)
 1. [我国成功发射高分十二号04星](https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E9%AB%98%E5%88%86%E5%8D%81%E4%BA%8C%E5%8F%B704%E6%98%9F)
-1. [董宇辉呼吁不用抢盐](https://www.douyin.com/search/%E8%91%A3%E5%AE%87%E8%BE%89%E5%91%BC%E5%90%81%E4%B8%8D%E7%94%A8%E6%8A%A2%E7%9B%90)
-1. [徐良初舞台唱坏女孩](https://www.douyin.com/search/%E5%BE%90%E8%89%AF%E5%88%9D%E8%88%9E%E5%8F%B0%E5%94%B1%E5%9D%8F%E5%A5%B3%E5%AD%A9)
-1. [蔡国庆成功混入0713](https://www.douyin.com/search/%E8%94%A1%E5%9B%BD%E5%BA%86%E6%88%90%E5%8A%9F%E6%B7%B7%E5%85%A50713)
+1. [日本排污后全球渔业怎么办](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%8E%92%E6%B1%A1%E5%90%8E%E5%85%A8%E7%90%83%E6%B8%94%E4%B8%9A%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [黄晓明闫妮新片尺度](https://www.douyin.com/search/%E9%BB%84%E6%99%93%E6%98%8E%E9%97%AB%E5%A6%AE%E6%96%B0%E7%89%87%E5%B0%BA%E5%BA%A6)
-1. [被送精神病院千万富翁已自杀](https://www.douyin.com/search/%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E5%B7%B2%E8%87%AA%E6%9D%80)
+1. [董宇辉呼吁不用抢盐](https://www.douyin.com/search/%E8%91%A3%E5%AE%87%E8%BE%89%E5%91%BC%E5%90%81%E4%B8%8D%E7%94%A8%E6%8A%A2%E7%9B%90)
+1. [实探日本超市现状](https://www.douyin.com/search/%E5%AE%9E%E6%8E%A2%E6%97%A5%E6%9C%AC%E8%B6%85%E5%B8%82%E7%8E%B0%E7%8A%B6)
 1. [中国好声音暂停播出](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA)
-1. [香港仍然存在日本水产“漏网之鱼”](https://www.douyin.com/search/%E9%A6%99%E6%B8%AF%E4%BB%8D%E7%84%B6%E5%AD%98%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E2%80%9C%E6%BC%8F%E7%BD%91%E4%B9%8B%E9%B1%BC%E2%80%9D)
-1. [市监总局要求加强食盐价格监测](https://www.douyin.com/search/%E5%B8%82%E7%9B%91%E6%80%BB%E5%B1%80%E8%A6%81%E6%B1%82%E5%8A%A0%E5%BC%BA%E9%A3%9F%E7%9B%90%E4%BB%B7%E6%A0%BC%E7%9B%91%E6%B5%8B)
+1. [已经开始期待秋装了](https://www.douyin.com/search/%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%9C%9F%E5%BE%85%E7%A7%8B%E8%A3%85%E4%BA%86)
+1. [男篮世界杯开打](https://www.douyin.com/search/%E7%94%B7%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E6%89%93)
+1. [被送精神病院千万富翁已自杀](https://www.douyin.com/search/%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%8D%83%E4%B8%87%E5%AF%8C%E7%BF%81%E5%B7%B2%E8%87%AA%E6%9D%80)
 1. [特朗普监狱大头照](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%91%E7%8B%B1%E5%A4%A7%E5%A4%B4%E7%85%A7)
 1. [普京回应普里戈任坠机身亡](https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1)
 1. [官方回应北极鲶鱼事件调查进度](https://www.douyin.com/search/%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%BA%A6)
 1. [美国务卿称满意核污水排海计划](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E7%A7%B0%E6%BB%A1%E6%84%8F%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E8%AE%A1%E5%88%92)
+1. [2023护苗直播课](https://www.douyin.com/search/2023%E6%8A%A4%E8%8B%97%E7%9B%B4%E6%92%AD%E8%AF%BE)
 1. [特朗普投案自首](https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%95%E6%A1%88%E8%87%AA%E9%A6%96)
-1. [中国好声音母公司股价](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%AF%8D%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7)
-1. [日本为何选择将核污水排海](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%95%E9%80%89%E6%8B%A9%E5%B0%86%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7)
+1. [王楚然任敏同披风同男主](https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%BB%BB%E6%95%8F%E5%90%8C%E6%8A%AB%E9%A3%8E%E5%90%8C%E7%94%B7%E4%B8%BB)
 1. [德环境部长批日本排放核污水](https://www.douyin.com/search/%E5%BE%B7%E7%8E%AF%E5%A2%83%E9%83%A8%E9%95%BF%E6%89%B9%E6%97%A5%E6%9C%AC%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%B0%B4)
 1. [我见过情绪最稳定的小孩](https://www.douyin.com/search/%E6%88%91%E8%A7%81%E8%BF%87%E6%83%85%E7%BB%AA%E6%9C%80%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%B0%8F%E5%AD%A9)
-1. [赵丽颖为关智斌披荆斩棘打call](https://www.douyin.com/search/%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%BA%E5%85%B3%E6%99%BA%E6%96%8C%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%89%93call)
-1. [王楚然任敏同披风同男主](https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%BB%BB%E6%95%8F%E5%90%8C%E6%8A%AB%E9%A3%8E%E5%90%8C%E7%94%B7%E4%B8%BB)
-1. [男篮世界杯开打](https://www.douyin.com/search/%E7%94%B7%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E6%89%93)
-1. [范丞丞也跳了whatever](https://www.douyin.com/search/%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E8%B7%B3%E4%BA%86whatever)
-1. [茶卡盐湖现有盐够全国吃70年](https://www.douyin.com/search/%E8%8C%B6%E5%8D%A1%E7%9B%90%E6%B9%96%E7%8E%B0%E6%9C%89%E7%9B%90%E5%A4%9F%E5%85%A8%E5%9B%BD%E5%90%8370%E5%B9%B4)
-1. [孤注一掷现实意义](https://www.douyin.com/search/%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E7%8E%B0%E5%AE%9E%E6%84%8F%E4%B9%89)
-1. [郑嘉颖唱了三寸天堂](https://www.douyin.com/search/%E9%83%91%E5%98%89%E9%A2%96%E5%94%B1%E4%BA%86%E4%B8%89%E5%AF%B8%E5%A4%A9%E5%A0%82)
-1. [田曦薇在机场拉练](https://www.douyin.com/search/%E7%94%B0%E6%9B%A6%E8%96%87%E5%9C%A8%E6%9C%BA%E5%9C%BA%E6%8B%89%E7%BB%83)
-1. [专家：核污水或破坏人体DNA](https://www.douyin.com/search/%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%88%96%E7%A0%B4%E5%9D%8F%E4%BA%BA%E4%BD%93DNA)
+1. [徐良初舞台唱坏女孩](https://www.douyin.com/search/%E5%BE%90%E8%89%AF%E5%88%9D%E8%88%9E%E5%8F%B0%E5%94%B1%E5%9D%8F%E5%A5%B3%E5%AD%A9)
 1. [台风达维生成](https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%BE%BE%E7%BB%B4%E7%94%9F%E6%88%90)
+1. [茶卡盐湖现有盐够全国吃70年](https://www.douyin.com/search/%E8%8C%B6%E5%8D%A1%E7%9B%90%E6%B9%96%E7%8E%B0%E6%9C%89%E7%9B%90%E5%A4%9F%E5%85%A8%E5%9B%BD%E5%90%8370%E5%B9%B4)
+1. [范丞丞也跳了whatever](https://www.douyin.com/search/%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B9%9F%E8%B7%B3%E4%BA%86whatever)
+1. [核污染水或变成雨水影响全球](https://www.douyin.com/search/%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%88%96%E5%8F%98%E6%88%90%E9%9B%A8%E6%B0%B4%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83)
+1. [孤注一掷现实意义](https://www.douyin.com/search/%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E7%8E%B0%E5%AE%9E%E6%84%8F%E4%B9%89)
+1. [专家：核污水或破坏人体DNA](https://www.douyin.com/search/%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%88%96%E7%A0%B4%E5%9D%8F%E4%BA%BA%E4%BD%93DNA)
+1. [檀健次九命相柳收官特辑](https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B9%9D%E5%91%BD%E7%9B%B8%E6%9F%B3%E6%94%B6%E5%AE%98%E7%89%B9%E8%BE%91)
+1. [陕西一高速发生塌陷](https://www.douyin.com/search/%E9%99%95%E8%A5%BF%E4%B8%80%E9%AB%98%E9%80%9F%E5%8F%91%E7%94%9F%E5%A1%8C%E9%99%B7)
+1. [白山茶懒羊羊清唱版](https://www.douyin.com/search/%E7%99%BD%E5%B1%B1%E8%8C%B6%E6%87%92%E7%BE%8A%E7%BE%8A%E6%B8%85%E5%94%B1%E7%89%88)
 1. [那英澳门演唱会引发关注](https://www.douyin.com/search/%E9%82%A3%E8%8B%B1%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8)
 1. [24小时直击日本核污染水排海](https://www.douyin.com/search/24%E5%B0%8F%E6%97%B6%E7%9B%B4%E5%87%BB%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7)
-1. [已经开始期待秋装了](https://www.douyin.com/search/%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%9C%9F%E5%BE%85%E7%A7%8B%E8%A3%85%E4%BA%86)
 1. [人民网评全面暂停进口日本水产品](https://www.douyin.com/search/%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%85%A8%E9%9D%A2%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81)
-1. [白山茶懒羊羊清唱版](https://www.douyin.com/search/%E7%99%BD%E5%B1%B1%E8%8C%B6%E6%87%92%E7%BE%8A%E7%BE%8A%E6%B8%85%E5%94%B1%E7%89%88)
-1. [日本核污水排海事件全梳理](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E4%BA%8B%E4%BB%B6%E5%85%A8%E6%A2%B3%E7%90%86)
-1. [当方多病找到李莲花](https://www.douyin.com/search/%E5%BD%93%E6%96%B9%E5%A4%9A%E7%97%85%E6%89%BE%E5%88%B0%E6%9D%8E%E8%8E%B2%E8%8A%B1)
-1. [苏小玎初舞台梦回高启盛](https://www.douyin.com/search/%E8%8B%8F%E5%B0%8F%E7%8E%8E%E5%88%9D%E8%88%9E%E5%8F%B0%E6%A2%A6%E5%9B%9E%E9%AB%98%E5%90%AF%E7%9B%9B)
-1. [日本本州东海岸远海5.8级地震](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E6%B5%B7%E5%B2%B8%E8%BF%9C%E6%B5%B75.8%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [檀健次九命相柳收官特辑](https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B9%9D%E5%91%BD%E7%9B%B8%E6%9F%B3%E6%94%B6%E5%AE%98%E7%89%B9%E8%BE%91)
-1. [日本核污染水是怎么产生的](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%98%AF%E6%80%8E%E4%B9%88%E4%BA%A7%E7%94%9F%E7%9A%84)
-1. [张栋梁唱了北极星的眼泪](https://www.douyin.com/search/%E5%BC%A0%E6%A0%8B%E6%A2%81%E5%94%B1%E4%BA%86%E5%8C%97%E6%9E%81%E6%98%9F%E7%9A%84%E7%9C%BC%E6%B3%AA)
-1. [台风达维预计影响日本东部](https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%BE%BE%E7%BB%B4%E9%A2%84%E8%AE%A1%E5%BD%B1%E5%93%8D%E6%97%A5%E6%9C%AC%E4%B8%9C%E9%83%A8)
-1. [记者采访祖坟被挖事件遭扣留](https://www.douyin.com/search/%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E7%A5%96%E5%9D%9F%E8%A2%AB%E6%8C%96%E4%BA%8B%E4%BB%B6%E9%81%AD%E6%89%A3%E7%95%99)
+1. [赵丽颖为关智斌披荆斩棘打call](https://www.douyin.com/search/%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%BA%E5%85%B3%E6%99%BA%E6%96%8C%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%89%93call)
 1. [这歌是成毅唱的](https://www.douyin.com/search/%E8%BF%99%E6%AD%8C%E6%98%AF%E6%88%90%E6%AF%85%E5%94%B1%E7%9A%84)
-1. [whatever的风吹到了黄明昊](https://www.douyin.com/search/whatever%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E9%BB%84%E6%98%8E%E6%98%8A)
-1. [新一轮强降雨来袭](https://www.douyin.com/search/%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD)
-1. [杨紫邓为夭璟加长花絮](https://www.douyin.com/search/%E6%9D%A8%E7%B4%AB%E9%82%93%E4%B8%BA%E5%A4%AD%E7%92%9F%E5%8A%A0%E9%95%BF%E8%8A%B1%E7%B5%AE)
+1. [日本核污水排海事件全梳理](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%B0%B4%E6%8E%92%E6%B5%B7%E4%BA%8B%E4%BB%B6%E5%85%A8%E6%A2%B3%E7%90%86)
+1. [张栋梁唱了北极星的眼泪](https://www.douyin.com/search/%E5%BC%A0%E6%A0%8B%E6%A2%81%E5%94%B1%E4%BA%86%E5%8C%97%E6%9E%81%E6%98%9F%E7%9A%84%E7%9C%BC%E6%B3%AA)
+1. [重庆最不该忽略的小县城](https://www.douyin.com/search/%E9%87%8D%E5%BA%86%E6%9C%80%E4%B8%8D%E8%AF%A5%E5%BF%BD%E7%95%A5%E7%9A%84%E5%B0%8F%E5%8E%BF%E5%9F%8E)
+1. [日本本州东海岸远海5.8级地震](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E6%B5%B7%E5%B2%B8%E8%BF%9C%E6%B5%B75.8%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [又一次被东北物价惊到了](https://www.douyin.com/search/%E5%8F%88%E4%B8%80%E6%AC%A1%E8%A2%AB%E4%B8%9C%E5%8C%97%E7%89%A9%E4%BB%B7%E6%83%8A%E5%88%B0%E4%BA%86)
+1. [日本核污染水是怎么产生的](https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%98%AF%E6%80%8E%E4%B9%88%E4%BA%A7%E7%94%9F%E7%9A%84)
+1. [新一轮强降雨来袭](https://www.douyin.com/search/%E6%96%B0%E4%B8%80%E8%BD%AE%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%9D%A5%E8%A2%AD)
+1. [记者实地探访水产市场](https://www.douyin.com/search/%E8%AE%B0%E8%80%85%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E6%B0%B4%E4%BA%A7%E5%B8%82%E5%9C%BA)
+1. [whatever的风吹到了黄明昊](https://www.douyin.com/search/whatever%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E9%BB%84%E6%98%8E%E6%98%8A)
+1. [五月天泉州演唱会](https://www.douyin.com/search/%E4%BA%94%E6%9C%88%E5%A4%A9%E6%B3%89%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A)
+1. [台风达维预计影响日本东部](https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%BE%BE%E7%BB%B4%E9%A2%84%E8%AE%A1%E5%BD%B1%E5%93%8D%E6%97%A5%E6%9C%AC%E4%B8%9C%E9%83%A8)
 1. [杨汝晴侯卓成CP太好嗑](https://www.douyin.com/search/%E6%9D%A8%E6%B1%9D%E6%99%B4%E4%BE%AF%E5%8D%93%E6%88%90CP%E5%A4%AA%E5%A5%BD%E5%97%91)
+1. [苏小玎初舞台梦回高启盛](https://www.douyin.com/search/%E8%8B%8F%E5%B0%8F%E7%8E%8E%E5%88%9D%E8%88%9E%E5%8F%B0%E6%A2%A6%E5%9B%9E%E9%AB%98%E5%90%AF%E7%9B%9B)
+1. [记者采访祖坟被挖事件遭扣留](https://www.douyin.com/search/%E8%AE%B0%E8%80%85%E9%87%87%E8%AE%BF%E7%A5%96%E5%9D%9F%E8%A2%AB%E6%8C%96%E4%BA%8B%E4%BB%B6%E9%81%AD%E6%89%A3%E7%95%99)
+1. [肖杰教马立奥说英文](https://www.douyin.com/search/%E8%82%96%E6%9D%B0%E6%95%99%E9%A9%AC%E7%AB%8B%E5%A5%A5%E8%AF%B4%E8%8B%B1%E6%96%87)
 
 ## 明星榜
 
@@ -76,39 +76,33 @@
 
 ## 音乐榜
 
-1. [毒药 (释怀版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYILMEAzspdZBIzy4frJNB8ZHPHWAhiwowd4Ad) - 周星星
+1. [爱人呢](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/2041dc10f3c442f1992b439a00eaf2ba) - 郭采潔
+1. [毒药（周星星版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAXunb2JtDTQMcBfaEkg8Be5IhZQCmGByB0V33) - 周星星
 1. [不需要挽留 Move On（前奏）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooCBhgCCkF4nExzQL9WZSUbitfA8IsDkgQIYhe) - Mr.16罗隽永&SimYee陈芯怡
+1. [I Don't Gotta Know](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8nCfgMGwCsAvgDe5bzzaDQDFf6ksAUxrlFC8J) - 范丞丞 & 歐陽娜娜
 1. [想你时风起 (那年我错过的大雨)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooR7G8ftDMzIgnxa0HbReM4CZ74qknQABLtHB1) - 单依纯
 1. [在草地上肆意奔跑(片段)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/8831d494742f45dabdfa8adb8b817259) - 傅如乔
-1. [Closure](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/84f7422b29f94b78a5f3b0386275db35) - Sarcastic Sounds & BIRDY & Mishaal
-1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
+1. [Sara Sara](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceDXU2gVHZCQFrkrYmX8e5tUBxQPb6Bmd2nF) - SEVENTEEN
 1. [Here’s Your Perfect (with salem ilese)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/076b1576c6c546598f803fe53da388a7) - Jamie Miller
-1. [瞬（全曲汽水音乐听）-郑润泽](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
-1. [满天星辰不及你(剪辑版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/967cfdb40fa94d60af1ae47c8dc174f0) - ycccc
+1. [瞬（全曲汽水音乐听）-郑润泽](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4Vb9eJZClCZTnRQYy0BRSeHGrDtrkrQgIBvQt) - 郑润泽
 1. [海边探戈](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os9gE0VQCGqt6VQkZDyBBYvfSDY0QFe3vVmubn) - 王鹤棣/王齐铭/朴鲨
-1. [心许百年 (宿命版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM4tBu7QOMCTVT7rK1Pe5NHGFghPMBzykI9ZBf) - 王天戈
-1. [山茶花读不懂白玫瑰](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
+1. [那一刻心动](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/4c0ed00133e3439592b4741c72acc6f3) - 任子墨
+1. [山茶花读不懂白玫瑰](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osfn8B7DktrRHEPJgPCfDbw7QDQEkwC16BxZg9) - 王为
 1. [在你的身边](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9dce2ee6c9f84c17a6d68458730d7ae8) - 盛哲
-1. [After Hours（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgWztApWhImMFMpyEyQfAIyIusRBioqSgWk7T) - 87 ℃
+1. [After Hours（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owgWztApWhImMFMpyEyQfAIyIusRBioqSgWk7T) - 87 ℃
+1. [靠近我](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMGCfQ3FZdrziXO1QC8zgfNXawBf91hGAIvUrY) - Kri9a.
 1. [天天](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/6b075c4856e34a60a1ef022c4a80dec5) - David Tao
 1. [年少的你啊（剪辑版3）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oo2vDGhzyAtN1QLfh5k1iBIpWAv2NOZQysM5tK) - 浩然H.R
-1. [Cruel Summer](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/b35ad770e6d4495abefaa493fa46b555) - Taylor Swift
-1. [凄美地](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oshF4RgFMhmTSa4jCaHNUXI0NetFtBBQBzBZdf) - 郭顶
-1. [If We Ever Broke Up](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
+1. [You Gotta Move](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2b672af67514106b25cdfd6f1a8aad2) - Mississippi Fred McDowell
+1. [凄美地](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oshF4RgFMhmTSa4jCaHNUXI0NetFtBBQBzBZdf) - 郭顶
+1. [爱你](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/738d8b240f1e4519b44cf31c84e02e24) - 王心凌
+1. [If We Ever Broke Up](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8onj5HDk0ImtBmO0URBfeyCDXQJMYkQ1gb8Zy) - Mae Stephens
 1. [是你（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/46019dae783c4c969944217fe1cfafc4) - 梦然
 1. [我和比奇堡的朋友们](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/f0505db981ea4a6d91453a15924a82aa) - 热水澡
-1. [Happy like weekend](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0OfAnfYcF4hwK8mwGGQx597Wf1QAOb9KehnDk) - KeeP
-1. [最最美好的夏天（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
+1. [最最美好的夏天（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4FMghDLZkPIkCutdrsXlbTHcaZztBfeCp9AFS) - 夏梓薰
 1. [下一秒](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/16eedda97153423db2501ff6373be86a) - 张碧晨
-1. [NUNA（告白版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
-1. [ 一笑倾城](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cb539248cc6e4add8fdc39683808c267) - 汪苏泷
-1. [宝贝在干嘛](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okW4hBCfJI5B2ZEgTCtikhMW7IafzNrBQIYkpJ) - 嘿人李逵Noisemakers
+1. [NUNA（告白版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a65828cbd8ce41a78a430a58b49f4feb) - 队长
 1. [追晚风的人（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/560835060af84ac29cd5c12e2a98f7eb) - 徐薇
-1. [浪漫黄昏](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/a2e4e0b8cf8b4cc0a6bfed7cd21bd5a0) - sour milk & 7Evo
-1. [恋爱循环](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/70a85ab2fc594510b47ea8fc36cd6d71) - MONOGATARI Series
-1. [子莫格尼_剪辑版1_全网可听](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okgjBiZZDqmeFfACngDQ48okZJ9knBMDtbwo8Q) - 杉和
-1. [给你一瓶魔法药水](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7feb593ee8de4da69c1370c49d58b610) - 告五人
-1. [勋章 Medals](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYwogDBYZneQjC0buOodj2f8T8PntB82QtgBrv) - 鹿晗
 
 ## 品牌榜
 
