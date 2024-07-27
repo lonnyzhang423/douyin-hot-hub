@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-07-27 12:20:23 +0800`
+`更新时间：2024-07-27 13:16:38 +0800`
 
 ## 抖音热榜
 
@@ -20,51 +20,51 @@
 1. [塞纳河上耀眼的“中国红”](https://www.douyin.com/search/%E5%A1%9E%E7%BA%B3%E6%B2%B3%E4%B8%8A%E8%80%80%E7%9C%BC%E7%9A%84%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%BA%A2%E2%80%9D)
 1. [美国代表团旗手詹姆斯](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%97%97%E6%89%8B%E8%A9%B9%E5%A7%86%E6%96%AF)
 1. [CBA选秀大会](https://www.douyin.com/search/CBA%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A)
-1. [开幕式火炬手神似刺客信条](https://www.douyin.com/search/%E5%BC%80%E5%B9%95%E5%BC%8F%E7%81%AB%E7%82%AC%E6%89%8B%E7%A5%9E%E4%BC%BC%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1)
+1. [那英歌王](https://www.douyin.com/search/%E9%82%A3%E8%8B%B1%E6%AD%8C%E7%8E%8B)
 1. [国际奥委会为报错韩国国名致歉](https://www.douyin.com/search/%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E4%B8%BA%E6%8A%A5%E9%94%99%E9%9F%A9%E5%9B%BD%E5%9B%BD%E5%90%8D%E8%87%B4%E6%AD%89)
 1. [巴黎奥运会今日赛程](https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%BB%8A%E6%97%A5%E8%B5%9B%E7%A8%8B)
-1. [那英歌王](https://www.douyin.com/search/%E9%82%A3%E8%8B%B1%E6%AD%8C%E7%8E%8B)
-1. [河南一工业园区爆炸致5死14伤](https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E4%B8%80%E5%B7%A5%E4%B8%9A%E5%9B%AD%E5%8C%BA%E7%88%86%E7%82%B8%E8%87%B45%E6%AD%BB14%E4%BC%A4)
-1. [贾玲亮相奥委会主席晚宴](https://www.douyin.com/search/%E8%B4%BE%E7%8E%B2%E4%BA%AE%E7%9B%B8%E5%A5%A5%E5%A7%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%E6%99%9A%E5%AE%B4)
 1. [歌手回应质疑](https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91)
+1. [贾玲亮相奥委会主席晚宴](https://www.douyin.com/search/%E8%B4%BE%E7%8E%B2%E4%BA%AE%E7%9B%B8%E5%A5%A5%E5%A7%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%E6%99%9A%E5%AE%B4)
+1. [四川金强选择杨政](https://www.douyin.com/search/%E5%9B%9B%E5%B7%9D%E9%87%91%E5%BC%BA%E9%80%89%E6%8B%A9%E6%9D%A8%E6%94%BF)
+1. [开幕式火炬手神似刺客信条](https://www.douyin.com/search/%E5%BC%80%E5%B9%95%E5%BC%8F%E7%81%AB%E7%82%AC%E6%89%8B%E7%A5%9E%E4%BC%BC%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1)
 1. [演艺人员互殴致8死系谣言](https://www.douyin.com/search/%E6%BC%94%E8%89%BA%E4%BA%BA%E5%91%98%E4%BA%92%E6%AE%B4%E8%87%B48%E6%AD%BB%E7%B3%BB%E8%B0%A3%E8%A8%80)
 1. [巴黎奥运会主火炬点燃](https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%BB%E7%81%AB%E7%82%AC%E7%82%B9%E7%87%83)
-1. [蒙娜丽莎被小黄人偷走了](https://www.douyin.com/search/%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E%E8%A2%AB%E5%B0%8F%E9%BB%84%E4%BA%BA%E5%81%B7%E8%B5%B0%E4%BA%86)
-1. [席琳迪翁开幕式献唱](https://www.douyin.com/search/%E5%B8%AD%E7%90%B3%E8%BF%AA%E7%BF%81%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8C%AE%E5%94%B1)
-1. [现场观众视角看中国队入场](https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%82%E4%BC%97%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA)
+1. [台风格美预计今晚进入河南](https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E6%A0%BC%E7%BE%8E%E9%A2%84%E8%AE%A1%E4%BB%8A%E6%99%9A%E8%BF%9B%E5%85%A5%E6%B2%B3%E5%8D%97)
 1. [巴黎奥运会开幕式观后感](https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E8%A7%82%E5%90%8E%E6%84%9F)
+1. [席琳迪翁开幕式献唱](https://www.douyin.com/search/%E5%B8%AD%E7%90%B3%E8%BF%AA%E7%BF%81%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8C%AE%E5%94%B1)
 1. [去现场看奥运开幕式了](https://www.douyin.com/search/%E5%8E%BB%E7%8E%B0%E5%9C%BA%E7%9C%8B%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BA%86)
+1. [现场观众视角看中国队入场](https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%82%E4%BC%97%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA)
 1. [奥林匹克会旗挂反了](https://www.douyin.com/search/%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E4%BC%9A%E6%97%97%E6%8C%82%E5%8F%8D%E4%BA%86)
-1. [巴黎到底热不热](https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%88%B0%E5%BA%95%E7%83%AD%E4%B8%8D%E7%83%AD)
-1. [像极了以后的我们](https://www.douyin.com/search/%E5%83%8F%E6%9E%81%E4%BA%86%E4%BB%A5%E5%90%8E%E7%9A%84%E6%88%91%E4%BB%AC)
-1. [中式美学的构图之美](https://www.douyin.com/search/%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E7%9A%84%E6%9E%84%E5%9B%BE%E4%B9%8B%E7%BE%8E)
-1. [关于奥运的冷知识](https://www.douyin.com/search/%E5%85%B3%E4%BA%8E%E5%A5%A5%E8%BF%90%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
-1. [谁将为中国队摘得首金](https://www.douyin.com/search/%E8%B0%81%E5%B0%86%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%91%98%E5%BE%97%E9%A6%96%E9%87%91)
-1. [我就这么水灵灵地长开了](https://www.douyin.com/search/%E6%88%91%E5%B0%B1%E8%BF%99%E4%B9%88%E6%B0%B4%E7%81%B5%E7%81%B5%E5%9C%B0%E9%95%BF%E5%BC%80%E4%BA%86)
 1. [奥运官网运动员花式读名字](https://www.douyin.com/search/%E5%A5%A5%E8%BF%90%E5%AE%98%E7%BD%91%E8%BF%90%E5%8A%A8%E5%91%98%E8%8A%B1%E5%BC%8F%E8%AF%BB%E5%90%8D%E5%AD%97)
-1. [巴黎奥运开幕式允许一切发生](https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E5%85%81%E8%AE%B8%E4%B8%80%E5%88%87%E5%8F%91%E7%94%9F)
+1. [我就这么水灵灵地长开了](https://www.douyin.com/search/%E6%88%91%E5%B0%B1%E8%BF%99%E4%B9%88%E6%B0%B4%E7%81%B5%E7%81%B5%E5%9C%B0%E9%95%BF%E5%BC%80%E4%BA%86)
+1. [巴黎到底热不热](https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%88%B0%E5%BA%95%E7%83%AD%E4%B8%8D%E7%83%AD)
+1. [关于奥运的冷知识](https://www.douyin.com/search/%E5%85%B3%E4%BA%8E%E5%A5%A5%E8%BF%90%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
+1. [像极了以后的我们](https://www.douyin.com/search/%E5%83%8F%E6%9E%81%E4%BA%86%E4%BB%A5%E5%90%8E%E7%9A%84%E6%88%91%E4%BB%AC)
+1. [我看的是开幕式还是时装秀](https://www.douyin.com/search/%E6%88%91%E7%9C%8B%E7%9A%84%E6%98%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E8%BF%98%E6%98%AF%E6%97%B6%E8%A3%85%E7%A7%80)
+1. [中式美学的构图之美](https://www.douyin.com/search/%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E7%9A%84%E6%9E%84%E5%9B%BE%E4%B9%8B%E7%BE%8E)
+1. [谁将为中国队摘得首金](https://www.douyin.com/search/%E8%B0%81%E5%B0%86%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%91%98%E5%BE%97%E9%A6%96%E9%87%91)
+1. [蒙娜丽莎被小黄人偷走了](https://www.douyin.com/search/%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E%E8%A2%AB%E5%B0%8F%E9%BB%84%E4%BA%BA%E5%81%B7%E8%B5%B0%E4%BA%86)
 1. [直击台风格美路径](https://www.douyin.com/search/%E7%9B%B4%E5%87%BB%E5%8F%B0%E9%A3%8E%E6%A0%BC%E7%BE%8E%E8%B7%AF%E5%BE%84)
-1. [全红婵：粉丝喜欢的是跳水不是我](https://www.douyin.com/search/%E5%85%A8%E7%BA%A2%E5%A9%B5%EF%BC%9A%E7%B2%89%E4%B8%9D%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E8%B7%B3%E6%B0%B4%E4%B8%8D%E6%98%AF%E6%88%91)
-1. [克烈不敌麦克错失冠军](https://www.douyin.com/search/%E5%85%8B%E7%83%88%E4%B8%8D%E6%95%8C%E9%BA%A6%E5%85%8B%E9%94%99%E5%A4%B1%E5%86%A0%E5%86%9B)
-1. [LadyGaga开幕式表演](https://www.douyin.com/search/LadyGaga%E5%BC%80%E5%B9%95%E5%BC%8F%E8%A1%A8%E6%BC%94)
-1. [不得不爱舞蹈挑战](https://www.douyin.com/search/%E4%B8%8D%E5%BE%97%E4%B8%8D%E7%88%B1%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98)
-1. [手绘中国奥运健儿精彩瞬间](https://www.douyin.com/search/%E6%89%8B%E7%BB%98%E4%B8%AD%E5%9B%BD%E5%A5%A5%E8%BF%90%E5%81%A5%E5%84%BF%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4)
+1. [凡希亚转音挑战](https://www.douyin.com/search/%E5%87%A1%E5%B8%8C%E4%BA%9A%E8%BD%AC%E9%9F%B3%E6%8C%91%E6%88%98)
 1. [请艾特出你身边的黏人精](https://www.douyin.com/search/%E8%AF%B7%E8%89%BE%E7%89%B9%E5%87%BA%E4%BD%A0%E8%BA%AB%E8%BE%B9%E7%9A%84%E9%BB%8F%E4%BA%BA%E7%B2%BE)
-1. [最喜欢凹造型的猴子](https://www.douyin.com/search/%E6%9C%80%E5%96%9C%E6%AC%A2%E5%87%B9%E9%80%A0%E5%9E%8B%E7%9A%84%E7%8C%B4%E5%AD%90)
-1. [姆巴佩拒绝担任巴黎奥运会火炬手](https://www.douyin.com/search/%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%8B%92%E7%BB%9D%E6%8B%85%E4%BB%BB%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E6%89%8B)
-1. [明早起来你的世界依然完美](https://www.douyin.com/search/%E6%98%8E%E6%97%A9%E8%B5%B7%E6%9D%A5%E4%BD%A0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BE%9D%E7%84%B6%E5%AE%8C%E7%BE%8E)
-1. [什么才是真正的巴黎](https://www.douyin.com/search/%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%B7%B4%E9%BB%8E)
-1. [歌手2024歌王之战](https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2024%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98)
+1. [克烈不敌麦克错失冠军](https://www.douyin.com/search/%E5%85%8B%E7%83%88%E4%B8%8D%E6%95%8C%E9%BA%A6%E5%85%8B%E9%94%99%E5%A4%B1%E5%86%A0%E5%86%9B)
+1. [不得不爱舞蹈挑战](https://www.douyin.com/search/%E4%B8%8D%E5%BE%97%E4%B8%8D%E7%88%B1%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98)
 1. [空姐和机长的高质量爱情](https://www.douyin.com/search/%E7%A9%BA%E5%A7%90%E5%92%8C%E6%9C%BA%E9%95%BF%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E7%88%B1%E6%83%85)
-1. [福建人防台风意识有多强](https://www.douyin.com/search/%E7%A6%8F%E5%BB%BA%E4%BA%BA%E9%98%B2%E5%8F%B0%E9%A3%8E%E6%84%8F%E8%AF%86%E6%9C%89%E5%A4%9A%E5%BC%BA)
-1. [青岛和啤酒有多适配](https://www.douyin.com/search/%E9%9D%92%E5%B2%9B%E5%92%8C%E5%95%A4%E9%85%92%E6%9C%89%E5%A4%9A%E9%80%82%E9%85%8D)
-1. [遇见你的眉眼 如清风明月](https://www.douyin.com/search/%E9%81%87%E8%A7%81%E4%BD%A0%E7%9A%84%E7%9C%89%E7%9C%BC%20%E5%A6%82%E6%B8%85%E9%A3%8E%E6%98%8E%E6%9C%88)
-1. [给巴黎一点中国女侠的震撼](https://www.douyin.com/search/%E7%BB%99%E5%B7%B4%E9%BB%8E%E4%B8%80%E7%82%B9%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BE%A0%E7%9A%84%E9%9C%87%E6%92%BC)
-1. [粤东多地遭遇大暴雨](https://www.douyin.com/search/%E7%B2%A4%E4%B8%9C%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E5%A4%A7%E6%9A%B4%E9%9B%A8)
-1. [愿我们都能与孤独和解](https://www.douyin.com/search/%E6%84%BF%E6%88%91%E4%BB%AC%E9%83%BD%E8%83%BD%E4%B8%8E%E5%AD%A4%E7%8B%AC%E5%92%8C%E8%A7%A3)
+1. [最喜欢凹造型的猴子](https://www.douyin.com/search/%E6%9C%80%E5%96%9C%E6%AC%A2%E5%87%B9%E9%80%A0%E5%9E%8B%E7%9A%84%E7%8C%B4%E5%AD%90)
+1. [明早起来你的世界依然完美](https://www.douyin.com/search/%E6%98%8E%E6%97%A9%E8%B5%B7%E6%9D%A5%E4%BD%A0%E7%9A%84%E4%B8%96%E7%95%8C%E4%BE%9D%E7%84%B6%E5%AE%8C%E7%BE%8E)
+1. [LadyGaga开幕式表演](https://www.douyin.com/search/LadyGaga%E5%BC%80%E5%B9%95%E5%BC%8F%E8%A1%A8%E6%BC%94)
+1. [歌手2024歌王之战](https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2024%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98)
+1. [巴黎奥运开幕式允许一切发生](https://www.douyin.com/search/%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E5%85%81%E8%AE%B8%E4%B8%80%E5%88%87%E5%8F%91%E7%94%9F)
 1. [海盗船玩的就是心跳](https://www.douyin.com/search/%E6%B5%B7%E7%9B%97%E8%88%B9%E7%8E%A9%E7%9A%84%E5%B0%B1%E6%98%AF%E5%BF%83%E8%B7%B3)
-1. [我在火把节现场](https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E7%81%AB%E6%8A%8A%E8%8A%82%E7%8E%B0%E5%9C%BA)
-1. [百花奖抢票](https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8A%A2%E7%A5%A8)
+1. [青岛和啤酒有多适配](https://www.douyin.com/search/%E9%9D%92%E5%B2%9B%E5%92%8C%E5%95%A4%E9%85%92%E6%9C%89%E5%A4%9A%E9%80%82%E9%85%8D)
+1. [全红婵：粉丝喜欢的是跳水不是我](https://www.douyin.com/search/%E5%85%A8%E7%BA%A2%E5%A9%B5%EF%BC%9A%E7%B2%89%E4%B8%9D%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%AF%E8%B7%B3%E6%B0%B4%E4%B8%8D%E6%98%AF%E6%88%91)
+1. [完美夏天完美适配夏天](https://www.douyin.com/search/%E5%AE%8C%E7%BE%8E%E5%A4%8F%E5%A4%A9%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8D%E5%A4%8F%E5%A4%A9)
+1. [遇见你的眉眼 如清风明月](https://www.douyin.com/search/%E9%81%87%E8%A7%81%E4%BD%A0%E7%9A%84%E7%9C%89%E7%9C%BC%20%E5%A6%82%E6%B8%85%E9%A3%8E%E6%98%8E%E6%9C%88)
+1. [粤东多地遭遇大暴雨](https://www.douyin.com/search/%E7%B2%A4%E4%B8%9C%E5%A4%9A%E5%9C%B0%E9%81%AD%E9%81%87%E5%A4%A7%E6%9A%B4%E9%9B%A8)
+1. [福建人防台风意识有多强](https://www.douyin.com/search/%E7%A6%8F%E5%BB%BA%E4%BA%BA%E9%98%B2%E5%8F%B0%E9%A3%8E%E6%84%8F%E8%AF%86%E6%9C%89%E5%A4%9A%E5%BC%BA)
+1. [给巴黎一点中国女侠的震撼](https://www.douyin.com/search/%E7%BB%99%E5%B7%B4%E9%BB%8E%E4%B8%80%E7%82%B9%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BE%A0%E7%9A%84%E9%9C%87%E6%92%BC)
+1. [愿我们都能与孤独和解](https://www.douyin.com/search/%E6%84%BF%E6%88%91%E4%BB%AC%E9%83%BD%E8%83%BD%E4%B8%8E%E5%AD%A4%E7%8B%AC%E5%92%8C%E8%A7%A3)
+1. [什么才是真正的巴黎](https://www.douyin.com/search/%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%B7%B4%E9%BB%8E)
 
 ## 明星榜
 
@@ -76,30 +76,30 @@
 
 ## 音乐榜
 
-1. [心之火（R&B版）（谁的爱不疯）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
+1. [心之火（R&B版）（谁的爱不疯）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
 1. [Bleeding Love（七元版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
 1. [娃娃脸（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIimSCgQoNUePTAZ1Ba7TeADY4KetGYsVFeaaB) - 一口甜
-1. [LoveU2（1.1倍速版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQMeDffLaEmgMwgCOEMAFCI6INzoFPgWdD0rsa) - 陈伟霆
-1. [蜜桃物语](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰&于行
-1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
-1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [LoveU2（1.1倍速版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQMeDffLaEmgMwgCOEMAFCI6INzoFPgWdD0rsa) - 陈伟霆
+1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰&于行
+1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
+1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [快乐恰恰（间奏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMesum3HvWQXJxuMFeVYzf54o2QzH5aEBPOCAn) - MaksJ
-1. [夏天的风（纯音乐） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
-1. [如果的事（神兔小P Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
-1. [时光晃呀晃 (剪辑版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
+1. [夏天的风（纯音乐） （剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
+1. [如果的事（神兔小P Remix）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
+1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [夜空中最亮的星](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IfgGwqqnFeXEMGaS8JBzJAdayAaCeoxqbjCD) - 刘佳兴
 1. [微风与流浪星座](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okQfeAMGaEbRLJILIMJGeKgg1CgIeCNAsmx8IR) - 粉太狼
-1. [若月亮没来 (片段2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
-1. [悠悠夏日长](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUMrdhm6MSeLCU1aI6CXCBFtQzFEGafJYAeDgE) - 詹昊晁 Zhan.H.C
+1. [若月亮没来 (片段2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
+1. [悠悠夏日长](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUMrdhm6MSeLCU1aI6CXCBFtQzFEGafJYAeDgE) - 詹昊晁 Zhan.H.C
 1. [热烈的少年（是热烈）副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owVNI0CLDAUMtSz6TEYvfFBFL4UDFFhLfgK8fa) - Big Cole
 1. [暮色回响](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogmtI1ftCDEkkgJG5NlBfFoiaBQtGMF3ZTdrIO) - 吉星出租
-1. [背包很小要装满快乐（剪辑版5）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqSJIiBjw2pxsBAiQRmkbZGJrlGCMBPpIW90) - 林谦谦
-1. [早晨好](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEn1iBCi6Im33ZOg97tePPMfoRzXBPLBQ1plD3) - 李迩泰
-1. [LOCO MEXICANO](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owxVoxJorA4ILBfsMAjU6t7O1xW9w0tS7EYzh6) - ODK Beats
+1. [背包很小要装满快乐（剪辑版5）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqSJIiBjw2pxsBAiQRmkbZGJrlGCMBPpIW90) - 林谦谦
+1. [早晨好](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEn1iBCi6Im33ZOg97tePPMfoRzXBPLBQ1plD3) - 李迩泰
+1. [LOCO MEXICANO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owxVoxJorA4ILBfsMAjU6t7O1xW9w0tS7EYzh6) - ODK Beats
 1. [飞（Cover ANU）（剪辑版3）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/7fceff03e2694974b0f5a59c8eb131aa) - 郑龍
 1. [云朵变成棉花糖（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
-1. [追寻你（万物复苏版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
-1. [万物生](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYmc57nRMikxBnetIc1y6BCoOZFN5QfURgQDTE) - ss.沧川
+1. [追寻你（万物复苏版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYeAZJsbjIDit9APmBg8u6uDUQnHmoCf3gbo74) - 王天戈/川青
+1. [万物生](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYmc57nRMikxBnetIc1y6BCoOZFN5QfURgQDTE) - ss.沧川
 
 ## 品牌榜
 
