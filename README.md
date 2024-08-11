@@ -11,60 +11,60 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-08-11 21:18:40 +0800`
+`更新时间：2024-08-11 22:17:15 +0800`
 
 ## 抖音热榜
 
 1. [奥运奖牌榜](https://www.douyin.com/search/%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C%E6%A6%9C)
-1. [马龙冠军驾到巴黎首播](https://www.douyin.com/search/%E9%A9%AC%E9%BE%99%E5%86%A0%E5%86%9B%E9%A9%BE%E5%88%B0%E5%B7%B4%E9%BB%8E%E9%A6%96%E6%92%AD)
+1. [美国女篮vs法国女篮](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%B3%95%E5%9B%BD%E5%A5%B3%E7%AF%AE)
 1. [2吨级商载无人机成功首飞](https://www.douyin.com/search/2%E5%90%A8%E7%BA%A7%E5%95%86%E8%BD%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%88%90%E5%8A%9F%E9%A6%96%E9%A3%9E)
-1. [李雯雯下班啦](https://www.douyin.com/search/%E6%9D%8E%E9%9B%AF%E9%9B%AF%E4%B8%8B%E7%8F%AD%E5%95%A6)
 1. [李雯雯拿下中国队第40金](https://www.douyin.com/search/%E6%9D%8E%E9%9B%AF%E9%9B%AF%E6%8B%BF%E4%B8%8B%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%AC%AC40%E9%87%91)
 1. [国乒跟跳水队一起回国](https://www.douyin.com/search/%E5%9B%BD%E4%B9%92%E8%B7%9F%E8%B7%B3%E6%B0%B4%E9%98%9F%E4%B8%80%E8%B5%B7%E5%9B%9E%E5%9B%BD)
-1. [EDG晋级冠军赛八强](https://www.douyin.com/search/EDG%E6%99%8B%E7%BA%A7%E5%86%A0%E5%86%9B%E8%B5%9B%E5%85%AB%E5%BC%BA)
-1. [孙颖莎合照时踮脚](https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E5%90%88%E7%85%A7%E6%97%B6%E8%B8%AE%E8%84%9A)
+1. [全红婵看谢思埸夺冠不淡定了](https://www.douyin.com/search/%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9C%8B%E8%B0%A2%E6%80%9D%E5%9F%B8%E5%A4%BA%E5%86%A0%E4%B8%8D%E6%B7%A1%E5%AE%9A%E4%BA%86)
 1. [奥运闭幕式脚本修改数十次](https://www.douyin.com/search/%E5%A5%A5%E8%BF%90%E9%97%AD%E5%B9%95%E5%BC%8F%E8%84%9A%E6%9C%AC%E4%BF%AE%E6%94%B9%E6%95%B0%E5%8D%81%E6%AC%A1)
 1. [中国队40金27银24铜收官](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F40%E9%87%9127%E9%93%B624%E9%93%9C%E6%94%B6%E5%AE%98)
-1. [全红婵看谢思埸夺冠不淡定了](https://www.douyin.com/search/%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9C%8B%E8%B0%A2%E6%80%9D%E5%9F%B8%E5%A4%BA%E5%86%A0%E4%B8%8D%E6%B7%A1%E5%AE%9A%E4%BA%86)
-1. [樊振东赛后发文：有始有终](https://www.douyin.com/search/%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87%EF%BC%9A%E6%9C%89%E5%A7%8B%E6%9C%89%E7%BB%88)
-1. [美国男篮战胜法国队摘金](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E6%B3%95%E5%9B%BD%E9%98%9F%E6%91%98%E9%87%91)
+1. [意大利女排3:0美国](https://www.douyin.com/search/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A5%B3%E6%8E%923%3A0%E7%BE%8E%E5%9B%BD)
+1. [孙颖莎给自己打9分](https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E7%BB%99%E8%87%AA%E5%B7%B1%E6%89%939%E5%88%86)
+1. [中国健儿下个赛场见](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E4%B8%8B%E4%B8%AA%E8%B5%9B%E5%9C%BA%E8%A7%81)
+1. [一口气学完高一数学](https://www.douyin.com/search/%E4%B8%80%E5%8F%A3%E6%B0%94%E5%AD%A6%E5%AE%8C%E9%AB%98%E4%B8%80%E6%95%B0%E5%AD%A6)
+1. [EDG晋级冠军赛八强](https://www.douyin.com/search/EDG%E6%99%8B%E7%BA%A7%E5%86%A0%E5%86%9B%E8%B5%9B%E5%85%AB%E5%BC%BA)
 1. [单位回应“96年出生的副处”](https://www.douyin.com/search/%E5%8D%95%E4%BD%8D%E5%9B%9E%E5%BA%94%E2%80%9C96%E5%B9%B4%E5%87%BA%E7%94%9F%E7%9A%84%E5%89%AF%E5%A4%84%E2%80%9D)
 1. [秦霄贤喊话李雯雯找他拿票](https://www.douyin.com/search/%E7%A7%A6%E9%9C%84%E8%B4%A4%E5%96%8A%E8%AF%9D%E6%9D%8E%E9%9B%AF%E9%9B%AF%E6%89%BE%E4%BB%96%E6%8B%BF%E7%A5%A8)
 1. [李发彬：能担任旗手是无上的荣耀](https://www.douyin.com/search/%E6%9D%8E%E5%8F%91%E5%BD%AC%EF%BC%9A%E8%83%BD%E6%8B%85%E4%BB%BB%E6%97%97%E6%89%8B%E6%98%AF%E6%97%A0%E4%B8%8A%E7%9A%84%E8%8D%A3%E8%80%80)
 1. [仙逆剧场版预告](https://www.douyin.com/search/%E4%BB%99%E9%80%86%E5%89%A7%E5%9C%BA%E7%89%88%E9%A2%84%E5%91%8A)
 1. [家昱户筱吵架到和好只用一集](https://www.douyin.com/search/%E5%AE%B6%E6%98%B1%E6%88%B7%E7%AD%B1%E5%90%B5%E6%9E%B6%E5%88%B0%E5%92%8C%E5%A5%BD%E5%8F%AA%E7%94%A8%E4%B8%80%E9%9B%86)
-1. [国乒首次包揽5枚奥运金牌](https://www.douyin.com/search/%E5%9B%BD%E4%B9%92%E9%A6%96%E6%AC%A1%E5%8C%85%E6%8F%BD5%E6%9E%9A%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C)
-1. [孙颖莎给自己打9分](https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E7%BB%99%E8%87%AA%E5%B7%B1%E6%89%939%E5%88%86)
-1. [李发彬欧紫霞担任闭幕式旗手](https://www.douyin.com/search/%E6%9D%8E%E5%8F%91%E5%BD%AC%E6%AC%A7%E7%B4%AB%E9%9C%9E%E6%8B%85%E4%BB%BB%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B)
-1. [美国女篮vs法国女篮](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%B3%95%E5%9B%BD%E5%A5%B3%E7%AF%AE)
+1. [我把中国队夺冠瞬间做成了动画](https://www.douyin.com/search/%E6%88%91%E6%8A%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%E7%9E%AC%E9%97%B4%E5%81%9A%E6%88%90%E4%BA%86%E5%8A%A8%E7%94%BB)
+1. [Uzi马拉松完赛](https://www.douyin.com/search/Uzi%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%AE%8C%E8%B5%9B)
+1. [第九届世界渲染大赛](https://www.douyin.com/search/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E4%B8%96%E7%95%8C%E6%B8%B2%E6%9F%93%E5%A4%A7%E8%B5%9B)
 1. [橘子汽水妆](https://www.douyin.com/search/%E6%A9%98%E5%AD%90%E6%B1%BD%E6%B0%B4%E5%A6%86)
-1. [中国健儿下个赛场见](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E4%B8%8B%E4%B8%AA%E8%B5%9B%E5%9C%BA%E8%A7%81)
-1. [巩立姣要开始新征程了](https://www.douyin.com/search/%E5%B7%A9%E7%AB%8B%E5%A7%A3%E8%A6%81%E5%BC%80%E5%A7%8B%E6%96%B0%E5%BE%81%E7%A8%8B%E4%BA%86)
-1. [塞尔维亚爆发大规模抗议活动](https://www.douyin.com/search/%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8)
-1. [王楚钦连发两条抖音总结奥运之行](https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%9E%E5%8F%91%E4%B8%A4%E6%9D%A1%E6%8A%96%E9%9F%B3%E6%80%BB%E7%BB%93%E5%A5%A5%E8%BF%90%E4%B9%8B%E8%A1%8C)
-1. [人人都是世界名画](https://www.douyin.com/search/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%B8%96%E7%95%8C%E5%90%8D%E7%94%BB)
+1. [孙颖莎颁奖仪式整活](https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A2%81%E5%A5%96%E4%BB%AA%E5%BC%8F%E6%95%B4%E6%B4%BB)
 1. [见面吧趁现在](https://www.douyin.com/search/%E8%A7%81%E9%9D%A2%E5%90%A7%E8%B6%81%E7%8E%B0%E5%9C%A8)
-1. [一口气学完高一数学](https://www.douyin.com/search/%E4%B8%80%E5%8F%A3%E6%B0%94%E5%AD%A6%E5%AE%8C%E9%AB%98%E4%B8%80%E6%95%B0%E5%AD%A6)
-1. [秋水共长天一色有画面了](https://www.douyin.com/search/%E7%A7%8B%E6%B0%B4%E5%85%B1%E9%95%BF%E5%A4%A9%E4%B8%80%E8%89%B2%E6%9C%89%E7%94%BB%E9%9D%A2%E4%BA%86)
+1. [人人都是世界名画](https://www.douyin.com/search/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%B8%96%E7%95%8C%E5%90%8D%E7%94%BB)
+1. [王楚钦连发两条抖音总结奥运之行](https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%9E%E5%8F%91%E4%B8%A4%E6%9D%A1%E6%8A%96%E9%9F%B3%E6%80%BB%E7%BB%93%E5%A5%A5%E8%BF%90%E4%B9%8B%E8%A1%8C)
+1. [罗马尼亚队申诉成功](https://www.douyin.com/search/%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E9%98%9F%E7%94%B3%E8%AF%89%E6%88%90%E5%8A%9F)
+1. [在王者做笨蛋宝宝](https://www.douyin.com/search/%E5%9C%A8%E7%8E%8B%E8%80%85%E5%81%9A%E7%AC%A8%E8%9B%8B%E5%AE%9D%E5%AE%9D)
 1. [熄灯后的男寝是什么样子](https://www.douyin.com/search/%E7%86%84%E7%81%AF%E5%90%8E%E7%9A%84%E7%94%B7%E5%AF%9D%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
-1. [舞蹈的门终究是进不去](https://www.douyin.com/search/%E8%88%9E%E8%B9%88%E7%9A%84%E9%97%A8%E7%BB%88%E7%A9%B6%E6%98%AF%E8%BF%9B%E4%B8%8D%E5%8E%BB)
-1. [梁静茹在七夕唱分手快乐](https://www.douyin.com/search/%E6%A2%81%E9%9D%99%E8%8C%B9%E5%9C%A8%E4%B8%83%E5%A4%95%E5%94%B1%E5%88%86%E6%89%8B%E5%BF%AB%E4%B9%90)
+1. [秋水共长天一色有画面了](https://www.douyin.com/search/%E7%A7%8B%E6%B0%B4%E5%85%B1%E9%95%BF%E5%A4%A9%E4%B8%80%E8%89%B2%E6%9C%89%E7%94%BB%E9%9D%A2%E4%BA%86)
+1. [李发彬欧紫霞担任闭幕式旗手](https://www.douyin.com/search/%E6%9D%8E%E5%8F%91%E5%BD%AC%E6%AC%A7%E7%B4%AB%E9%9C%9E%E6%8B%85%E4%BB%BB%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B)
+1. [樊振东赛后发文：有始有终](https://www.douyin.com/search/%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87%EF%BC%9A%E6%9C%89%E5%A7%8B%E6%9C%89%E7%BB%88)
 1. [AG十二冠王](https://www.douyin.com/search/AG%E5%8D%81%E4%BA%8C%E5%86%A0%E7%8E%8B)
-1. [别怕 我会永远在你身后](https://www.douyin.com/search/%E5%88%AB%E6%80%95%20%E6%88%91%E4%BC%9A%E6%B0%B8%E8%BF%9C%E5%9C%A8%E4%BD%A0%E8%BA%AB%E5%90%8E)
+1. [梁静茹在七夕唱分手快乐](https://www.douyin.com/search/%E6%A2%81%E9%9D%99%E8%8C%B9%E5%9C%A8%E4%B8%83%E5%A4%95%E5%94%B1%E5%88%86%E6%89%8B%E5%BF%AB%E4%B9%90)
+1. [孙颖莎合照时踮脚](https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E5%90%88%E7%85%A7%E6%97%B6%E8%B8%AE%E8%84%9A)
 1. [短短几分钟却是无数人的缩影](https://www.douyin.com/search/%E7%9F%AD%E7%9F%AD%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B4%E6%98%AF%E6%97%A0%E6%95%B0%E4%BA%BA%E7%9A%84%E7%BC%A9%E5%BD%B1)
 1. [像个白痴 见到你就目光呆滞](https://www.douyin.com/search/%E5%83%8F%E4%B8%AA%E7%99%BD%E7%97%B4%20%E8%A7%81%E5%88%B0%E4%BD%A0%E5%B0%B1%E7%9B%AE%E5%85%89%E5%91%86%E6%BB%9E)
+1. [你的社交平台一直不更新了](https://www.douyin.com/search/%E4%BD%A0%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%9B%B4%E6%96%B0%E4%BA%86)
+1. [舞蹈的门终究是进不去](https://www.douyin.com/search/%E8%88%9E%E8%B9%88%E7%9A%84%E9%97%A8%E7%BB%88%E7%A9%B6%E6%98%AF%E8%BF%9B%E4%B8%8D%E5%8E%BB)
+1. [GAI重庆演唱会](https://www.douyin.com/search/GAI%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A)
+1. [美国女足1:0巴西夺金](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%B6%B31%3A0%E5%B7%B4%E8%A5%BF%E5%A4%BA%E9%87%91)
 1. [我们是寨子的明星](https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E6%98%AF%E5%AF%A8%E5%AD%90%E7%9A%84%E6%98%8E%E6%98%9F)
 1. [这个特效让我人形毕露](https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E7%89%B9%E6%95%88%E8%AE%A9%E6%88%91%E4%BA%BA%E5%BD%A2%E6%AF%95%E9%9C%B2)
-1. [美国女足1:0巴西夺金](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%B6%B31%3A0%E5%B7%B4%E8%A5%BF%E5%A4%BA%E9%87%91)
-1. [我把中国队夺冠瞬间做成了动画](https://www.douyin.com/search/%E6%88%91%E6%8A%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%E7%9E%AC%E9%97%B4%E5%81%9A%E6%88%90%E4%BA%86%E5%8A%A8%E7%94%BB)
+1. [刘德华唱了如果你是我的传说](https://www.douyin.com/search/%E5%88%98%E5%BE%B7%E5%8D%8E%E5%94%B1%E4%BA%86%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E4%BC%A0%E8%AF%B4)
 1. [此刻一只小猫轻轻碎掉了](https://www.douyin.com/search/%E6%AD%A4%E5%88%BB%E4%B8%80%E5%8F%AA%E5%B0%8F%E7%8C%AB%E8%BD%BB%E8%BD%BB%E7%A2%8E%E6%8E%89%E4%BA%86)
-1. [GAI重庆演唱会](https://www.douyin.com/search/GAI%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A)
+1. [别怕 我会永远在你身后](https://www.douyin.com/search/%E5%88%AB%E6%80%95%20%E6%88%91%E4%BC%9A%E6%B0%B8%E8%BF%9C%E5%9C%A8%E4%BD%A0%E8%BA%AB%E5%90%8E)
 1. [汪东城水灵灵地出现在漫展](https://www.douyin.com/search/%E6%B1%AA%E4%B8%9C%E5%9F%8E%E6%B0%B4%E7%81%B5%E7%81%B5%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%BC%AB%E5%B1%95)
+1. [景区项目故障1死60伤 游客发声](https://www.douyin.com/search/%E6%99%AF%E5%8C%BA%E9%A1%B9%E7%9B%AE%E6%95%85%E9%9A%9C1%E6%AD%BB60%E4%BC%A4%20%E6%B8%B8%E5%AE%A2%E5%8F%91%E5%A3%B0)
 1. [生活是个动词](https://www.douyin.com/search/%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%AA%E5%8A%A8%E8%AF%8D)
-1. [第九届世界渲染大赛](https://www.douyin.com/search/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E4%B8%96%E7%95%8C%E6%B8%B2%E6%9F%93%E5%A4%A7%E8%B5%9B)
-1. [谷爱凌巴黎奥运马拉松完赛](https://www.douyin.com/search/%E8%B0%B7%E7%88%B1%E5%87%8C%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%AE%8C%E8%B5%9B)
-1. [在王者做笨蛋宝宝](https://www.douyin.com/search/%E5%9C%A8%E7%8E%8B%E8%80%85%E5%81%9A%E7%AC%A8%E8%9B%8B%E5%AE%9D%E5%AE%9D)
-1. [你的社交平台一直不更新了](https://www.douyin.com/search/%E4%BD%A0%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%9B%B4%E6%96%B0%E4%BA%86)
+1. [詹姆斯当选奥运会男篮MVP](https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BD%93%E9%80%89%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%94%B7%E7%AF%AEMVP)
 
 ## 明星榜
 
@@ -76,25 +76,25 @@
 
 ## 音乐榜
 
-1. [TOOOOO BUSY-副歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
+1. [TOOOOO BUSY-副歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0fmjGZetNDjSM5EimFs2QlzBg30YgByJMRQrC) - 王霏霏
 1. [keshi Chill R&B Guitar Type Beat Ripple](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okQIfmitAB3HpgZQo0YCEFEACcDhQngn0fkFIC) - 4Hunnid
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
-1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
+1. [Moshi Moshi (feat. 百足) [Sped up]](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocCPFQcXJLeroaIdQLIGAoeeYM3OAUYGDguHXz) - Nozomi Kitay & GAL D
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [Bleeding Love（七元版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgC9eZFHQ1MfSRnrfkzFp8AayDWqAQMABBgUs) - 七元
-1. [执子之手 (剪辑2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
-1. [快乐恰恰（间奏）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMesum3HvWQXJxuMFeVYzf54o2QzH5aEBPOCAn) - MaksJ
+1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
+1. [快乐恰恰（间奏）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMesum3HvWQXJxuMFeVYzf54o2QzH5aEBPOCAn) - MaksJ
 1. [夏天的风（纯音乐） （剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUzLjBZZFQAoNRmGokEeD5zfQCObp6UeFAnTa6) - gusing CC
 1. [夜空中最亮的星](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IfgGwqqnFeXEMGaS8JBzJAdayAaCeoxqbjCD) - 刘佳兴
 1. [All My People](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/c7773e6b7c3f4bd9b26cd85b0cfa4eff) - Alexandra Stan
 1. [LoveU2（1.1倍速版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQMeDffLaEmgMwgCOEMAFCI6INzoFPgWdD0rsa) - 陈伟霆
 1. [（en)我会好好的-主歌](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUrYpIdrvCbA8m8yAZjbMWjUkL6tiinWMkBTs) - en
 1. [如果的事（神兔小P Remix）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okHtAffz3g4ZB0BMQn9iC9BC6AciI3xCmgQTqt) - 神兔小P
-1. [心之火（R&B版）（谁的爱不疯）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
-1. [LOCO MEXICANO](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owxVoxJorA4ILBfsMAjU6t7O1xW9w0tS7EYzh6) - ODK Beats
-1. [万疆（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooG7oVgFlDTelKCjCsTTobQvbdtj1BBQXnfZd8) - 李玉刚
-1. [云朵变成棉花糖（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
-1. [若月亮没来 (片段2)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
+1. [心之火（R&B版）（谁的爱不疯）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okemkEDaIBBE3OosftCgMxlFkLQZRw37t36ZQv) - Zxxy
+1. [LOCO MEXICANO](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owxVoxJorA4ILBfsMAjU6t7O1xW9w0tS7EYzh6) - ODK Beats
+1. [万疆（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooG7oVgFlDTelKCjCsTTobQvbdtj1BBQXnfZd8) - 李玉刚
+1. [云朵变成棉花糖（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8LC84GQLALFfXeyJmh8KE61byVQYMMeAZLfEI) - 泡芙芙Scarlett
+1. [若月亮没来 (片段2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocQavLLjkCOeDxGyYeIMGgNAIwJ0QXE1Ve3Fzv) - 王宇宙Leto/乔浚丞
 1. [娃娃脸（剪辑版1）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIimSCgQoNUePTAZ1Ba7TeADY4KetGYsVFeaaB) - 一口甜
 1. [背包很小要装满快乐（剪辑版5）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqSJIiBjw2pxsBAiQRmkbZGJrlGCMBPpIW90) - 林谦谦
 1. [可能（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/cde1731888894259b333569393c2fb51) - 程响
