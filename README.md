@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-06 12:24:17 +0800`
+`更新时间：2024-12-06 13:19:59 +0800`
 
 ## 抖音热榜
 
@@ -25,10 +25,10 @@
 1. [公安网安：祁天道低俗摆拍被拘](https://www.douyin.com/search/%E5%85%AC%E5%AE%89%E7%BD%91%E5%AE%89%EF%BC%9A%E7%A5%81%E5%A4%A9%E9%81%93%E4%BD%8E%E4%BF%97%E6%91%86%E6%8B%8D%E8%A2%AB%E6%8B%98)
 1. [哈尔滨你太想进步了](https://www.douyin.com/search/%E5%93%88%E5%B0%94%E6%BB%A8%E4%BD%A0%E5%A4%AA%E6%83%B3%E8%BF%9B%E6%AD%A5%E4%BA%86)
 1. [李在明呼吁逮捕尹锡悦](https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%91%BC%E5%90%81%E9%80%AE%E6%8D%95%E5%B0%B9%E9%94%A1%E6%82%A6)
-1. [孙颖莎王楚钦混双首战开门红](https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%B7%B7%E5%8F%8C%E9%A6%96%E6%88%98%E5%BC%80%E9%97%A8%E7%BA%A2)
+1. [金铲铲修仙玩法](https://www.douyin.com/search/%E9%87%91%E9%93%B2%E9%93%B2%E4%BF%AE%E4%BB%99%E7%8E%A9%E6%B3%95)
 1. [OpenAI o1正式版发布](https://www.douyin.com/search/OpenAI%20o1%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83)
-1. [浓眉：我们不能分裂必须团结一致](https://www.douyin.com/search/%E6%B5%93%E7%9C%89%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E8%83%BD%E5%88%86%E8%A3%82%E5%BF%85%E9%A1%BB%E5%9B%A2%E7%BB%93%E4%B8%80%E8%87%B4)
 1. [江寻千向网友征集冰雕投稿](https://www.douyin.com/search/%E6%B1%9F%E5%AF%BB%E5%8D%83%E5%90%91%E7%BD%91%E5%8F%8B%E5%BE%81%E9%9B%86%E5%86%B0%E9%9B%95%E6%8A%95%E7%A8%BF)
+1. [曹岩称愿资助独腿打篮球男孩](https://www.douyin.com/search/%E6%9B%B9%E5%B2%A9%E7%A7%B0%E6%84%BF%E8%B5%84%E5%8A%A9%E7%8B%AC%E8%85%BF%E6%89%93%E7%AF%AE%E7%90%83%E7%94%B7%E5%AD%A9)
 1. [哈马斯官员：加沙停火谈判重启](https://www.douyin.com/search/%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%98%E5%91%98%EF%BC%9A%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E8%B0%88%E5%88%A4%E9%87%8D%E5%90%AF)
 1. [鹿晗黄子韬直播连麦](https://www.douyin.com/search/%E9%B9%BF%E6%99%97%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9B%B4%E6%92%AD%E8%BF%9E%E9%BA%A6)
 1. [和平精英青海摇请求出战](https://www.douyin.com/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E9%9D%92%E6%B5%B7%E6%91%87%E8%AF%B7%E6%B1%82%E5%87%BA%E6%88%98)
@@ -38,32 +38,32 @@
 1. [周杰伦瘦了](https://www.douyin.com/search/%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%98%A6%E4%BA%86)
 1. [Gemini当爸爸了](https://www.douyin.com/search/Gemini%E5%BD%93%E7%88%B8%E7%88%B8%E4%BA%86)
 1. [白鹿看了都要打个问号](https://www.douyin.com/search/%E7%99%BD%E9%B9%BF%E7%9C%8B%E4%BA%86%E9%83%BD%E8%A6%81%E6%89%93%E4%B8%AA%E9%97%AE%E5%8F%B7)
+1. [美国加州近海7.0级地震](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E8%BF%91%E6%B5%B77.0%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [杨子首次选择离婚](https://www.douyin.com/search/%E6%9D%A8%E5%AD%90%E9%A6%96%E6%AC%A1%E9%80%89%E6%8B%A9%E7%A6%BB%E5%A9%9A)
-1. [花少导演回应网络批评](https://www.douyin.com/search/%E8%8A%B1%E5%B0%91%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BB%9C%E6%89%B9%E8%AF%84)
+1. [B太帮癌症大哥建流浪动物救助站](https://www.douyin.com/search/B%E5%A4%AA%E5%B8%AE%E7%99%8C%E7%97%87%E5%A4%A7%E5%93%A5%E5%BB%BA%E6%B5%81%E6%B5%AA%E5%8A%A8%E7%89%A9%E6%95%91%E5%8A%A9%E7%AB%99)
+1. [琼瑶式哭戏](https://www.douyin.com/search/%E7%90%BC%E7%91%B6%E5%BC%8F%E5%93%AD%E6%88%8F)
+1. [春节为什么如此重要](https://www.douyin.com/search/%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E9%87%8D%E8%A6%81)
 1. [哈尔滨冷得把水晶球都冻碎了](https://www.douyin.com/search/%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B7%E5%BE%97%E6%8A%8A%E6%B0%B4%E6%99%B6%E7%90%83%E9%83%BD%E5%86%BB%E7%A2%8E%E4%BA%86)
-1. [心情不好换个发型](https://www.douyin.com/search/%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD%E6%8D%A2%E4%B8%AA%E5%8F%91%E5%9E%8B)
+1. [孙颖莎王楚钦混双首战开门红](https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%B7%B7%E5%8F%8C%E9%A6%96%E6%88%98%E5%BC%80%E9%97%A8%E7%BA%A2)
+1. [言承旭带很高兴全员跳初雪](https://www.douyin.com/search/%E8%A8%80%E6%89%BF%E6%97%AD%E5%B8%A6%E5%BE%88%E9%AB%98%E5%85%B4%E5%85%A8%E5%91%98%E8%B7%B3%E5%88%9D%E9%9B%AA)
 1. [谭松韵郑业成搂腰抱红盖头杀](https://www.douyin.com/search/%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%83%91%E4%B8%9A%E6%88%90%E6%90%82%E8%85%B0%E6%8A%B1%E7%BA%A2%E7%9B%96%E5%A4%B4%E6%9D%80)
 1. [王睿卓茶花开了给网友唱破防](https://www.douyin.com/search/%E7%8E%8B%E7%9D%BF%E5%8D%93%E8%8C%B6%E8%8A%B1%E5%BC%80%E4%BA%86%E7%BB%99%E7%BD%91%E5%8F%8B%E5%94%B1%E7%A0%B4%E9%98%B2)
-1. [琼瑶式哭戏](https://www.douyin.com/search/%E7%90%BC%E7%91%B6%E5%BC%8F%E5%93%AD%E6%88%8F)
-1. [言承旭带很高兴全员跳初雪](https://www.douyin.com/search/%E8%A8%80%E6%89%BF%E6%97%AD%E5%B8%A6%E5%BE%88%E9%AB%98%E5%85%B4%E5%85%A8%E5%91%98%E8%B7%B3%E5%88%9D%E9%9B%AA)
-1. [在抖音学完十七小时的犯罪心理学](https://www.douyin.com/search/%E5%9C%A8%E6%8A%96%E9%9F%B3%E5%AD%A6%E5%AE%8C%E5%8D%81%E4%B8%83%E5%B0%8F%E6%97%B6%E7%9A%84%E7%8A%AF%E7%BD%AA%E5%BF%83%E7%90%86%E5%AD%A6)
-1. [会开花的圣诞树你玩过吗](https://www.douyin.com/search/%E4%BC%9A%E5%BC%80%E8%8A%B1%E7%9A%84%E5%9C%A3%E8%AF%9E%E6%A0%91%E4%BD%A0%E7%8E%A9%E8%BF%87%E5%90%97)
 1. [大雪文案](https://www.douyin.com/search/%E5%A4%A7%E9%9B%AA%E6%96%87%E6%A1%88)
-1. [麦琳骑马了](https://www.douyin.com/search/%E9%BA%A6%E7%90%B3%E9%AA%91%E9%A9%AC%E4%BA%86)
+1. [在抖音学完十七小时的犯罪心理学](https://www.douyin.com/search/%E5%9C%A8%E6%8A%96%E9%9F%B3%E5%AD%A6%E5%AE%8C%E5%8D%81%E4%B8%83%E5%B0%8F%E6%97%B6%E7%9A%84%E7%8A%AF%E7%BD%AA%E5%BF%83%E7%90%86%E5%AD%A6)
+1. [人类对秀发开发不足百分之一](https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E5%AF%B9%E7%A7%80%E5%8F%91%E5%BC%80%E5%8F%91%E4%B8%8D%E8%B6%B3%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80)
+1. [又到了洗澡需要勇气的季节](https://www.douyin.com/search/%E5%8F%88%E5%88%B0%E4%BA%86%E6%B4%97%E6%BE%A1%E9%9C%80%E8%A6%81%E5%8B%87%E6%B0%94%E7%9A%84%E5%AD%A3%E8%8A%82)
+1. [花少导演回应网络批评](https://www.douyin.com/search/%E8%8A%B1%E5%B0%91%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BB%9C%E6%89%B9%E8%AF%84)
+1. [歌迷看邓紫棋演唱会一半去生娃](https://www.douyin.com/search/%E6%AD%8C%E8%BF%B7%E7%9C%8B%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%80%E5%8D%8A%E5%8E%BB%E7%94%9F%E5%A8%83)
+1. [会开花的圣诞树你玩过吗](https://www.douyin.com/search/%E4%BC%9A%E5%BC%80%E8%8A%B1%E7%9A%84%E5%9C%A3%E8%AF%9E%E6%A0%91%E4%BD%A0%E7%8E%A9%E8%BF%87%E5%90%97)
 1. [帮我配一个BGM](https://www.douyin.com/search/%E5%B8%AE%E6%88%91%E9%85%8D%E4%B8%80%E4%B8%AABGM)
 1. [猎罪图鉴2定档1210](https://www.douyin.com/search/%E7%8C%8E%E7%BD%AA%E5%9B%BE%E9%89%B42%E5%AE%9A%E6%A1%A31210)
-1. [又到了洗澡需要勇气的季节](https://www.douyin.com/search/%E5%8F%88%E5%88%B0%E4%BA%86%E6%B4%97%E6%BE%A1%E9%9C%80%E8%A6%81%E5%8B%87%E6%B0%94%E7%9A%84%E5%AD%A3%E8%8A%82)
-1. [万物皆可AI羊毛卷](https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AFAI%E7%BE%8A%E6%AF%9B%E5%8D%B7)
-1. [分享一首你最喜欢的粤语歌](https://www.douyin.com/search/%E5%88%86%E4%BA%AB%E4%B8%80%E9%A6%96%E4%BD%A0%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E7%B2%A4%E8%AF%AD%E6%AD%8C)
-1. [歌迷看邓紫棋演唱会一半去生娃](https://www.douyin.com/search/%E6%AD%8C%E8%BF%B7%E7%9C%8B%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%80%E5%8D%8A%E5%8E%BB%E7%94%9F%E5%A8%83)
-1. [金铲铲修仙玩法](https://www.douyin.com/search/%E9%87%91%E9%93%B2%E9%93%B2%E4%BF%AE%E4%BB%99%E7%8E%A9%E6%B3%95)
-1. [曹岩称愿资助独腿打篮球男孩](https://www.douyin.com/search/%E6%9B%B9%E5%B2%A9%E7%A7%B0%E6%84%BF%E8%B5%84%E5%8A%A9%E7%8B%AC%E8%85%BF%E6%89%93%E7%AF%AE%E7%90%83%E7%94%B7%E5%AD%A9)
-1. [美国加州近海7.0级地震](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E8%BF%91%E6%B5%B77.0%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [人类对秀发开发不足百分之一](https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E5%AF%B9%E7%A7%80%E5%8F%91%E5%BC%80%E5%8F%91%E4%B8%8D%E8%B6%B3%E7%99%BE%E5%88%86%E4%B9%8B%E4%B8%80)
-1. [立刻回到你的世界](https://www.douyin.com/search/%E7%AB%8B%E5%88%BB%E5%9B%9E%E5%88%B0%E4%BD%A0%E7%9A%84%E4%B8%96%E7%95%8C)
-1. [B太帮癌症大哥建流浪动物救助站](https://www.douyin.com/search/B%E5%A4%AA%E5%B8%AE%E7%99%8C%E7%97%87%E5%A4%A7%E5%93%A5%E5%BB%BA%E6%B5%81%E6%B5%AA%E5%8A%A8%E7%89%A9%E6%95%91%E5%8A%A9%E7%AB%99)
-1. [春节为什么如此重要](https://www.douyin.com/search/%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E9%87%8D%E8%A6%81)
+1. [心情不好换个发型](https://www.douyin.com/search/%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD%E6%8D%A2%E4%B8%AA%E5%8F%91%E5%9E%8B)
+1. [麦琳骑马了](https://www.douyin.com/search/%E9%BA%A6%E7%90%B3%E9%AA%91%E9%A9%AC%E4%BA%86)
 1. [自己剪头发易如反掌](https://www.douyin.com/search/%E8%87%AA%E5%B7%B1%E5%89%AA%E5%A4%B4%E5%8F%91%E6%98%93%E5%A6%82%E5%8F%8D%E6%8E%8C)
+1. [分享一首你最喜欢的粤语歌](https://www.douyin.com/search/%E5%88%86%E4%BA%AB%E4%B8%80%E9%A6%96%E4%BD%A0%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E7%B2%A4%E8%AF%AD%E6%AD%8C)
+1. [9986带不求人上巅峰榜一](https://www.douyin.com/search/9986%E5%B8%A6%E4%B8%8D%E6%B1%82%E4%BA%BA%E4%B8%8A%E5%B7%85%E5%B3%B0%E6%A6%9C%E4%B8%80)
+1. [跟着赵露思学冬日穿搭](https://www.douyin.com/search/%E8%B7%9F%E7%9D%80%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%AD%A6%E5%86%AC%E6%97%A5%E7%A9%BF%E6%90%AD)
+1. [立刻回到你的世界](https://www.douyin.com/search/%E7%AB%8B%E5%88%BB%E5%9B%9E%E5%88%B0%E4%BD%A0%E7%9A%84%E4%B8%96%E7%95%8C)
 
 ## 明星榜
 
@@ -81,24 +81,24 @@
 1. [我最喜欢冷天气（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogd10efzCApmGsmwZRmIKrEMfCZLg7MycZu3ew) - DeeZoo
 1. [触摸不到的你](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUBR0G6KDYpIwoshClFdQfZDNBfTnrBQE7gXtN) - 念先生
 1. [可可爱爱](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/0deb1e75aea643b9927ba26aaafa29dd) - 西瓜milk
-1. [Dream Love（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
+1. [Dream Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUn3DKyIgBFIsCFZmAMM8qSJyMtlgLfoPqyDEe) - DLSS
 1. [蜜桃物语](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIhOSCZtIACtYU4XQkngiW9kCBfVD1Fz9IYeqL) - 仁辰 & 于行
 1. [才二十三](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okABdOmMEBYDDBvkgYQ5JfEqFtCZvQxf4aRjDI) - 方大同
-1. [We Never](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYLBiAAjcW4piyuLIQDxifdGmlRbzMBd2gbsQy) - SugarPro
+1. [We Never](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYLBiAAjcW4piyuLIQDxifdGmlRbzMBd2gbsQy) - SugarPro
 1. [执子之手 (剪辑2)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUoZLQjCc31XzqsBnBQUNgeKtYPBcgbFDwtfcu) - 宝石Gem\哩哩
 1. [白鸽乌鸦相爱的戏码](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMVVEf6eDAOmFtNtCsEqKpIorBDM8Nkg6TZRqC) - 皮卡潘
 1. [Just a Picture（主歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oc0usFBZCDnAGbtQig7oCaDsQfCYjcAEfWYQkF) - Beijing Dream Land
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
-1. [APT.](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooHxBnfDQIxBZontIlGfpTy5PBxCgEccFO1OMg) - ROSÉ & Bruno Mars
+1. [APT.](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooHxBnfDQIxBZontIlGfpTy5PBxCgEccFO1OMg) - ROSÉ & Bruno Mars
 1. [Hours（时光）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oES9g0DgeYmDFDVCLNfBZZsnLvGF4utxCEAm1Q) - DLSS
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Lifestyle（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owfqGgjwG3V5lCLaAIezFMeg3LtuKNBaZKgzPV) - HMHK
 1. [伤心剖半（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oE3a4kLafIGYPYIFXlEAefIrO0MvzyEDgbuTmC) - 邓典
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
 1. [时光晃呀晃 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ACeQem3gwI1x3GIYGAfKG0LJebKFRJDwRwyW) - 指尖笑/刘洲成
 1. [Moonlight Flowing](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oopZsCtRnQgOhEYmv9FfBBgwmeaQmWQQZED9tN) - VZEUS
-1. [想你（我和你的关系）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
-1. [Yasashi](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
+1. [想你（我和你的关系）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8QxhcOBDYYX0zqKCjFVQXZ3RBffnRBQEogitG) - 董唧唧/何村猪
+1. [Yasashi](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEIqAlutRBGQZgZf2VMCuFEBmaD2bgJG6fCQaQ) - CXSPER
 1. [得不到爱是我活该（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os0cIhiBc3fAa9kPjzM5WTrMggiK3sBnZDAwpQ) - 阿發/吴百萬
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
 
