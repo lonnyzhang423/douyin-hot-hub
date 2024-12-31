@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-31 21:23:13 +0800`
+`更新时间：2024-12-31 22:17:21 +0800`
 
 ## 抖音热榜
 
@@ -20,49 +20,49 @@
 1. [这一年习近平步履不停](https://www.douyin.com/search/%E8%BF%99%E4%B8%80%E5%B9%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%AD%A5%E5%B1%A5%E4%B8%8D%E5%81%9C)
 1. [我们从来都是在风雨洗礼中成长](https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E4%BB%8E%E6%9D%A5%E9%83%BD%E6%98%AF%E5%9C%A8%E9%A3%8E%E9%9B%A8%E6%B4%97%E7%A4%BC%E4%B8%AD%E6%88%90%E9%95%BF)
 1. [2024最后一天](https://www.douyin.com/search/2024%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
-1. [跨年文案](https://www.douyin.com/search/%E8%B7%A8%E5%B9%B4%E6%96%87%E6%A1%88)
-1. [2025北京卫视跨年晚会](https://www.douyin.com/search/2025%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
+1. [跨年烟花又又又卷起来了](https://www.douyin.com/search/%E8%B7%A8%E5%B9%B4%E7%83%9F%E8%8A%B1%E5%8F%88%E5%8F%88%E5%8F%88%E5%8D%B7%E8%B5%B7%E6%9D%A5%E4%BA%86)
+1. [别人的跨年vs你的跨年](https://www.douyin.com/search/%E5%88%AB%E4%BA%BA%E7%9A%84%E8%B7%A8%E5%B9%B4vs%E4%BD%A0%E7%9A%84%E8%B7%A8%E5%B9%B4)
 1. [光荣属于每一个挺膺担当的奋斗者](https://www.douyin.com/search/%E5%85%89%E8%8D%A3%E5%B1%9E%E4%BA%8E%E6%AF%8F%E4%B8%80%E4%B8%AA%E6%8C%BA%E8%86%BA%E6%8B%85%E5%BD%93%E7%9A%84%E5%A5%8B%E6%96%97%E8%80%85)
 1. [献给2024年的告别短片](https://www.douyin.com/search/%E7%8C%AE%E7%BB%992024%E5%B9%B4%E7%9A%84%E5%91%8A%E5%88%AB%E7%9F%AD%E7%89%87)
 1. [江苏卫视跨年晚会](https://www.douyin.com/search/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
-1. [湖南卫视跨年晚会](https://www.douyin.com/search/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
+1. [王楚钦3:1樊振东](https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A63%3A1%E6%A8%8A%E6%8C%AF%E4%B8%9C)
+1. [2025北京卫视跨年晚会](https://www.douyin.com/search/2025%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [与辉同行跨年彩排路透](https://www.douyin.com/search/%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E8%B7%A8%E5%B9%B4%E5%BD%A9%E6%8E%92%E8%B7%AF%E9%80%8F)
 1. [乒协回应马龙樊振东陈梦退出世排](https://www.douyin.com/search/%E4%B9%92%E5%8D%8F%E5%9B%9E%E5%BA%94%E9%A9%AC%E9%BE%99%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%99%88%E6%A2%A6%E9%80%80%E5%87%BA%E4%B8%96%E6%8E%92)
 1. [雷军首次跨年直播](https://www.douyin.com/search/%E9%9B%B7%E5%86%9B%E9%A6%96%E6%AC%A1%E8%B7%A8%E5%B9%B4%E7%9B%B4%E6%92%AD)
 1. [2025东方卫视跨年晚会](https://www.douyin.com/search/2025%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
-1. [林诗栋3:1陈垣宇](https://www.douyin.com/search/%E6%9E%97%E8%AF%97%E6%A0%8B3%3A1%E9%99%88%E5%9E%A3%E5%AE%87)
+1. [邓紫棋惠州跨年演唱会](https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E6%83%A0%E5%B7%9E%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A)
+1. [姐姐妹妹APT嗨翻全场](https://www.douyin.com/search/%E5%A7%90%E5%A7%90%E5%A6%B9%E5%A6%B9APT%E5%97%A8%E7%BF%BB%E5%85%A8%E5%9C%BA)
+1. [湖南卫视跨年晚会](https://www.douyin.com/search/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [罗振宇跨年演讲十年之约](https://www.douyin.com/search/%E7%BD%97%E6%8C%AF%E5%AE%87%E8%B7%A8%E5%B9%B4%E6%BC%94%E8%AE%B2%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6)
-1. [光遇跨年演唱会上线](https://www.douyin.com/search/%E5%85%89%E9%81%87%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%BA%BF)
 1. [2025央视跨年晚会](https://www.douyin.com/search/2025%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
-1. [2025闪亮登场](https://www.douyin.com/search/2025%E9%97%AA%E4%BA%AE%E7%99%BB%E5%9C%BA)
-1. [跨年烟花又又又卷起来了](https://www.douyin.com/search/%E8%B7%A8%E5%B9%B4%E7%83%9F%E8%8A%B1%E5%8F%88%E5%8F%88%E5%8F%88%E5%8D%B7%E8%B5%B7%E6%9D%A5%E4%BA%86)
 1. [一年一度许愿大会](https://www.douyin.com/search/%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E8%AE%B8%E6%84%BF%E5%A4%A7%E4%BC%9A)
-1. [别人的跨年vs你的跨年](https://www.douyin.com/search/%E5%88%AB%E4%BA%BA%E7%9A%84%E8%B7%A8%E5%B9%B4vs%E4%BD%A0%E7%9A%84%E8%B7%A8%E5%B9%B4)
-1. [黄石基地3:1汕头明润](https://www.douyin.com/search/%E9%BB%84%E7%9F%B3%E5%9F%BA%E5%9C%B03%3A1%E6%B1%95%E5%A4%B4%E6%98%8E%E6%B6%A6)
-1. [2024的班就上到这里](https://www.douyin.com/search/2024%E7%9A%84%E7%8F%AD%E5%B0%B1%E4%B8%8A%E5%88%B0%E8%BF%99%E9%87%8C)
-1. [又开始期待跨年烟火](https://www.douyin.com/search/%E5%8F%88%E5%BC%80%E5%A7%8B%E6%9C%9F%E5%BE%85%E8%B7%A8%E5%B9%B4%E7%83%9F%E7%81%AB)
-1. [王楚钦3:1樊振东](https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A63%3A1%E6%A8%8A%E6%8C%AF%E4%B8%9C)
-1. [2025一定会更好](https://www.douyin.com/search/2025%E4%B8%80%E5%AE%9A%E4%BC%9A%E6%9B%B4%E5%A5%BD)
-1. [听见济公爷爷敲钟祈福才算跨年](https://www.douyin.com/search/%E5%90%AC%E8%A7%81%E6%B5%8E%E5%85%AC%E7%88%B7%E7%88%B7%E6%95%B2%E9%92%9F%E7%A5%88%E7%A6%8F%E6%89%8D%E7%AE%97%E8%B7%A8%E5%B9%B4)
-1. [2024完美谢幕](https://www.douyin.com/search/2024%E5%AE%8C%E7%BE%8E%E8%B0%A2%E5%B9%95)
+1. [2025闪亮登场](https://www.douyin.com/search/2025%E9%97%AA%E4%BA%AE%E7%99%BB%E5%9C%BA)
 1. [来自村子里的新年祝福](https://www.douyin.com/search/%E6%9D%A5%E8%87%AA%E6%9D%91%E5%AD%90%E9%87%8C%E7%9A%84%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F)
-1. [希望2025越来越好](https://www.douyin.com/search/%E5%B8%8C%E6%9C%9B2025%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A5%BD)
-1. [明星们2024最后一条抖音](https://www.douyin.com/search/%E6%98%8E%E6%98%9F%E4%BB%AC2024%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E6%8A%96%E9%9F%B3)
+1. [如果你今晚是一个人跨年](https://www.douyin.com/search/%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%BB%8A%E6%99%9A%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%B7%A8%E5%B9%B4)
+1. [与辉同行主播的2024关键词](https://www.douyin.com/search/%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E4%B8%BB%E6%92%AD%E7%9A%842024%E5%85%B3%E9%94%AE%E8%AF%8D)
 1. [好超前的跨年玩法大赏](https://www.douyin.com/search/%E5%A5%BD%E8%B6%85%E5%89%8D%E7%9A%84%E8%B7%A8%E5%B9%B4%E7%8E%A9%E6%B3%95%E5%A4%A7%E8%B5%8F)
-1. [燕云十六声移动端定档](https://www.douyin.com/search/%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AE%9A%E6%A1%A3)
-1. [东方卫视跨年超city开场](https://www.douyin.com/search/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%B6%85city%E5%BC%80%E5%9C%BA)
+1. [2024的班就上到这里](https://www.douyin.com/search/2024%E7%9A%84%E7%8F%AD%E5%B0%B1%E4%B8%8A%E5%88%B0%E8%BF%99%E9%87%8C)
+1. [听见济公爷爷敲钟祈福才算跨年](https://www.douyin.com/search/%E5%90%AC%E8%A7%81%E6%B5%8E%E5%85%AC%E7%88%B7%E7%88%B7%E6%95%B2%E9%92%9F%E7%A5%88%E7%A6%8F%E6%89%8D%E7%AE%97%E8%B7%A8%E5%B9%B4)
+1. [希望2025越来越好](https://www.douyin.com/search/%E5%B8%8C%E6%9C%9B2025%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A5%BD)
+1. [2024完美谢幕](https://www.douyin.com/search/2024%E5%AE%8C%E7%BE%8E%E8%B0%A2%E5%B9%95)
+1. [X战队杭州SC跨年大战](https://www.douyin.com/search/X%E6%88%98%E9%98%9F%E6%9D%AD%E5%B7%9ESC%E8%B7%A8%E5%B9%B4%E5%A4%A7%E6%88%98)
+1. [黄石基地3:1汕头明润](https://www.douyin.com/search/%E9%BB%84%E7%9F%B3%E5%9F%BA%E5%9C%B03%3A1%E6%B1%95%E5%A4%B4%E6%98%8E%E6%B6%A6)
 1. [蔡徐坤进行曲](https://www.douyin.com/search/%E8%94%A1%E5%BE%90%E5%9D%A4%E8%BF%9B%E8%A1%8C%E6%9B%B2)
-1. [2025同样值得期待](https://www.douyin.com/search/2025%E5%90%8C%E6%A0%B7%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85)
-1. [湖南跨年晚会舞台坏了](https://www.douyin.com/search/%E6%B9%96%E5%8D%97%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%88%9E%E5%8F%B0%E5%9D%8F%E4%BA%86)
-1. [于大宝退役](https://www.douyin.com/search/%E4%BA%8E%E5%A4%A7%E5%AE%9D%E9%80%80%E5%BD%B9)
-1. [我追更的网文作家送祝福了](https://www.douyin.com/search/%E6%88%91%E8%BF%BD%E6%9B%B4%E7%9A%84%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E9%80%81%E7%A5%9D%E7%A6%8F%E4%BA%86)
+1. [明星们2024最后一条抖音](https://www.douyin.com/search/%E6%98%8E%E6%98%9F%E4%BB%AC2024%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E6%8A%96%E9%9F%B3)
+1. [燕云十六声移动端定档](https://www.douyin.com/search/%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AE%9A%E6%A1%A3)
+1. [2025年元旦高速公路不免费](https://www.douyin.com/search/2025%E5%B9%B4%E5%85%83%E6%97%A6%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B8%8D%E5%85%8D%E8%B4%B9)
 1. [大奉打更人美女101](https://www.douyin.com/search/%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E7%BE%8E%E5%A5%B3101)
+1. [湖南跨年晚会舞台坏了](https://www.douyin.com/search/%E6%B9%96%E5%8D%97%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%88%9E%E5%8F%B0%E5%9D%8F%E4%BA%86)
+1. [2024年度碎片回顾](https://www.douyin.com/search/2024%E5%B9%B4%E5%BA%A6%E7%A2%8E%E7%89%87%E5%9B%9E%E9%A1%BE)
+1. [光遇跨年演唱会上线](https://www.douyin.com/search/%E5%85%89%E9%81%87%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%BA%BF)
+1. [我追更的网文作家送祝福了](https://www.douyin.com/search/%E6%88%91%E8%BF%BD%E6%9B%B4%E7%9A%84%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E9%80%81%E7%A5%9D%E7%A6%8F%E4%BA%86)
+1. [英语口音测试挑战](https://www.douyin.com/search/%E8%8B%B1%E8%AF%AD%E5%8F%A3%E9%9F%B3%E6%B5%8B%E8%AF%95%E6%8C%91%E6%88%98)
 1. [黄子韬直播陪你跨年](https://www.douyin.com/search/%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9B%B4%E6%92%AD%E9%99%AA%E4%BD%A0%E8%B7%A8%E5%B9%B4)
+1. [韩国法院批准尹锡悦逮捕令](https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E6%B3%95%E9%99%A2%E6%89%B9%E5%87%86%E5%B0%B9%E9%94%A1%E6%82%A6%E9%80%AE%E6%8D%95%E4%BB%A4)
+1. [你的微笑手势舞](https://www.douyin.com/search/%E4%BD%A0%E7%9A%84%E5%BE%AE%E7%AC%91%E6%89%8B%E5%8A%BF%E8%88%9E)
 1. [请查收来自二次元的新年祝福](https://www.douyin.com/search/%E8%AF%B7%E6%9F%A5%E6%94%B6%E6%9D%A5%E8%87%AA%E4%BA%8C%E6%AC%A1%E5%85%83%E7%9A%84%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F)
-1. [王鹤棣演技](https://www.douyin.com/search/%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E6%8A%80)
-1. [被外卖员的日常治愈了](https://www.douyin.com/search/%E8%A2%AB%E5%A4%96%E5%8D%96%E5%91%98%E7%9A%84%E6%97%A5%E5%B8%B8%E6%B2%BB%E6%84%88%E4%BA%86)
-1. [余承东祝大家2025强到飞起](https://www.douyin.com/search/%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A5%9D%E5%A4%A7%E5%AE%B62025%E5%BC%BA%E5%88%B0%E9%A3%9E%E8%B5%B7)
-1. [沈腾跟不齐舞团比只少串钥匙](https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E8%B7%9F%E4%B8%8D%E9%BD%90%E8%88%9E%E5%9B%A2%E6%AF%94%E5%8F%AA%E5%B0%91%E4%B8%B2%E9%92%A5%E5%8C%99)
+1. [于大宝退役](https://www.douyin.com/search/%E4%BA%8E%E5%A4%A7%E5%AE%9D%E9%80%80%E5%BD%B9)
 
 ## 明星榜
 
@@ -80,8 +80,8 @@
 1. [冬日愿望清单](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
-1. [If December Never Ends](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
-1. [爱的就是你 (可爱版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqhQCEDLSfAvtzJyn8ftTCYGmF5jZCXNqB3Pg) - 崔十八/听潮阁
+1. [If December Never Ends](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oY1IQMoTgCFIBg8RZifyqlBBt1UFgitTYmxeOS) - Anson Seabra
+1. [爱的就是你 (可爱版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUqhQCEDLSfAvtzJyn8ftTCYGmF5jZCXNqB3Pg) - 崔十八/听潮阁
 1. [Falling In Love（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8ajpA8zzgBPahbBIO8AcKGBLJezFCRd1wfP9f) - 青村秀和
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
 1. [你不明白（副歌1.1X）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4LBQK7fIoonFBCeIzPNZvHDgEDtQ2ErnrKvM1) - 陈麒名
@@ -89,14 +89,14 @@
 1. [（en版）稳稳的幸福 - 主歌](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8iWyyKzqBLzARVHi7IABsCAo4QfMIu6WbRwIB) - en
 1. [苹果香Dj（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEeIEQbYGAOspCTRAIeYF4Ok8LgZ8NBaRe4ztR) - 黑大婶回乡带娃
 1. [Exile](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYj4gAQTknKE3WW0Je8KGmQ7z1cA4FefwtbufD) - Alyssa Caroline
-1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
+1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [A Love Song For You（《半是蜜糖半是伤》插曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYxyhTA1TAQIDBfsKgMUuSiIdwW8QuNqrabzhC) - 汪睿
 1. [野百合也有春天（万向乐队完整版已上线）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMnUxhRAMiAGBqDtIPBQ7ACYQZFlJCftcgeDJE) - 万向乐队
 1. [Blame You](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAceIDVL0BC2DJC0Qwi8AZnQAtBgZBbMMpfdzi) - E27XG_
 1. [只字不提（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oksAG6j7NrZche9tfaCOLIUzFggDhgaBMCtGsG) - 于和伟
-1. [春娇与志明](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
-1. [野人（副歌）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEMEdMzeVrzYSP90sfALIeYZQKYeWlsZpAGfr9) - 孟维来
+1. [春娇与志明](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/e530d8fceb7044b39707d7f9ff54add1) - 街道办,欧阳耀莹
+1. [野人（副歌）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEMEdMzeVrzYSP90sfALIeYZQKYeWlsZpAGfr9) - 孟维来
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
 1. [晚婚(世上唯一契合灵魂)_叁女生版](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os2TDfuHtEXCYYXJwVngFBuNQOZVCQDy9Aqexu) - 叁
 
