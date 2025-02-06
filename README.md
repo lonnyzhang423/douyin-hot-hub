@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-06 20:36:38 +0800`
+`更新时间：2025-02-06 21:25:05 +0800`
 
 ## 抖音热榜
 
-1. [奥迪放弃改名计划](https://www.douyin.com/search/%E5%A5%A5%E8%BF%AA%E6%94%BE%E5%BC%83%E6%94%B9%E5%90%8D%E8%AE%A1%E5%88%92)
-1. [长津湖祝贺哪吒2登顶](https://www.douyin.com/search/%E9%95%BF%E6%B4%A5%E6%B9%96%E7%A5%9D%E8%B4%BA%E5%93%AA%E5%90%922%E7%99%BB%E9%A1%B6)
-1. [宁忠岩刘梦婷中国代表团旗手](https://www.douyin.com/search/%E5%AE%81%E5%BF%A0%E5%B2%A9%E5%88%98%E6%A2%A6%E5%A9%B7%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%97%97%E6%89%8B)
-1. [吴京喊小哪吒冲冲冲](https://www.douyin.com/search/%E5%90%B4%E4%BA%AC%E5%96%8A%E5%B0%8F%E5%93%AA%E5%90%92%E5%86%B2%E5%86%B2%E5%86%B2)
 1. [王楚钦林诗栋比赛被闪光灯干扰](https://www.douyin.com/search/%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9E%97%E8%AF%97%E6%A0%8B%E6%AF%94%E8%B5%9B%E8%A2%AB%E9%97%AA%E5%85%89%E7%81%AF%E5%B9%B2%E6%89%B0)
-1. [王曼昱0:3不敌蒯曼](https://www.douyin.com/search/%E7%8E%8B%E6%9B%BC%E6%98%B10%3A3%E4%B8%8D%E6%95%8C%E8%92%AF%E6%9B%BC)
-1. [湖人与黄蜂达成交易](https://www.douyin.com/search/%E6%B9%96%E4%BA%BA%E4%B8%8E%E9%BB%84%E8%9C%82%E8%BE%BE%E6%88%90%E4%BA%A4%E6%98%93)
-1. [林诗栋晋级男单16强](https://www.douyin.com/search/%E6%9E%97%E8%AF%97%E6%A0%8B%E6%99%8B%E7%BA%A7%E7%94%B7%E5%8D%9516%E5%BC%BA)
-1. [相信光 追逐光](https://www.douyin.com/search/%E7%9B%B8%E4%BF%A1%E5%85%89%20%E8%BF%BD%E9%80%90%E5%85%89)
-1. [哪吒2可能被删减的剧情](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%88%A0%E5%87%8F%E7%9A%84%E5%89%A7%E6%83%85)
-1. [环球时报社评哪吒2](https://www.douyin.com/search/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E7%A4%BE%E8%AF%84%E5%93%AA%E5%90%922)
+1. [奥迪放弃改名计划](https://www.douyin.com/search/%E5%A5%A5%E8%BF%AA%E6%94%BE%E5%BC%83%E6%94%B9%E5%90%8D%E8%AE%A1%E5%88%92)
+1. [亚冬会开幕式亮点抢先看](https://www.douyin.com/search/%E4%BA%9A%E5%86%AC%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B)
 1. [湖人交易得到马克威廉姆斯](https://www.douyin.com/search/%E6%B9%96%E4%BA%BA%E4%BA%A4%E6%98%93%E5%BE%97%E5%88%B0%E9%A9%AC%E5%85%8B%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF)
+1. [王曼昱0:3不敌蒯曼](https://www.douyin.com/search/%E7%8E%8B%E6%9B%BC%E6%98%B10%3A3%E4%B8%8D%E6%95%8C%E8%92%AF%E6%9B%BC)
+1. [吴京喊小哪吒冲冲冲](https://www.douyin.com/search/%E5%90%B4%E4%BA%AC%E5%96%8A%E5%B0%8F%E5%93%AA%E5%90%92%E5%86%B2%E5%86%B2%E5%86%B2)
+1. [林诗栋晋级男单16强](https://www.douyin.com/search/%E6%9E%97%E8%AF%97%E6%A0%8B%E6%99%8B%E7%BA%A7%E7%94%B7%E5%8D%9516%E5%BC%BA)
+1. [哪吒2官方玩梗](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E5%AE%98%E6%96%B9%E7%8E%A9%E6%A2%97)
+1. [哈尔滨亚冬会媒体包里都有啥](https://www.douyin.com/search/%E5%93%88%E5%B0%94%E6%BB%A8%E4%BA%9A%E5%86%AC%E4%BC%9A%E5%AA%92%E4%BD%93%E5%8C%85%E9%87%8C%E9%83%BD%E6%9C%89%E5%95%A5)
 1. [哪吒2无量仙翁配音是王德顺](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E6%97%A0%E9%87%8F%E4%BB%99%E7%BF%81%E9%85%8D%E9%9F%B3%E6%98%AF%E7%8E%8B%E5%BE%B7%E9%A1%BA)
-1. [丁禹兮包场助力哪吒](https://www.douyin.com/search/%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8C%85%E5%9C%BA%E5%8A%A9%E5%8A%9B%E5%93%AA%E5%90%92)
-1. [孩子收的压岁钱由孩子花完](https://www.douyin.com/search/%E5%AD%A9%E5%AD%90%E6%94%B6%E7%9A%84%E5%8E%8B%E5%B2%81%E9%92%B1%E7%94%B1%E5%AD%A9%E5%AD%90%E8%8A%B1%E5%AE%8C)
-1. [回出租屋吃年货有种委屈感](https://www.douyin.com/search/%E5%9B%9E%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%90%83%E5%B9%B4%E8%B4%A7%E6%9C%89%E7%A7%8D%E5%A7%94%E5%B1%88%E6%84%9F)
+1. [环球时报社评哪吒2](https://www.douyin.com/search/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E7%A4%BE%E8%AF%84%E5%93%AA%E5%90%922)
 1. [重塑哪吒为啥用莲藕](https://www.douyin.com/search/%E9%87%8D%E5%A1%91%E5%93%AA%E5%90%92%E4%B8%BA%E5%95%A5%E7%94%A8%E8%8E%B2%E8%97%95)
+1. [回出租屋吃年货有种委屈感](https://www.douyin.com/search/%E5%9B%9E%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%90%83%E5%B9%B4%E8%B4%A7%E6%9C%89%E7%A7%8D%E5%A7%94%E5%B1%88%E6%84%9F)
+1. [女儿赖床不起 爸爸赋诗一首](https://www.douyin.com/search/%E5%A5%B3%E5%84%BF%E8%B5%96%E5%BA%8A%E4%B8%8D%E8%B5%B7%20%E7%88%B8%E7%88%B8%E8%B5%8B%E8%AF%97%E4%B8%80%E9%A6%96)
+1. [把两只老虎弹出了恐怖的感觉](https://www.douyin.com/search/%E6%8A%8A%E4%B8%A4%E5%8F%AA%E8%80%81%E8%99%8E%E5%BC%B9%E5%87%BA%E4%BA%86%E6%81%90%E6%80%96%E7%9A%84%E6%84%9F%E8%A7%89)
 1. [吴昕爆改白磷型人格](https://www.douyin.com/search/%E5%90%B4%E6%98%95%E7%88%86%E6%94%B9%E7%99%BD%E7%A3%B7%E5%9E%8B%E4%BA%BA%E6%A0%BC)
+1. [郭焱称裁判都喜欢孙颖莎](https://www.douyin.com/search/%E9%83%AD%E7%84%B1%E7%A7%B0%E8%A3%81%E5%88%A4%E9%83%BD%E5%96%9C%E6%AC%A2%E5%AD%99%E9%A2%96%E8%8E%8E)
+1. [丁禹兮包场助力哪吒](https://www.douyin.com/search/%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8C%85%E5%9C%BA%E5%8A%A9%E5%8A%9B%E5%93%AA%E5%90%92)
 1. [李锋博士遭遇意外离世年仅48岁](https://www.douyin.com/search/%E6%9D%8E%E9%94%8B%E5%8D%9A%E5%A3%AB%E9%81%AD%E9%81%87%E6%84%8F%E5%A4%96%E7%A6%BB%E4%B8%96%E5%B9%B4%E4%BB%8548%E5%B2%81)
 1. [2月车企价格战变生死战](https://www.douyin.com/search/2%E6%9C%88%E8%BD%A6%E4%BC%81%E4%BB%B7%E6%A0%BC%E6%88%98%E5%8F%98%E7%94%9F%E6%AD%BB%E6%88%98)
-1. [张伟丽肩披冠军金腰带](https://www.douyin.com/search/%E5%BC%A0%E4%BC%9F%E4%B8%BD%E8%82%A9%E6%8A%AB%E5%86%A0%E5%86%9B%E9%87%91%E8%85%B0%E5%B8%A6)
-1. [把两只老虎弹出了恐怖的感觉](https://www.douyin.com/search/%E6%8A%8A%E4%B8%A4%E5%8F%AA%E8%80%81%E8%99%8E%E5%BC%B9%E5%87%BA%E4%BA%86%E6%81%90%E6%80%96%E7%9A%84%E6%84%9F%E8%A7%89)
-1. [哪吒2回应成为中国影史票房冠军](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E5%9B%9E%E5%BA%94%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B)
-1. [饺子谈哪吒3的创作](https://www.douyin.com/search/%E9%A5%BA%E5%AD%90%E8%B0%88%E5%93%AA%E5%90%923%E7%9A%84%E5%88%9B%E4%BD%9C)
-1. [女儿赖床不起 爸爸赋诗一首](https://www.douyin.com/search/%E5%A5%B3%E5%84%BF%E8%B5%96%E5%BA%8A%E4%B8%8D%E8%B5%B7%20%E7%88%B8%E7%88%B8%E8%B5%8B%E8%AF%97%E4%B8%80%E9%A6%96)
-1. [6大国产电影齐祝贺哪吒2](https://www.douyin.com/search/6%E5%A4%A7%E5%9B%BD%E4%BA%A7%E7%94%B5%E5%BD%B1%E9%BD%90%E7%A5%9D%E8%B4%BA%E5%93%AA%E5%90%922)
-1. [哪吒2海报都是杀青梗](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E6%B5%B7%E6%8A%A5%E9%83%BD%E6%98%AF%E6%9D%80%E9%9D%92%E6%A2%97)
-1. [敖丙看金箍棒的眼神](https://www.douyin.com/search/%E6%95%96%E4%B8%99%E7%9C%8B%E9%87%91%E7%AE%8D%E6%A3%92%E7%9A%84%E7%9C%BC%E7%A5%9E)
-1. [不如不见面翻唱](https://www.douyin.com/search/%E4%B8%8D%E5%A6%82%E4%B8%8D%E8%A7%81%E9%9D%A2%E7%BF%BB%E5%94%B1)
 1. [新年复工的第一顿火锅](https://www.douyin.com/search/%E6%96%B0%E5%B9%B4%E5%A4%8D%E5%B7%A5%E7%9A%84%E7%AC%AC%E4%B8%80%E9%A1%BF%E7%81%AB%E9%94%85)
-1. [郭富城陪方媛回安徽拜年](https://www.douyin.com/search/%E9%83%AD%E5%AF%8C%E5%9F%8E%E9%99%AA%E6%96%B9%E5%AA%9B%E5%9B%9E%E5%AE%89%E5%BE%BD%E6%8B%9C%E5%B9%B4)
-1. [哪吒2登上纽约时代广场大屏](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E7%99%BB%E4%B8%8A%E7%BA%BD%E7%BA%A6%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA%E5%A4%A7%E5%B1%8F)
-1. [大胆点做自己](https://www.douyin.com/search/%E5%A4%A7%E8%83%86%E7%82%B9%E5%81%9A%E8%87%AA%E5%B7%B1)
-1. [太乙真人纯善天花板](https://www.douyin.com/search/%E5%A4%AA%E4%B9%99%E7%9C%9F%E4%BA%BA%E7%BA%AF%E5%96%84%E5%A4%A9%E8%8A%B1%E6%9D%BF)
-1. [用笑声唱Baby憋出内伤了](https://www.douyin.com/search/%E7%94%A8%E7%AC%91%E5%A3%B0%E5%94%B1Baby%E6%86%8B%E5%87%BA%E5%86%85%E4%BC%A4%E4%BA%86)
-1. [哪吒不语只是一味联动](https://www.douyin.com/search/%E5%93%AA%E5%90%92%E4%B8%8D%E8%AF%AD%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E8%81%94%E5%8A%A8)
-1. [盘点2025格莱美红毯造型](https://www.douyin.com/search/%E7%9B%98%E7%82%B92025%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B)
 1. [东眉大交易的前因后果](https://www.douyin.com/search/%E4%B8%9C%E7%9C%89%E5%A4%A7%E4%BA%A4%E6%98%93%E7%9A%84%E5%89%8D%E5%9B%A0%E5%90%8E%E6%9E%9C)
-1. [哪吒官抖也在用同款哪吒玩偶](https://www.douyin.com/search/%E5%93%AA%E5%90%92%E5%AE%98%E6%8A%96%E4%B9%9F%E5%9C%A8%E7%94%A8%E5%90%8C%E6%AC%BE%E5%93%AA%E5%90%92%E7%8E%A9%E5%81%B6)
+1. [哪吒2回应成为中国影史票房冠军](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E5%9B%9E%E5%BA%94%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B)
+1. [湖人与黄蜂达成交易](https://www.douyin.com/search/%E6%B9%96%E4%BA%BA%E4%B8%8E%E9%BB%84%E8%9C%82%E8%BE%BE%E6%88%90%E4%BA%A4%E6%98%93)
+1. [饺子谈哪吒3的创作](https://www.douyin.com/search/%E9%A5%BA%E5%AD%90%E8%B0%88%E5%93%AA%E5%90%923%E7%9A%84%E5%88%9B%E4%BD%9C)
+1. [用不同乐器弹奏复刻回忆](https://www.douyin.com/search/%E7%94%A8%E4%B8%8D%E5%90%8C%E4%B9%90%E5%99%A8%E5%BC%B9%E5%A5%8F%E5%A4%8D%E5%88%BB%E5%9B%9E%E5%BF%86)
+1. [哪吒2可能被删减的剧情](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%88%A0%E5%87%8F%E7%9A%84%E5%89%A7%E6%83%85)
+1. [敖丙看金箍棒的眼神](https://www.douyin.com/search/%E6%95%96%E4%B8%99%E7%9C%8B%E9%87%91%E7%AE%8D%E6%A3%92%E7%9A%84%E7%9C%BC%E7%A5%9E)
+1. [6大国产电影齐祝贺哪吒2](https://www.douyin.com/search/6%E5%A4%A7%E5%9B%BD%E4%BA%A7%E7%94%B5%E5%BD%B1%E9%BD%90%E7%A5%9D%E8%B4%BA%E5%93%AA%E5%90%922)
+1. [不如不见面翻唱](https://www.douyin.com/search/%E4%B8%8D%E5%A6%82%E4%B8%8D%E8%A7%81%E9%9D%A2%E7%BF%BB%E5%94%B1)
+1. [郭富城陪方媛回安徽拜年](https://www.douyin.com/search/%E9%83%AD%E5%AF%8C%E5%9F%8E%E9%99%AA%E6%96%B9%E5%AA%9B%E5%9B%9E%E5%AE%89%E5%BE%BD%E6%8B%9C%E5%B9%B4)
+1. [哪吒2海报都是杀青梗](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E6%B5%B7%E6%8A%A5%E9%83%BD%E6%98%AF%E6%9D%80%E9%9D%92%E6%A2%97)
+1. [用笑声唱Baby憋出内伤了](https://www.douyin.com/search/%E7%94%A8%E7%AC%91%E5%A3%B0%E5%94%B1Baby%E6%86%8B%E5%87%BA%E5%86%85%E4%BC%A4%E4%BA%86)
+1. [孩子收的压岁钱由孩子花完](https://www.douyin.com/search/%E5%AD%A9%E5%AD%90%E6%94%B6%E7%9A%84%E5%8E%8B%E5%B2%81%E9%92%B1%E7%94%B1%E5%AD%A9%E5%AD%90%E8%8A%B1%E5%AE%8C)
+1. [中国神话人物传之哪吒篇](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%A5%9E%E8%AF%9D%E4%BA%BA%E7%89%A9%E4%BC%A0%E4%B9%8B%E5%93%AA%E5%90%92%E7%AF%87)
+1. [太乙真人纯善天花板](https://www.douyin.com/search/%E5%A4%AA%E4%B9%99%E7%9C%9F%E4%BA%BA%E7%BA%AF%E5%96%84%E5%A4%A9%E8%8A%B1%E6%9D%BF)
+1. [大胆点做自己](https://www.douyin.com/search/%E5%A4%A7%E8%83%86%E7%82%B9%E5%81%9A%E8%87%AA%E5%B7%B1)
+1. [哪吒2登上纽约时代广场大屏](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E7%99%BB%E4%B8%8A%E7%BA%BD%E7%BA%A6%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA%E5%A4%A7%E5%B1%8F)
 1. [哪吒声优也给王者配过音](https://www.douyin.com/search/%E5%93%AA%E5%90%92%E5%A3%B0%E4%BC%98%E4%B9%9F%E7%BB%99%E7%8E%8B%E8%80%85%E9%85%8D%E8%BF%87%E9%9F%B3)
-1. [考古哪吒2的官方售前](https://www.douyin.com/search/%E8%80%83%E5%8F%A4%E5%93%AA%E5%90%922%E7%9A%84%E5%AE%98%E6%96%B9%E5%94%AE%E5%89%8D)
-1. [BLACKPINK2025年巡演预告](https://www.douyin.com/search/BLACKPINK2025%E5%B9%B4%E5%B7%A1%E6%BC%94%E9%A2%84%E5%91%8A)
+1. [名记：巴特勒被交易至勇士](https://www.douyin.com/search/%E5%90%8D%E8%AE%B0%EF%BC%9A%E5%B7%B4%E7%89%B9%E5%8B%92%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E5%8B%87%E5%A3%AB)
+1. [金饰价格突破860元](https://www.douyin.com/search/%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B4860%E5%85%83)
+1. [哪吒2动画制作公司成打卡点](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E5%8A%A8%E7%94%BB%E5%88%B6%E4%BD%9C%E5%85%AC%E5%8F%B8%E6%88%90%E6%89%93%E5%8D%A1%E7%82%B9)
+1. [盘点2025格莱美红毯造型](https://www.douyin.com/search/%E7%9B%98%E7%82%B92025%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B)
 1. [哪吒2对亲情友情教育的意义](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E5%AF%B9%E4%BA%B2%E6%83%85%E5%8F%8B%E6%83%85%E6%95%99%E8%82%B2%E7%9A%84%E6%84%8F%E4%B9%89)
 1. [老板回应套圈礼品有玛莎拉蒂](https://www.douyin.com/search/%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E5%A5%97%E5%9C%88%E7%A4%BC%E5%93%81%E6%9C%89%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82)
-1. [万物皆可石矶娘娘](https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E7%9F%B3%E7%9F%B6%E5%A8%98%E5%A8%98)
-1. [用纸片和光影组合展现哪吒模样](https://www.douyin.com/search/%E7%94%A8%E7%BA%B8%E7%89%87%E5%92%8C%E5%85%89%E5%BD%B1%E7%BB%84%E5%90%88%E5%B1%95%E7%8E%B0%E5%93%AA%E5%90%92%E6%A8%A1%E6%A0%B7)
-1. [看完封神第二部后遗症](https://www.douyin.com/search/%E7%9C%8B%E5%AE%8C%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%90%8E%E9%81%97%E7%97%87)
-1. [春节戒断反应](https://www.douyin.com/search/%E6%98%A5%E8%8A%82%E6%88%92%E6%96%AD%E5%8F%8D%E5%BA%94)
-1. [哪吒3上映时间帮你们问了](https://www.douyin.com/search/%E5%93%AA%E5%90%923%E4%B8%8A%E6%98%A0%E6%97%B6%E9%97%B4%E5%B8%AE%E4%BD%A0%E4%BB%AC%E9%97%AE%E4%BA%86)
+1. [哪吒不语只是一味联动](https://www.douyin.com/search/%E5%93%AA%E5%90%92%E4%B8%8D%E8%AF%AD%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E8%81%94%E5%8A%A8)
+1. [BLACKPINK2025年巡演预告](https://www.douyin.com/search/BLACKPINK2025%E5%B9%B4%E5%B7%A1%E6%BC%94%E9%A2%84%E5%91%8A)
+1. [哪吒官抖也在用同款哪吒玩偶](https://www.douyin.com/search/%E5%93%AA%E5%90%92%E5%AE%98%E6%8A%96%E4%B9%9F%E5%9C%A8%E7%94%A8%E5%90%8C%E6%AC%BE%E5%93%AA%E5%90%92%E7%8E%A9%E5%81%B6)
+1. [考古哪吒2的官方售前](https://www.douyin.com/search/%E8%80%83%E5%8F%A4%E5%93%AA%E5%90%922%E7%9A%84%E5%AE%98%E6%96%B9%E5%94%AE%E5%89%8D)
 
 ## 明星榜
 
@@ -76,7 +76,7 @@
 ## 音乐榜
 
 1. [消散对白(圆梦版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og4jB5I5IizzoZVAAAzWgBMAsMDWoArfwBOiFs) - 丁禹兮
-1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
+1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
 1. [你的](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYuIeKf42jB7sEV6B2upMdpYAgfrQWj0FeRegh) - 贺仙人
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [Cute](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4IbIzHWKAAB4wsS5qMBRiiAlEBGTpQRNfFvuo) - Ly
@@ -86,7 +86,7 @@
 1. [Winter Wishlist](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIIgUOeamCFCVAzxN6MFRLIBlLGpUqQxeeHrLE) - Youzee Music
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [无感 (剪辑版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0eIsUzJBDlQaQFC5OFlgbMEZC1TFYBftOBn6p) - 江辰
-1. [丁达尔的梦](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
+1. [丁达尔的梦](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMU3WirUZBVQkAC9ccG5P2IQirziZM2RTInUY) - Youzee Music
 1. [爱的就是你_崔十八 (主歌1)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oI5BO5DhFZ6UTcNCnZaOCBLtZ7WIMQGfgnXf5E) - 崔十八/听潮阁
 1. [天冷了你要记得穿秋裤（米三岁版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oQlIwVIDWiZ6BQilAorS7MA0AgCkQDvcZAdm1) - 米三岁
 1. [开心往前飞（开心超人联盟主题曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/9d8fb7c82cf1421fb93a9fe925275e0a) - VIVI
