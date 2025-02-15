@@ -11,59 +11,59 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-15 19:14:37 +0800`
+`更新时间：2025-02-15 20:32:49 +0800`
 
 ## 抖音热榜
 
-1. [2025NBA全明星](https://www.douyin.com/search/2025NBA%E5%85%A8%E6%98%8E%E6%98%9F)
+1. [U20国足vs吉尔吉斯斯坦](https://www.douyin.com/search/U20%E5%9B%BD%E8%B6%B3vs%E5%90%89%E5%B0%94%E5%90%89%E6%96%AF%E6%96%AF%E5%9D%A6)
 1. [哪吒2总票房破110亿](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4110%E4%BA%BF)
 1. [17部门开展“一起益企”行动](https://www.douyin.com/search/17%E9%83%A8%E9%97%A8%E5%BC%80%E5%B1%95%E2%80%9C%E4%B8%80%E8%B5%B7%E7%9B%8A%E4%BC%81%E2%80%9D%E8%A1%8C%E5%8A%A8)
-1. [U20国足vs吉尔吉斯斯坦](https://www.douyin.com/search/U20%E5%9B%BD%E8%B6%B3vs%E5%90%89%E5%B0%94%E5%90%89%E6%96%AF%E6%96%AF%E5%9D%A6)
 1. [第五人格下饭杯选秀之夜](https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%B8%8B%E9%A5%AD%E6%9D%AF%E9%80%89%E7%A7%80%E4%B9%8B%E5%A4%9C)
+1. [2025NBA全明星](https://www.douyin.com/search/2025NBA%E5%85%A8%E6%98%8E%E6%98%9F)
 1. [衡阳通报妇幼医生售卖出生证](https://www.douyin.com/search/%E8%A1%A1%E9%98%B3%E9%80%9A%E6%8A%A5%E5%A6%87%E5%B9%BC%E5%8C%BB%E7%94%9F%E5%94%AE%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81)
 1. [饺子登顶中国导演票房榜](https://www.douyin.com/search/%E9%A5%BA%E5%AD%90%E7%99%BB%E9%A1%B6%E4%B8%AD%E5%9B%BD%E5%AF%BC%E6%BC%94%E7%A5%A8%E6%88%BF%E6%A6%9C)
-1. [超可爱的小猫靠肩照教程](https://www.douyin.com/search/%E8%B6%85%E5%8F%AF%E7%88%B1%E7%9A%84%E5%B0%8F%E7%8C%AB%E9%9D%A0%E8%82%A9%E7%85%A7%E6%95%99%E7%A8%8B)
-1. [小S感谢大家悼念姐姐大S](https://www.douyin.com/search/%E5%B0%8FS%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E6%82%BC%E5%BF%B5%E5%A7%90%E5%A7%90%E5%A4%A7S)
-1. [懂事的寝室长已经提前返校了](https://www.douyin.com/search/%E6%87%82%E4%BA%8B%E7%9A%84%E5%AF%9D%E5%AE%A4%E9%95%BF%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E8%BF%94%E6%A0%A1%E4%BA%86)
-1. [哪吒2美国热映观众评价太棒了](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E7%BE%8E%E5%9B%BD%E7%83%AD%E6%98%A0%E8%A7%82%E4%BC%97%E8%AF%84%E4%BB%B7%E5%A4%AA%E6%A3%92%E4%BA%86)
+1. [萧炎斗尊首战轻松拿捏](https://www.douyin.com/search/%E8%90%A7%E7%82%8E%E6%96%97%E5%B0%8A%E9%A6%96%E6%88%98%E8%BD%BB%E6%9D%BE%E6%8B%BF%E6%8D%8F)
 1. [等到杨雪cos敖闰了](https://www.douyin.com/search/%E7%AD%89%E5%88%B0%E6%9D%A8%E9%9B%AAcos%E6%95%96%E9%97%B0%E4%BA%86)
-1. [恋爱和战斗都要和平精英](https://www.douyin.com/search/%E6%81%8B%E7%88%B1%E5%92%8C%E6%88%98%E6%96%97%E9%83%BD%E8%A6%81%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1)
+1. [开学季家长统一姿势](https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E5%AD%A3%E5%AE%B6%E9%95%BF%E7%BB%9F%E4%B8%80%E5%A7%BF%E5%8A%BF)
+1. [从封神演义原著看懂哪吒](https://www.douyin.com/search/%E4%BB%8E%E5%B0%81%E7%A5%9E%E6%BC%94%E4%B9%89%E5%8E%9F%E8%91%97%E7%9C%8B%E6%87%82%E5%93%AA%E5%90%92)
 1. [王鹤棣进球了](https://www.douyin.com/search/%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%BF%9B%E7%90%83%E4%BA%86)
-1. [第五人格弓箭手](https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%BC%93%E7%AE%AD%E6%89%8B)
+1. [美国观众评价哪吒2](https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E8%A7%82%E4%BC%97%E8%AF%84%E4%BB%B7%E5%93%AA%E5%90%922)
 1. [驻美大使评价哪吒2爆火](https://www.douyin.com/search/%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%AF%84%E4%BB%B7%E5%93%AA%E5%90%922%E7%88%86%E7%81%AB)
-1. [林书豪以主教练身份出场](https://www.douyin.com/search/%E6%9E%97%E4%B9%A6%E8%B1%AA%E4%BB%A5%E4%B8%BB%E6%95%99%E7%BB%83%E8%BA%AB%E4%BB%BD%E5%87%BA%E5%9C%BA)
-1. [一口气看懂哪吒编年史](https://www.douyin.com/search/%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%87%82%E5%93%AA%E5%90%92%E7%BC%96%E5%B9%B4%E5%8F%B2)
-1. [前国乒教练吴敬平发文炮轰WTT](https://www.douyin.com/search/%E5%89%8D%E5%9B%BD%E4%B9%92%E6%95%99%E7%BB%83%E5%90%B4%E6%95%AC%E5%B9%B3%E5%8F%91%E6%96%87%E7%82%AE%E8%BD%B0WTT)
-1. [国防部警告澳大利亚](https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E8%AD%A6%E5%91%8A%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A)
+1. [柯洁：当所有的夜都指向黎明](https://www.douyin.com/search/%E6%9F%AF%E6%B4%81%EF%BC%9A%E5%BD%93%E6%89%80%E6%9C%89%E7%9A%84%E5%A4%9C%E9%83%BD%E6%8C%87%E5%90%91%E9%BB%8E%E6%98%8E)
+1. [超可爱的小猫靠肩照教程](https://www.douyin.com/search/%E8%B6%85%E5%8F%AF%E7%88%B1%E7%9A%84%E5%B0%8F%E7%8C%AB%E9%9D%A0%E8%82%A9%E7%85%A7%E6%95%99%E7%A8%8B)
+1. [懂事的寝室长已经提前返校了](https://www.douyin.com/search/%E6%87%82%E4%BA%8B%E7%9A%84%E5%AF%9D%E5%AE%A4%E9%95%BF%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E8%BF%94%E6%A0%A1%E4%BA%86)
+1. [刀郎济南演唱会](https://www.douyin.com/search/%E5%88%80%E9%83%8E%E6%B5%8E%E5%8D%97%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [演员请就位把我看笑了](https://www.douyin.com/search/%E6%BC%94%E5%91%98%E8%AF%B7%E5%B0%B1%E4%BD%8D%E6%8A%8A%E6%88%91%E7%9C%8B%E7%AC%91%E4%BA%86)
 1. [世界上最大的背刺](https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%9A%84%E8%83%8C%E5%88%BA)
 1. [哪吒2全明星阵容大模仿](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E5%85%A8%E6%98%8E%E6%98%9F%E9%98%B5%E5%AE%B9%E5%A4%A7%E6%A8%A1%E4%BB%BF)
+1. [包喜字饺子教程](https://www.douyin.com/search/%E5%8C%85%E5%96%9C%E5%AD%97%E9%A5%BA%E5%AD%90%E6%95%99%E7%A8%8B)
 1. [演员请就位最自然的一段演技](https://www.douyin.com/search/%E6%BC%94%E5%91%98%E8%AF%B7%E5%B0%B1%E4%BD%8D%E6%9C%80%E8%87%AA%E7%84%B6%E7%9A%84%E4%B8%80%E6%AE%B5%E6%BC%94%E6%8A%80)
 1. [火力全开DJ版舞蹈挑战](https://www.douyin.com/search/%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80DJ%E7%89%88%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98)
-1. [朱正入选国家U19男篮集训名单](https://www.douyin.com/search/%E6%9C%B1%E6%AD%A3%E5%85%A5%E9%80%89%E5%9B%BD%E5%AE%B6U19%E7%94%B7%E7%AF%AE%E9%9B%86%E8%AE%AD%E5%90%8D%E5%8D%95)
-1. [克内克特回应交易风波](https://www.douyin.com/search/%E5%85%8B%E5%86%85%E5%85%8B%E7%89%B9%E5%9B%9E%E5%BA%94%E4%BA%A4%E6%98%93%E9%A3%8E%E6%B3%A2)
-1. [周深伦敦演唱会取消后现身致歉](https://www.douyin.com/search/%E5%91%A8%E6%B7%B1%E4%BC%A6%E6%95%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%E5%90%8E%E7%8E%B0%E8%BA%AB%E8%87%B4%E6%AD%89)
-1. [哪吒2被删减过程版资料首度公开](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E8%A2%AB%E5%88%A0%E5%87%8F%E8%BF%87%E7%A8%8B%E7%89%88%E8%B5%84%E6%96%99%E9%A6%96%E5%BA%A6%E5%85%AC%E5%BC%80)
+1. [春风若有意许我再少年](https://www.douyin.com/search/%E6%98%A5%E9%A3%8E%E8%8B%A5%E6%9C%89%E6%84%8F%E8%AE%B8%E6%88%91%E5%86%8D%E5%B0%91%E5%B9%B4)
+1. [IG焦点战对战FPX](https://www.douyin.com/search/IG%E7%84%A6%E7%82%B9%E6%88%98%E5%AF%B9%E6%88%98FPX)
 1. [你试过靠努力追上天赋吗](https://www.douyin.com/search/%E4%BD%A0%E8%AF%95%E8%BF%87%E9%9D%A0%E5%8A%AA%E5%8A%9B%E8%BF%BD%E4%B8%8A%E5%A4%A9%E8%B5%8B%E5%90%97)
-1. [吴敬平说看到乒坛乱象非常难过](https://www.douyin.com/search/%E5%90%B4%E6%95%AC%E5%B9%B3%E8%AF%B4%E7%9C%8B%E5%88%B0%E4%B9%92%E5%9D%9B%E4%B9%B1%E8%B1%A1%E9%9D%9E%E5%B8%B8%E9%9A%BE%E8%BF%87)
-1. [王鹤棣：湖人交易完心态有点崩](https://www.douyin.com/search/%E7%8E%8B%E9%B9%A4%E6%A3%A3%EF%BC%9A%E6%B9%96%E4%BA%BA%E4%BA%A4%E6%98%93%E5%AE%8C%E5%BF%83%E6%80%81%E6%9C%89%E7%82%B9%E5%B4%A9)
-1. [辣妹子小匪与老公官宣离婚](https://www.douyin.com/search/%E8%BE%A3%E5%A6%B9%E5%AD%90%E5%B0%8F%E5%8C%AA%E4%B8%8E%E8%80%81%E5%85%AC%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A)
 1. [仙台有树前世今生](https://www.douyin.com/search/%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F)
-1. [演员3问谁整容只有刘梓晨站起来](https://www.douyin.com/search/%E6%BC%94%E5%91%983%E9%97%AE%E8%B0%81%E6%95%B4%E5%AE%B9%E5%8F%AA%E6%9C%89%E5%88%98%E6%A2%93%E6%99%A8%E7%AB%99%E8%B5%B7%E6%9D%A5)
-1. [郭富城声生不息连跳三首](https://www.douyin.com/search/%E9%83%AD%E5%AF%8C%E5%9F%8E%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E8%BF%9E%E8%B7%B3%E4%B8%89%E9%A6%96)
-1. [拟音师用破烂还原哪吒音效](https://www.douyin.com/search/%E6%8B%9F%E9%9F%B3%E5%B8%88%E7%94%A8%E7%A0%B4%E7%83%82%E8%BF%98%E5%8E%9F%E5%93%AA%E5%90%92%E9%9F%B3%E6%95%88)
-1. [测评一下金智秀的SOLO2](https://www.douyin.com/search/%E6%B5%8B%E8%AF%84%E4%B8%80%E4%B8%8B%E9%87%91%E6%99%BA%E7%A7%80%E7%9A%84SOLO2)
-1. [谁教ENHYPEN青花瓷后踢腿的](https://www.douyin.com/search/%E8%B0%81%E6%95%99ENHYPEN%E9%9D%92%E8%8A%B1%E7%93%B7%E5%90%8E%E8%B8%A2%E8%85%BF%E7%9A%84)
-1. [黄圣依情人节晒巨型玫瑰](https://www.douyin.com/search/%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%83%85%E4%BA%BA%E8%8A%82%E6%99%92%E5%B7%A8%E5%9E%8B%E7%8E%AB%E7%91%B0)
+1. [哪吒2被删减过程版资料首度公开](https://www.douyin.com/search/%E5%93%AA%E5%90%922%E8%A2%AB%E5%88%A0%E5%87%8F%E8%BF%87%E7%A8%8B%E7%89%88%E8%B5%84%E6%96%99%E9%A6%96%E5%BA%A6%E5%85%AC%E5%BC%80)
+1. [恋爱和战斗都要和平精英](https://www.douyin.com/search/%E6%81%8B%E7%88%B1%E5%92%8C%E6%88%98%E6%96%97%E9%83%BD%E8%A6%81%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1)
+1. [第五人格弓箭手](https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%BC%93%E7%AE%AD%E6%89%8B)
+1. [邓孝慈新剧爆改病娇前夫哥](https://www.douyin.com/search/%E9%82%93%E5%AD%9D%E6%85%88%E6%96%B0%E5%89%A7%E7%88%86%E6%94%B9%E7%97%85%E5%A8%87%E5%89%8D%E5%A4%AB%E5%93%A5)
 1. [林子祥叶蒨文唱跳八分八](https://www.douyin.com/search/%E6%9E%97%E5%AD%90%E7%A5%A5%E5%8F%B6%E8%92%A8%E6%96%87%E5%94%B1%E8%B7%B3%E5%85%AB%E5%88%86%E5%85%AB)
-1. [邓佳鑫唱了推开世界的门](https://www.douyin.com/search/%E9%82%93%E4%BD%B3%E9%91%AB%E5%94%B1%E4%BA%86%E6%8E%A8%E5%BC%80%E4%B8%96%E7%95%8C%E7%9A%84%E9%97%A8)
+1. [周深伦敦演唱会取消后现身致歉](https://www.douyin.com/search/%E5%91%A8%E6%B7%B1%E4%BC%A6%E6%95%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%E5%90%8E%E7%8E%B0%E8%BA%AB%E8%87%B4%E6%AD%89)
 1. [抖音主播elle时尚大片](https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E4%B8%BB%E6%92%ADelle%E6%97%B6%E5%B0%9A%E5%A4%A7%E7%89%87)
-1. [邓超OUT Man](https://www.douyin.com/search/%E9%82%93%E8%B6%85OUT%20Man)
-1. [从来生死都看淡改编挑战](https://www.douyin.com/search/%E4%BB%8E%E6%9D%A5%E7%94%9F%E6%AD%BB%E9%83%BD%E7%9C%8B%E6%B7%A1%E6%94%B9%E7%BC%96%E6%8C%91%E6%88%98)
-1. [一口气看懂哪吒起源和演变](https://www.douyin.com/search/%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%87%82%E5%93%AA%E5%90%92%E8%B5%B7%E6%BA%90%E5%92%8C%E6%BC%94%E5%8F%98)
+1. [演员3问谁整容只有刘梓晨站起来](https://www.douyin.com/search/%E6%BC%94%E5%91%983%E9%97%AE%E8%B0%81%E6%95%B4%E5%AE%B9%E5%8F%AA%E6%9C%89%E5%88%98%E6%A2%93%E6%99%A8%E7%AB%99%E8%B5%B7%E6%9D%A5)
+1. [王鹤棣：湖人交易完心态有点崩](https://www.douyin.com/search/%E7%8E%8B%E9%B9%A4%E6%A3%A3%EF%BC%9A%E6%B9%96%E4%BA%BA%E4%BA%A4%E6%98%93%E5%AE%8C%E5%BF%83%E6%80%81%E6%9C%89%E7%82%B9%E5%B4%A9)
+1. [邓佳鑫唱了推开世界的门](https://www.douyin.com/search/%E9%82%93%E4%BD%B3%E9%91%AB%E5%94%B1%E4%BA%86%E6%8E%A8%E5%BC%80%E4%B8%96%E7%95%8C%E7%9A%84%E9%97%A8)
+1. [旅游博主吴磊上线了](https://www.douyin.com/search/%E6%97%85%E6%B8%B8%E5%8D%9A%E4%B8%BB%E5%90%B4%E7%A3%8A%E4%B8%8A%E7%BA%BF%E4%BA%86)
+1. [辣妹子小匪与老公官宣离婚](https://www.douyin.com/search/%E8%BE%A3%E5%A6%B9%E5%AD%90%E5%B0%8F%E5%8C%AA%E4%B8%8E%E8%80%81%E5%85%AC%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A)
+1. [陈紫函戴向宇cos敖闰敖光](https://www.douyin.com/search/%E9%99%88%E7%B4%AB%E5%87%BD%E6%88%B4%E5%90%91%E5%AE%87cos%E6%95%96%E9%97%B0%E6%95%96%E5%85%89)
+1. [郭富城声生不息连跳三首](https://www.douyin.com/search/%E9%83%AD%E5%AF%8C%E5%9F%8E%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E8%BF%9E%E8%B7%B3%E4%B8%89%E9%A6%96)
+1. [胡先煦坦言正在丧失表达欲](https://www.douyin.com/search/%E8%83%A1%E5%85%88%E7%85%A6%E5%9D%A6%E8%A8%80%E6%AD%A3%E5%9C%A8%E4%B8%A7%E5%A4%B1%E8%A1%A8%E8%BE%BE%E6%AC%B2)
+1. [谁教ENHYPEN青花瓷后踢腿的](https://www.douyin.com/search/%E8%B0%81%E6%95%99ENHYPEN%E9%9D%92%E8%8A%B1%E7%93%B7%E5%90%8E%E8%B8%A2%E8%85%BF%E7%9A%84)
+1. [测评一下金智秀的SOLO2](https://www.douyin.com/search/%E6%B5%8B%E8%AF%84%E4%B8%80%E4%B8%8B%E9%87%91%E6%99%BA%E7%A7%80%E7%9A%84SOLO2)
 1. [earthquake舞蹈挑战](https://www.douyin.com/search/earthquake%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98)
-1. [外国演员评价哪吒2](https://www.douyin.com/search/%E5%A4%96%E5%9B%BD%E6%BC%94%E5%91%98%E8%AF%84%E4%BB%B7%E5%93%AA%E5%90%922)
-1. [申公豹全民演绎挑战](https://www.douyin.com/search/%E7%94%B3%E5%85%AC%E8%B1%B9%E5%85%A8%E6%B0%91%E6%BC%94%E7%BB%8E%E6%8C%91%E6%88%98)
+1. [拟音师用破烂还原哪吒音效](https://www.douyin.com/search/%E6%8B%9F%E9%9F%B3%E5%B8%88%E7%94%A8%E7%A0%B4%E7%83%82%E8%BF%98%E5%8E%9F%E5%93%AA%E5%90%92%E9%9F%B3%E6%95%88)
+1. [邓超OUT Man](https://www.douyin.com/search/%E9%82%93%E8%B6%85OUT%20Man)
+1. [一口气看懂哪吒起源和演变](https://www.douyin.com/search/%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%87%82%E5%93%AA%E5%90%92%E8%B5%B7%E6%BA%90%E5%92%8C%E6%BC%94%E5%8F%98)
 
 ## 明星榜
 
@@ -77,9 +77,9 @@
 
 1. [没有如果（热恋版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4iETqbxIThtCXlBeV0DfAhZsbCFGhagYupnMx) - 大表哥Sophie、迦勒
 1. [少年时 (少年时快乐来的太容易)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oM3aqeIqMA4zGllMG0eIF3CgQD1LIWWeO3b40B) - 房东的猫
-1. [Love in the Dark（Phonk House）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIVPxCfsCoYJAJZmt0g8QmFElce9InjXDqAyBR) - 7ovey/uuml
-1. [爆竹声声一岁除(2025新年版)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogeekoMkrSGH6OoIc7LfpQKfMkFWYAKfdINA1V) - 陆毅 / 鲍蕾 / 陆雨萱（贝儿）/ 陆雨菡（小叶子）
-1. [红蔷薇白玫瑰 (副歌)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeiDfeyaEFgM7bXBJMAFCXFInztFks3JDWhx9) - G.E.M.邓紫棋
+1. [Love in the Dark（Phonk House）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIVPxCfsCoYJAJZmt0g8QmFElce9InjXDqAyBR) - 7ovey/uuml
+1. [爆竹声声一岁除(2025新年版)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogeekoMkrSGH6OoIc7LfpQKfMkFWYAKfdINA1V) - 陆毅 / 鲍蕾 / 陆雨萱（贝儿）/ 陆雨菡（小叶子）
+1. [红蔷薇白玫瑰 (副歌)](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oIeiDfeyaEFgM7bXBJMAFCXFInztFks3JDWhx9) - G.E.M.邓紫棋
 1. [总有美好在路上(花在开云在飘笑容在脸上)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oU5u7NwtfBIvaNhoQBszOvAlRiAoiWAVVyBMq4) - 周深
 1. [彩虹 （副歌剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/66e0979fd8cb445a8a1813a9277d4696) - TimeZ
 1. [迷失driftaway(Edit)（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogaa1xGNeFO6FCaMgO8PzzAceEI4fBLDMi15H3) - 喪甜老爹&今日网抑
@@ -89,8 +89,8 @@
 1. [你离开的事实（donk进行曲片段2）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYbTglI7EAnwfnMsTI75eUbV4bPGeLkePQafur) - DJ科目三
 1. [房间•2025（在这温暖的房间）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oMzJcnT8BgIetASeBfwfEeBQVNfACiCifhfZP7g) - 刘兆宇/覆予
 1. [More of My Time (Lofi)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYExObgmbCQ1vXsegnZjJ6BAaDBQetNiGLEo7a) - Muspace Lofi
-1. [芒种（DJ筱轩版）-片段](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
-1. [Rainforest Flow（剪辑版）](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o82ZpjE8IjV4PcDft5nvUtgQDfCyFAMO7BbniY) - Blue浪仔
+1. [芒种（DJ筱轩版）-片段](https://sf3-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooJsZrIeBfMQ0z1n24wO3g6Ged9W0YffmogAVE) - DJ筱轩
+1. [Rainforest Flow（剪辑版）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o82ZpjE8IjV4PcDft5nvUtgQDfCyFAMO7BbniY) - Blue浪仔
 1. [只你(直到幸福能触手可及)](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0lBkRDzFTeaVSUz3ZZSCBVtZ5DIMQGfgmEAuE) - 颜人中
 1. [小美满（电影《热辣滚烫》热辣陪伴曲）](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0GAn2lSgfZIDUgtevCGDQYnFg4CwnrBaxbTZL) - 周深
 1. [Panic](https://sf5-hl-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAmDmzQbIEdf8xCAjOntKDYBCMvBN5RfgCWF4Z) - elzio
