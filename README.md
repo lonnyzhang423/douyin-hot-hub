@@ -11,60 +11,58 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-02 05:37:19 +0800`
+`更新时间：2026-10-02 09:21:50 +0800`
 
 ## 抖音热榜
 
-1. [国庆节文案](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E8%8A%82%E6%96%87%E6%A1%88)
-1. [国庆节快乐](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E8%8A%82%E5%BF%AB%E4%B9%90)
-1. [一起祝新中国生日快乐](https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E7%A5%9D%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90)
-1. [小孩姐陈妤颉携三金一银来了](https://www.douyin.com/search/%E5%B0%8F%E5%AD%A9%E5%A7%90%E9%99%88%E5%A6%A4%E9%A2%89%E6%90%BA%E4%B8%89%E9%87%91%E4%B8%80%E9%93%B6%E6%9D%A5%E4%BA%86)
-1. [国庆一起合唱我和我的祖国](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%B8%80%E8%B5%B7%E5%90%88%E5%94%B1%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD)
-1. [国庆大军已抵达全世界](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%A4%A7%E5%86%9B%E5%B7%B2%E6%8A%B5%E8%BE%BE%E5%85%A8%E4%B8%96%E7%95%8C)
-1. [天安门广场国庆升旗仪式](https://www.douyin.com/search/%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F)
-1. [假期一起holymoly](https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E4%B8%80%E8%B5%B7holymoly)
-1. [C罗莱奥同为葡萄牙队7号](https://www.douyin.com/search/C%E7%BD%97%E8%8E%B1%E5%A5%A5%E5%90%8C%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F7%E5%8F%B7)
-1. [金牌进行曲迎来了陈芋汐](https://www.douyin.com/search/%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E8%BF%8E%E6%9D%A5%E4%BA%86%E9%99%88%E8%8A%8B%E6%B1%90)
-1. [十一假期就看现发4先导片](https://www.douyin.com/search/%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E5%B0%B1%E7%9C%8B%E7%8E%B0%E5%8F%914%E5%85%88%E5%AF%BC%E7%89%87)
-1. [晒出你的武汉国庆烟花大片](https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E6%AD%A6%E6%B1%89%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E5%A4%A7%E7%89%87)
-1. [本周谣言鉴别](https://www.douyin.com/search/%E6%9C%AC%E5%91%A8%E8%B0%A3%E8%A8%80%E9%89%B4%E5%88%AB)
-1. [C罗宣布离开国家队集训营](https://www.douyin.com/search/C%E7%BD%97%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E8%90%A5)
-1. [第五人格中国队启动金牌进行曲了](https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%AF%E5%8A%A8%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BA%86)
-1. [用书法为祖国送上祝福](https://www.douyin.com/search/%E7%94%A8%E4%B9%A6%E6%B3%95%E4%B8%BA%E7%A5%96%E5%9B%BD%E9%80%81%E4%B8%8A%E7%A5%9D%E7%A6%8F)
-1. [华为Mate90定价5999起](https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate90%E5%AE%9A%E4%BB%B75999%E8%B5%B7)
-1. [长长长假给祖国整点新技艺](https://www.douyin.com/search/%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87%E7%BB%99%E7%A5%96%E5%9B%BD%E6%95%B4%E7%82%B9%E6%96%B0%E6%8A%80%E8%89%BA)
 1. [中国人能飞](https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E)
-1. [余红旧事罗子君的富婆后半生](https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E7%BD%97%E5%AD%90%E5%90%9B%E7%9A%84%E5%AF%8C%E5%A9%86%E5%90%8E%E5%8D%8A%E7%94%9F)
-1. [周深在大地指纹与万人合唱](https://www.douyin.com/search/%E5%91%A8%E6%B7%B1%E5%9C%A8%E5%A4%A7%E5%9C%B0%E6%8C%87%E7%BA%B9%E4%B8%8E%E4%B8%87%E4%BA%BA%E5%90%88%E5%94%B1)
-1. [赶集才是国庆的打开方式](https://www.douyin.com/search/%E8%B5%B6%E9%9B%86%E6%89%8D%E6%98%AF%E5%9B%BD%E5%BA%86%E7%9A%84%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F)
-1. [在贵州用万疆唱出山河回响](https://www.douyin.com/search/%E5%9C%A8%E8%B4%B5%E5%B7%9E%E7%94%A8%E4%B8%87%E7%96%86%E5%94%B1%E5%87%BA%E5%B1%B1%E6%B2%B3%E5%9B%9E%E5%93%8D)
-1. [国庆接力合唱我爱你中国](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%8E%A5%E5%8A%9B%E5%90%88%E5%94%B1%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD)
-1. [陈伯狙击赛S6决战之夜](https://www.douyin.com/search/%E9%99%88%E4%BC%AF%E7%8B%99%E5%87%BB%E8%B5%9BS6%E5%86%B3%E6%88%98%E4%B9%8B%E5%A4%9C)
-1. [电影什么意思夫妇喜剧人团建](https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E5%96%9C%E5%89%A7%E4%BA%BA%E5%9B%A2%E5%BB%BA)
-1. [国庆仪式感从看升旗开始](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%BB%AA%E5%BC%8F%E6%84%9F%E4%BB%8E%E7%9C%8B%E5%8D%87%E6%97%97%E5%BC%80%E5%A7%8B)
-1. [总要我看着你的眼睛说](https://www.douyin.com/search/%E6%80%BB%E8%A6%81%E6%88%91%E7%9C%8B%E7%9D%80%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%AF%B4)
-1. [全网进入不烧心时代](https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%BF%9B%E5%85%A5%E4%B8%8D%E7%83%A7%E5%BF%83%E6%97%B6%E4%BB%A3)
-1. [北约回应俄罗斯核警告](https://www.douyin.com/search/%E5%8C%97%E7%BA%A6%E5%9B%9E%E5%BA%94%E4%BF%84%E7%BD%97%E6%96%AF%E6%A0%B8%E8%AD%A6%E5%91%8A)
+1. [晒出你的武汉国庆烟花大片](https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E6%AD%A6%E6%B1%89%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E5%A4%A7%E7%89%87)
+1. [一起祝新中国生日快乐](https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E7%A5%9D%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90)
 1. [我们生在红旗下长在春风里](https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%94%9F%E5%9C%A8%E7%BA%A2%E6%97%97%E4%B8%8B%E9%95%BF%E5%9C%A8%E6%98%A5%E9%A3%8E%E9%87%8C)
-1. [天安门放飞10000多只和平鸽](https://www.douyin.com/search/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%94%BE%E9%A3%9E10000%E5%A4%9A%E5%8F%AA%E5%92%8C%E5%B9%B3%E9%B8%BD)
+1. [国庆大军已抵达全世界](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%A4%A7%E5%86%9B%E5%B7%B2%E6%8A%B5%E8%BE%BE%E5%85%A8%E4%B8%96%E7%95%8C)
+1. [国庆一起合唱我和我的祖国](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%B8%80%E8%B5%B7%E5%90%88%E5%94%B1%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD)
+1. [假期一起holymoly](https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E4%B8%80%E8%B5%B7holymoly)
 1. [在不同的地方歌唱祖国](https://www.douyin.com/search/%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9C%B0%E6%96%B9%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD)
-1. [用中国红定格国庆仪式感](https://www.douyin.com/search/%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%AE%9A%E6%A0%BC%E5%9B%BD%E5%BA%86%E4%BB%AA%E5%BC%8F%E6%84%9F)
-1. [今天是你的生日我的祖国](https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD)
-1. [恭喜桃晚安](https://www.douyin.com/search/%E6%81%AD%E5%96%9C%E6%A1%83%E6%99%9A%E5%AE%89)
-1. [用中国人能飞献礼国庆](https://www.douyin.com/search/%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%8C%AE%E7%A4%BC%E5%9B%BD%E5%BA%86)
-1. [双重叠影卡出国庆双倍氛围](https://www.douyin.com/search/%E5%8F%8C%E9%87%8D%E5%8F%A0%E5%BD%B1%E5%8D%A1%E5%87%BA%E5%9B%BD%E5%BA%86%E5%8F%8C%E5%80%8D%E6%B0%9B%E5%9B%B4)
-1. [金牌进行曲传到亚运自行车队了](https://www.douyin.com/search/%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BC%A0%E5%88%B0%E4%BA%9A%E8%BF%90%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%98%9F%E4%BA%86)
-1. [余红旧事喜剧悬疑好看](https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E5%96%9C%E5%89%A7%E6%82%AC%E7%96%91%E5%A5%BD%E7%9C%8B)
-1. [换上红装为祖国庆生](https://www.douyin.com/search/%E6%8D%A2%E4%B8%8A%E7%BA%A2%E8%A3%85%E4%B8%BA%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F)
-1. [国博打卡攻略请收好](https://www.douyin.com/search/%E5%9B%BD%E5%8D%9A%E6%89%93%E5%8D%A1%E6%94%BB%E7%95%A5%E8%AF%B7%E6%94%B6%E5%A5%BD)
-1. [电影神探之痕迹观后感](https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E8%A7%82%E5%90%8E%E6%84%9F)
-1. [骑着单车让红旗飘过祖国山河](https://www.douyin.com/search/%E9%AA%91%E7%9D%80%E5%8D%95%E8%BD%A6%E8%AE%A9%E7%BA%A2%E6%97%97%E9%A3%98%E8%BF%87%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3)
-1. [没想到神探之痕迹尺度这么大](https://www.douyin.com/search/%E6%B2%A1%E6%83%B3%E5%88%B0%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E5%B0%BA%E5%BA%A6%E8%BF%99%E4%B9%88%E5%A4%A7)
-1. [下一站十月](https://www.douyin.com/search/%E4%B8%8B%E4%B8%80%E7%AB%99%E5%8D%81%E6%9C%88)
-1. [用闪身步打开国庆假期](https://www.douyin.com/search/%E7%94%A8%E9%97%AA%E8%BA%AB%E6%AD%A5%E6%89%93%E5%BC%80%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F)
+1. [送你一百朵国庆烟花](https://www.douyin.com/search/%E9%80%81%E4%BD%A0%E4%B8%80%E7%99%BE%E6%9C%B5%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1)
+1. [十一假期就看现发4先导片](https://www.douyin.com/search/%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E5%B0%B1%E7%9C%8B%E7%8E%B0%E5%8F%914%E5%85%88%E5%AF%BC%E7%89%87)
 1. [余红旧事刘阳杀手变富婆助理](https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E5%88%98%E9%98%B3%E6%9D%80%E6%89%8B%E5%8F%98%E5%AF%8C%E5%A9%86%E5%8A%A9%E7%90%86)
+1. [本周谣言鉴别](https://www.douyin.com/search/%E6%9C%AC%E5%91%A8%E8%B0%A3%E8%A8%80%E9%89%B4%E5%88%AB)
+1. [C罗莱奥同为葡萄牙队7号](https://www.douyin.com/search/C%E7%BD%97%E8%8E%B1%E5%A5%A5%E5%90%8C%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F7%E5%8F%B7)
+1. [长长长假给祖国整点新技艺](https://www.douyin.com/search/%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87%E7%BB%99%E7%A5%96%E5%9B%BD%E6%95%B4%E7%82%B9%E6%96%B0%E6%8A%80%E8%89%BA)
+1. [赤壁之战未必有这规模](https://www.douyin.com/search/%E8%B5%A4%E5%A3%81%E4%B9%8B%E6%88%98%E6%9C%AA%E5%BF%85%E6%9C%89%E8%BF%99%E8%A7%84%E6%A8%A1)
+1. [别人的国庆假期vs我的国庆假期](https://www.douyin.com/search/%E5%88%AB%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9Fvs%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F)
+1. [我在这里给祖国庆生](https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E8%BF%99%E9%87%8C%E7%BB%99%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F)
+1. [余红旧事喜剧悬疑好看](https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E5%96%9C%E5%89%A7%E6%82%AC%E7%96%91%E5%A5%BD%E7%9C%8B)
+1. [余红旧事罗子君的富婆后半生](https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E7%BD%97%E5%AD%90%E5%90%9B%E7%9A%84%E5%AF%8C%E5%A9%86%E5%90%8E%E5%8D%8A%E7%94%9F)
+1. [电影什么意思夫妇喜剧人团建](https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E5%96%9C%E5%89%A7%E4%BA%BA%E5%9B%A2%E5%BB%BA)
+1. [赛力斯华为合作模式再生变](https://www.douyin.com/search/%E8%B5%9B%E5%8A%9B%E6%96%AF%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%E6%A8%A1%E5%BC%8F%E5%86%8D%E7%94%9F%E5%8F%98)
+1. [天安门放飞10000多只和平鸽](https://www.douyin.com/search/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%94%BE%E9%A3%9E10000%E5%A4%9A%E5%8F%AA%E5%92%8C%E5%B9%B3%E9%B8%BD)
+1. [TYL告别上海全球冠军赛](https://www.douyin.com/search/TYL%E5%91%8A%E5%88%AB%E4%B8%8A%E6%B5%B7%E5%85%A8%E7%90%83%E5%86%A0%E5%86%9B%E8%B5%9B)
+1. [国庆仪式感从看升旗开始](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%BB%AA%E5%BC%8F%E6%84%9F%E4%BB%8E%E7%9C%8B%E5%8D%87%E6%97%97%E5%BC%80%E5%A7%8B)
+1. [全网进入不烧心时代](https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%BF%9B%E5%85%A5%E4%B8%8D%E7%83%A7%E5%BF%83%E6%97%B6%E4%BB%A3)
+1. [国庆接力合唱我爱你中国](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%8E%A5%E5%8A%9B%E5%90%88%E5%94%B1%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD)
+1. [在贵州用万疆唱出山河回响](https://www.douyin.com/search/%E5%9C%A8%E8%B4%B5%E5%B7%9E%E7%94%A8%E4%B8%87%E7%96%86%E5%94%B1%E5%87%BA%E5%B1%B1%E6%B2%B3%E5%9B%9E%E5%93%8D)
+1. [北约回应俄罗斯核警告](https://www.douyin.com/search/%E5%8C%97%E7%BA%A6%E5%9B%9E%E5%BA%94%E4%BF%84%E7%BD%97%E6%96%AF%E6%A0%B8%E8%AD%A6%E5%91%8A)
+1. [总要我看着你的眼睛说](https://www.douyin.com/search/%E6%80%BB%E8%A6%81%E6%88%91%E7%9C%8B%E7%9D%80%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%AF%B4)
+1. [郑州金融岛把张杰演唱会续上了](https://www.douyin.com/search/%E9%83%91%E5%B7%9E%E9%87%91%E8%9E%8D%E5%B2%9B%E6%8A%8A%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%AD%E4%B8%8A%E4%BA%86)
+1. [用中国人能飞献礼国庆](https://www.douyin.com/search/%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%8C%AE%E7%A4%BC%E5%9B%BD%E5%BA%86)
+1. [抖音落日合唱派对国庆场开唱](https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E8%90%BD%E6%97%A5%E5%90%88%E5%94%B1%E6%B4%BE%E5%AF%B9%E5%9B%BD%E5%BA%86%E5%9C%BA%E5%BC%80%E5%94%B1)
+1. [没想到神探之痕迹尺度这么大](https://www.douyin.com/search/%E6%B2%A1%E6%83%B3%E5%88%B0%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E5%B0%BA%E5%BA%A6%E8%BF%99%E4%B9%88%E5%A4%A7)
+1. [第五人格中国队启动金牌进行曲了](https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%AF%E5%8A%A8%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BA%86)
+1. [恭喜桃晚安](https://www.douyin.com/search/%E6%81%AD%E5%96%9C%E6%A1%83%E6%99%9A%E5%AE%89)
+1. [用中国红定格国庆仪式感](https://www.douyin.com/search/%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%AE%9A%E6%A0%BC%E5%9B%BD%E5%BA%86%E4%BB%AA%E5%BC%8F%E6%84%9F)
+1. [电影神探之痕迹观后感](https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E8%A7%82%E5%90%8E%E6%84%9F)
+1. [魏大勋皮鞋一擦变叶信之](https://www.douyin.com/search/%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%AE%E9%9E%8B%E4%B8%80%E6%93%A6%E5%8F%98%E5%8F%B6%E4%BF%A1%E4%B9%8B)
+1. [骑着单车让红旗飘过祖国山河](https://www.douyin.com/search/%E9%AA%91%E7%9D%80%E5%8D%95%E8%BD%A6%E8%AE%A9%E7%BA%A2%E6%97%97%E9%A3%98%E8%BF%87%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3)
+1. [双重叠影卡出国庆双倍氛围](https://www.douyin.com/search/%E5%8F%8C%E9%87%8D%E5%8F%A0%E5%BD%B1%E5%8D%A1%E5%87%BA%E5%9B%BD%E5%BA%86%E5%8F%8C%E5%80%8D%E6%B0%9B%E5%9B%B4)
+1. [换上红装为祖国庆生](https://www.douyin.com/search/%E6%8D%A2%E4%B8%8A%E7%BA%A2%E8%A3%85%E4%B8%BA%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F)
+1. [什么意思夫妇不用多想大笑就好](https://www.douyin.com/search/%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E4%B8%8D%E7%94%A8%E5%A4%9A%E6%83%B3%E5%A4%A7%E7%AC%91%E5%B0%B1%E5%A5%BD)
+1. [罗云熙新剧养了一狗一狼](https://www.douyin.com/search/%E7%BD%97%E4%BA%91%E7%86%99%E6%96%B0%E5%89%A7%E5%85%BB%E4%BA%86%E4%B8%80%E7%8B%97%E4%B8%80%E7%8B%BC)
 1. [国庆第一条祝福送给你](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E7%AC%AC%E4%B8%80%E6%9D%A1%E7%A5%9D%E7%A6%8F%E9%80%81%E7%BB%99%E4%BD%A0)
-1. [金铲铲2026画之灵阵容攻略](https://www.douyin.com/search/%E9%87%91%E9%93%B2%E9%93%B22026%E7%94%BB%E4%B9%8B%E7%81%B5%E9%98%B5%E5%AE%B9%E6%94%BB%E7%95%A5)
+1. [现在就出发4官宣王楚然](https://www.douyin.com/search/%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914%E5%AE%98%E5%AE%A3%E7%8E%8B%E6%A5%9A%E7%84%B6)
+1. [国庆假期去哪里玩](https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%8E%BB%E5%93%AA%E9%87%8C%E7%8E%A9)
+1. [用闪身步打开国庆假期](https://www.douyin.com/search/%E7%94%A8%E9%97%AA%E8%BA%AB%E6%AD%A5%E6%89%93%E5%BC%80%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F)
+1. [纯过日子休假教程](https://www.douyin.com/search/%E7%BA%AF%E8%BF%87%E6%97%A5%E5%AD%90%E4%BC%91%E5%81%87%E6%95%99%E7%A8%8B)
 
 ## 明星榜
 
@@ -76,37 +74,37 @@
 
 ## 音乐榜
 
-1. [如果我一颗心被你俘虏](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owas4tQAGXFF0Ef5NfzNlSfgWJDyBCFYogYTYL) - 好久不见
+1. [如果我一颗心被你俘虏](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owas4tQAGXFF0Ef5NfzNlSfgWJDyBCFYogYTYL) - 好久不见
 1. [阶段性自由_安扬](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owszogDVIFCEMtBruIENaotNAf6WfZNvqORagl) - 安扬
-1. [Time is broken (宿命氛围感)（大头钉 Remix）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooYIWIarPDgQ5x0xAaoBAW9TGQlAiiaUMLBA8) - 大头钉
-1. [咏春 (氛围版)（Cover 七朵组合）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okNnekhimEs5QM9IJAi0BsRBQ7hWDAUPv9sWH8) - 图钉姐
-1. [心绪(我想要的只是你在我身边)](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og0coB8Q2ATIkBis3AGMWPFHVvWTwZf145nBiZ) - 宇宙草
-1. [You And Me](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAp3D85igPswQMhILAi0BHdBwDovCAnKf4uWBx) - Jamvana/ZEKEN
+1. [Time is broken (宿命氛围感)（大头钉 Remix）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ooYIWIarPDgQ5x0xAaoBAW9TGQlAiiaUMLBA8) - 大头钉
+1. [咏春 (氛围版)（Cover 七朵组合）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okNnekhimEs5QM9IJAi0BsRBQ7hWDAUPv9sWH8) - 图钉姐
+1. [心绪(我想要的只是你在我身边)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/og0coB8Q2ATIkBis3AGMWPFHVvWTwZf145nBiZ) - 宇宙草
+1. [You And Me](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAp3D85igPswQMhILAi0BHdBwDovCAnKf4uWBx) - Jamvana/ZEKEN
 1. [忘了算了（Cover 范怡文）（主歌）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEr1CFDrZtAeHYY1ZNEQgABCYOXgGp56ppfoIt) - 溫月月.
 1. [ditto(氛围感)](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0rCQBEmNODBZngpjJkGF5uAffDQyoMtaCIaQl) - @天子
-1. [拿下拿下（Cover 王者阿水 & 阿水）（剪辑版）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYJXbFAzsaDMrEMTyNFfBCAKDYA5JQIxzuDfaf) - 长顺
-1. [你不必是一朵花（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAoQtZUEZDefdgqYygKM9MYlICRpFqDLYNBAFB) - J.H.H
+1. [拿下拿下（Cover 王者阿水 & 阿水）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYJXbFAzsaDMrEMTyNFfBCAKDYA5JQIxzuDfaf) - 长顺
+1. [你不必是一朵花（剪辑版）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oAoQtZUEZDefdgqYygKM9MYlICRpFqDLYNBAFB) - J.H.H
 1. [几分之几（氛围r&b）（Cover 卢广仲）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4NeixD1IFCzMTBXLGEN9vtMAuLMfZWcpZPJgq) - PPR
 1. [here with me (Tove Ball Remix)](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYMDnQQ0xhuEtBBRYVBAST5CElDHAyCIegfFZQ) - Tove Ball
 1. [你很哇塞(女神节版)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocAd6jRB8tNDteeZ1YoZ9ACDTJgb0tUS2OyQun) - 夏梓薰
 1. [Scared 2 be lonely beat（当真爱降临）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/owjfz4peTBaAaEBSCCLX0yXQhjMh0NFlvA8yfg) - Yn1jasper
 1. [幸福降临（剪辑版）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUdjQypvA0tzFQHpSXYieDWva8BfEw8hCeOmMs) - 刘星宇
-1. [第一天（R&B律动版）（Cover 孙燕姿）（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgddOap5NAOBMPPZ1PraX8TWiICUiEIdQln0) - 时弦Sienn
-1. [一切都在变好（生命力BGM）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocPszeiLa1YlTvhhWVuEbAQIBPBXigOZ0Al09M) - Martins Garix
-1. [删照片 (你删了我的照片 也删了我的微信)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osKS07DqQFCQYiBVWSECe5t4AvOUfZFUpEClg6) - 李承翰（C$H）/ ND姜兆轩
-1. [Heroes 3](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0DDy2SqgNz4IPeaLGFqEQYGeA5gvaPC4oeDsX) - VZEUS
-1. [左转灯 (1000 Times+1)](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os77QI7MDoNbhBF2gEfwCLQCQFXeDoBtx4bZ8u) - 派偉俊/mac ova sea
-1. [ぎのようなときめき（兔子般的心动） 変速 ver.（剪辑版）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4bUrFVtBMyjxg2bB7iQmNsxrAfL0BgIi3QdW0) - 鱼饼吃橘子
+1. [第一天（R&B律动版）（Cover 孙燕姿）（剪辑版）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oEgddOap5NAOBMPPZ1PraX8TWiICUiEIdQln0) - 时弦Sienn
+1. [一切都在变好（生命力BGM）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocPszeiLa1YlTvhhWVuEbAQIBPBXigOZ0Al09M) - Martins Garix
+1. [删照片 (你删了我的照片 也删了我的微信)](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osKS07DqQFCQYiBVWSECe5t4AvOUfZFUpEClg6) - 李承翰（C$H）/ ND姜兆轩
+1. [Heroes 3](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o0DDy2SqgNz4IPeaLGFqEQYGeA5gvaPC4oeDsX) - VZEUS
+1. [左转灯 (1000 Times+1)](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os77QI7MDoNbhBF2gEfwCLQCQFXeDoBtx4bZ8u) - 派偉俊/mac ova sea
+1. [ぎのようなときめき（兔子般的心动） 変速 ver.（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4bUrFVtBMyjxg2bB7iQmNsxrAfL0BgIi3QdW0) - 鱼饼吃橘子
 1. [他只是经过](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8EBL0GofbonNCXbABaQ2bDweaFzrUfZX6AbdQ) - h3R3/高旭
-1. [咏春（副歌）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osUiFHCDnB6jThIFEAIO7CIftAHYf27g4ZMITL) - 梨香JZH & 口古口古
-1. [雨日思绪（雨の日の想い）（剪辑版2）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8TciQOuiBPMxgrQIWAB4hatsrMUv8K55IJ3a) - 鱼饼吃橘子
+1. [咏春（副歌）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/osUiFHCDnB6jThIFEAIO7CIftAHYf27g4ZMITL) - 梨香JZH & 口古口古
+1. [雨日思绪（雨の日の想い）（剪辑版2）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o8TciQOuiBPMxgrQIWAB4hatsrMUv8K55IJ3a) - 鱼饼吃橘子
 1. [Proof(Slowed)](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ogJ0kgE2pCAHTkFIBpFEgJDEtiCZThfYQaf0DN) - GOLD999
-1. [我欲成冰再也无退路（剪辑版）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYIWai0hQALEgiBbMfx99hHQiNDIsz75sGcBsn) - 迷雾里的幻境
+1. [我欲成冰再也无退路（剪辑版）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oYIWai0hQALEgiBbMfx99hHQiNDIsz75sGcBsn) - 迷雾里的幻境
 1. [够爱 (R&B版)（Cover 东城卫）（剪辑版）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/oUOQyWOlADepaDKNDiFtgsYEZCpQOyiftYBpFv) - 大头钉
-1. [远去的列车](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os5pDflRtEDQYlf9hgngFB8IQ2ZHCaV61BrHQE) - 四熹丸子
+1. [远去的列车](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/os5pDflRtEDQYlf9hgngFB8IQ2ZHCaV61BrHQE) - 四熹丸子
 1. [无尽幸福](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4AuPT2eDMFGnF8xCxFQNxZo3BfwoCAIEwgEtR) - 凌晨一点的莱茵猫 & 二乘
-1. [りんごなんてつまらなくないもん！（苹果才不无聊呢！）](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4aaUKIAavFFeEf8CUzZpSf7FIDZBCDMCQlT4l) - 鱼饼吃橘子
-1. [我就爱这乱七八糟的生活](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okAhFpgBnxTEtAFZd1YggmCCsBgfoUke5MnQND) - 2menG
+1. [りんごなんてつまらなくないもん！（苹果才不无聊呢！）](https://sf11-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/o4aaUKIAavFFeEf8CUzZpSf7FIDZBCDMCQlT4l) - 鱼饼吃橘子
+1. [我就爱这乱七八糟的生活](https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/okAhFpgBnxTEtAFZd1YggmCCsBgfoUke5MnQND) - 2menG
 
 ## 品牌榜
 
